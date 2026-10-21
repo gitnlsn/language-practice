@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Viva Voz</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand"><span class="logo" aria-hidden="true">◉</span> Viva Voz</div>
+      <nav class="tabs" role="tablist">
+        <button role="tab" data-view="practice">Practice</button>
+        <button role="tab" data-view="library">Saved</button>
+        <button role="tab" data-view="setup">Setup <span class="dot" id="setup-dot" hidden></span></button>
+      </nav>
+    </header>
+    <main>
+      <section id="view-practice" class="view" hidden></section>
+      <section id="view-library" class="view" hidden></section>
+      <section id="view-setup" class="view" hidden></section>
+    </main>
+    <div id="print-sheet" aria-hidden="true"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

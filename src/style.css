@@ -160,6 +160,12 @@ button[data-playing] { border-color: var(--turn); color: var(--turn); }
 }
 .chip:hover { color: var(--text); border-color: color-mix(in srgb, var(--text) 25%, var(--line)); }
 .chip.play { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); font-weight: 600; }
+.card.loading .chip.play::before {
+  content: ""; display: inline-block; width: 9px; height: 9px; margin-right: 6px; border-radius: 50%;
+  border: 2px solid currentColor; border-right-color: transparent; animation: spin 0.8s linear infinite;
+  vertical-align: -1px;
+}
+.card.speaking .chip.play { background: var(--accent-soft); border-color: var(--accent); }
 .chip[aria-pressed="true"] { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
 .chip.ghost { border-color: transparent; background: none; }
 

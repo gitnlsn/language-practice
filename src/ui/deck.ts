@@ -11,6 +11,7 @@ export class Deck {
   private cards: HTMLElement[] = [];
   private current = 0;
   private runId = 0;
+  private speakId = 0;
   onPlayAllChange?: (playing: boolean) => void;
 
   private settings: () => Settings;
@@ -41,9 +42,8 @@ export class Deck {
     this.cards = this.items.map((s, i) =>
       sentenceCard(s, i, mode, {
         play: (_, card) => {
-          this.stopAll();
           this.focus(this.cards.indexOf(card));
-          void this.speak(this.current);
+          this.toggle(this.current);
         },
         onRemove: this.onRemove,
       }),
@@ -75,17 +75,39 @@ export class Deck {
     }
   }
 
+  /** Play the card, or stop it if it is already loading/speaking. */
+  private toggle(i: number) {
+    const busy = this.cards[i]?.matches(".loading, .speaking");
+    this.stopAll();
+    if (!busy) void this.speak(i);
+  }
+
+  private setPlayState(card: HTMLElement, state: "idle" | "loading" | "speaking") {
+    card.classList.toggle("loading", state === "loading");
+    card.classList.toggle("speaking", state === "speaking");
+    const btn = card.querySelector<HTMLButtonElement>(".play");
+    if (!btn) return;
+    btn.textContent = state === "loading" ? "Loading…" : state === "speaking" ? "■ Stop" : "▶ Listen";
+    btn.setAttribute("aria-busy", String(state === "loading"));
+  }
+
   private async speak(i: number) {
     const item = this.items[i];
     if (!item) return;
     const s = this.settings();
     const card = this.cards[i];
-    card.classList.add("speaking");
+    const id = ++this.speakId;
+    this.setPlayState(card, "loading");
     this.prefetch(i + 1);
     try {
-      await speaker.speak(item.text, item.target, { engine: s.engine, voice: s.voices[item.target], speed: s.speed });
+      await speaker.speak(item.text, item.target, {
+        engine: s.engine,
+        voice: s.voices[item.target],
+        speed: s.speed,
+        onStart: () => id === this.speakId && this.setPlayState(card, "speaking"),
+      });
     } finally {
-      card.classList.remove("speaking");
+      if (id === this.speakId) this.setPlayState(card, "idle");
     }
   }
 
@@ -109,7 +131,11 @@ export class Deck {
   stopAll() {
     if (this.runId) this.onPlayAllChange?.(false);
     this.runId++;
-    this.cards.forEach((c) => c.classList.remove("your-turn"));
+    this.speakId++;
+    this.cards.forEach((c) => {
+      c.classList.remove("your-turn");
+      this.setPlayState(c, "idle");
+    });
     speaker.stop();
   }
 
@@ -120,8 +146,7 @@ export class Deck {
     switch (e.key) {
       case " ":
         if (e.target instanceof HTMLButtonElement) return false;
-        this.stopAll();
-        void this.speak(this.current);
+        this.toggle(this.current);
         return true;
       case "ArrowDown":
       case "ArrowRight":

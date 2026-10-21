@@ -19,6 +19,8 @@ class Speaker {
   private cache = new Map<string, Promise<AudioBuffer>>();
   private ctx: AudioContext | null = null;
   private current: AudioBufferSourceNode | null = null;
+  /** Bumped on every stop; a speak whose synthesis finishes after a newer stop/speak is dropped. */
+  private gen = 0;
   private listeners = new Set<Listener>();
   state: KokoroState = { status: "idle" };
 
@@ -93,17 +95,29 @@ class Speaker {
     return p;
   }
 
-  /** Speak and resolve when playback ends. Falls back to the system voice if Kokoro fails. */
-  async speak(text: string, lang: string, opts: { engine: Engine; voice: string; speed: number }): Promise<void> {
+  /**
+   * Speak and resolve when playback ends (or is superseded by another speak/stop).
+   * `onStart` fires when audio actually begins. Falls back to the system voice if Kokoro fails.
+   */
+  async speak(
+    text: string,
+    lang: string,
+    opts: { engine: Engine; voice: string; speed: number; onStart?: () => void },
+  ): Promise<void> {
     this.stop();
+    const gen = this.gen;
     if (opts.engine === "kokoro") {
       try {
         const buf = await this.synth(text, lang, opts.voice, opts.speed);
+        if (gen !== this.gen) return;
+        opts.onStart?.();
         return await this.play(buf);
       } catch (err) {
+        if (gen !== this.gen) return;
         console.warn("Kokoro failed, using system voice", err);
       }
     }
+    opts.onStart?.();
     return this.speakSystem(text, lang, opts.speed);
   }
 
@@ -136,6 +150,7 @@ class Speaker {
   }
 
   stop() {
+    this.gen++;
     try {
       this.current?.stop();
     } catch {

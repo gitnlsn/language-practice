@@ -1,0 +1,36 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'com.vivavoz'
+version = '1.0.0'
+
+android {
+  namespace "expo.modules.nativeengine"
+  defaultConfig {
+    versionCode 1
+    versionName "1.0.0"
+    externalNativeBuild {
+      cmake {
+        cppFlags ""
+        arguments "-DANDROID_STL=none"
+      }
+    }
+  }
+  externalNativeBuild {
+    cmake {
+      path "src/main/cpp/CMakeLists.txt"
+    }
+  }
+  // The weights fetched by scripts/fetch-native-deps.sh ship inside the APK; nothing is downloaded at runtime.
+  sourceSets {
+    main {
+      assets.srcDirs += ["${projectDir}/../../../assets/models"]
+    }
+  }
+}
+
+dependencies {
+  implementation 'com.facebook.react:react-android'
+}

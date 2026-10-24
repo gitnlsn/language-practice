@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Viva Voz",
+    "slug": "viva-voz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.vivavoz.app"
+    },
+    "platforms": [
+      "android"
+    ],
+    "plugins": [
+      "onnxruntime-react-native",
+      "react-native-audio-api",
+      "expo-asset",
+      "llama.rn",
+      "./plugins/withModelAssets",
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "scheme": "vivavoz"
+  }
+}

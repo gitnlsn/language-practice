@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "npm run dev -w apps/web",
     "build": "npm run build -w apps/web",
+    "android": "npm run android -w apps/mobile",
+    "build:android": "npm run build:release -w apps/mobile",
     "postinstall": "patch-package"
   },
   "devDependencies": {

@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "Viva Voz",
-    "slug": "viva-voz",
+    "name": "Eco",
+    "slug": "eco",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#F6F3EE",
         "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
@@ -26,8 +25,20 @@
       "llama.rn",
       "./plugins/withModelAssets",
       "expo-router",
-      "expo-sqlite"
+      "expo-sqlite",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 180,
+          "resizeMode": "contain",
+          "backgroundColor": "#F6F3EE",
+          "dark": {
+            "backgroundColor": "#161514"
+          }
+        }
+      ]
     ],
-    "scheme": "vivavoz"
+    "scheme": "eco"
   }
 }

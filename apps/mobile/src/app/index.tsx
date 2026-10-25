@@ -59,7 +59,7 @@ export default function Practice() {
   const header = (
     <View style={styles.header}>
       <ScreenHeader
-        title="Viva Voz"
+        title="Eco"
         right={
           deck.length > 0 || busy ? (
             <Pressable

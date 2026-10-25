@@ -10,7 +10,8 @@
     "build": "npm run build -w apps/web",
     "android": "npm run android -w apps/mobile",
     "build:android": "npm run build:release -w apps/mobile",
-    "postinstall": "patch-package"
+    "postinstall": "patch-package",
+    "build:aab": "npm run build:aab -w apps/mobile"
   },
   "devDependencies": {
     "patch-package": "^8.0.1"

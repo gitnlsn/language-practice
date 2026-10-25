@@ -13,7 +13,11 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.vivavoz.app"
+      "package": "com.vivavoz.app",
+      "permissions": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+      ]
     },
     "platforms": [
       "android"
@@ -39,6 +43,16 @@
         }
       ]
     ],
-    "scheme": "eco"
+    "scheme": "eco",
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "32471a4b-fa0f-46a9-93ef-859fab0940e5"
+      }
+    }
   }
 }

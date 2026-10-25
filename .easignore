@@ -1,0 +1,49 @@
+# EAS Build copies the repo with these rules instead of every .gitignore (see the EAS docs on .easignore).
+# Same as .gitignore + apps/mobile/.gitignore, except that the git-ignored native inputs fetched by
+# apps/mobile/scripts/fetch-native-deps.sh ARE included: the eSpeak NG source and the bundled models.
+
+# --- from .gitignore
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+node_modules
+dist
+dist-ssr
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- from apps/mobile/.gitignore
+apps/mobile/.expo/
+apps/mobile/web-build/
+apps/mobile/expo-env.d.ts
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.metro-health-check*
+*.pem
+.env*.local
+*.tsbuildinfo
+apps/mobile/ios
+apps/mobile/android
+apps/mobile/modules/*/android/build/
+apps/mobile/modules/*/android/.cxx/
+
+# Included on purpose (git-ignored, fetched locally): apps/mobile/assets/models/ and
+# apps/mobile/modules/native-engine/vendor/ — minus eSpeak's host build, which only produced the models.
+apps/mobile/modules/native-engine/vendor/espeak-ng/build-host/

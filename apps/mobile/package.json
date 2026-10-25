@@ -37,7 +37,9 @@
     "build:debug": "expo prebuild -p android && cd android && JAVA_HOME=$(/usr/libexec/java_home -v 21) ./gradlew app:assembleDebug",
     "build:release": "expo prebuild -p android && cd android && JAVA_HOME=$(/usr/libexec/java_home -v 21) ./gradlew app:assembleRelease",
     "typecheck": "tsc --noEmit",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "eas-build-post-install": "./scripts/fetch-native-deps.sh",
+    "build:aab": "JAVA_HOME=$(/usr/libexec/java_home -v 21) eas build -p android --profile production --local"
   },
   "private": true
 }

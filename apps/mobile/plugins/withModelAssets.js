@@ -12,11 +12,21 @@ module.exports = function withModelAssets(config) {
     }
     return c;
   });
-  // Every phone this targets (and the arm64 emulator) is arm64; skip the other ABIs.
   return withGradleProperties(config, (c) => {
-    const p = c.modResults.find((x) => x.type === "property" && x.key === "reactNativeArchitectures");
-    if (p) p.value = "arm64-v8a";
-    else c.modResults.push({ type: "property", key: "reactNativeArchitectures", value: "arm64-v8a" });
+    const set = (key, value) => {
+      const p = c.modResults.find((x) => x.type === "property" && x.key === key);
+      if (p) p.value = value;
+      else c.modResults.push({ type: "property", key, value });
+    };
+    // Every phone this targets (and the arm64 emulator) is arm64; skip the other ABIs.
+    set("reactNativeArchitectures", "arm64-v8a");
+    // Memory: a from-scratch build (as EAS does) compiles every native module; with Gradle's defaults that went past
+    // 20 GB on an 8 GB Mac. Build one module at a time with two workers, and cap the Gradle and Kotlin heaps.
+    // 3 GB still leaves room for packaging and signing the ~1.4 GB bundle (2 GB failed intermittently).
+    set("org.gradle.jvmargs", "-Xmx3072m -XX:MaxMetaspaceSize=768m");
+    set("kotlin.daemon.jvmargs", "-Xmx1536m");
+    set("org.gradle.parallel", "false");
+    set("org.gradle.workers.max", "2");
     return c;
   });
 };

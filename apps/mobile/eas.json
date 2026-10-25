@@ -12,7 +12,10 @@
       "distribution": "internal"
     },
     "production": {
-      "autoIncrement": true
+      "autoIncrement": true,
+      "env": {
+        "ECO_ASSET_PACKS": "1"
+      }
     }
   },
   "submit": {

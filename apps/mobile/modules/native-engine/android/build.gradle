@@ -23,10 +23,14 @@ android {
       path "src/main/cpp/CMakeLists.txt"
     }
   }
-  // The weights fetched by scripts/fetch-native-deps.sh ship inside the APK; nothing is downloaded at runtime.
-  sourceSets {
-    main {
-      assets.srcDirs += ["${projectDir}/../../../assets/models"]
+  // The weights fetched by scripts/fetch-native-deps.sh ship inside the app; nothing is downloaded at runtime.
+  // Play Store bundles (ECO_ASSET_PACKS=1) carry them in install-time asset packs instead of the base module
+  // (plugins/withModelAssetPacks.js), which Play caps at 500 MB.
+  if (System.getenv("ECO_ASSET_PACKS") != "1") {
+    sourceSets {
+      main {
+        assets.srcDirs += ["${projectDir}/../../../assets/models"]
+      }
     }
   }
 }

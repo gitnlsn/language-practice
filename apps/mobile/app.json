@@ -28,6 +28,7 @@
       "expo-asset",
       "llama.rn",
       "./plugins/withModelAssets",
+      "./plugins/withModelAssetPacks",
       "expo-router",
       "expo-sqlite",
       [

@@ -38,8 +38,9 @@
     "build:release": "expo prebuild -p android && cd android && JAVA_HOME=$(/usr/libexec/java_home -v 21) ./gradlew app:assembleRelease",
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",
-    "eas-build-post-install": "./scripts/fetch-native-deps.sh",
-    "build:aab": "JAVA_HOME=$(/usr/libexec/java_home -v 21) eas build -p android --profile production --local"
+    "eas-build-post-install": "./scripts/eas-post-install.sh",
+    "build:aab": "JAVA_HOME=$(/usr/libexec/java_home -v 21) eas build -p android --profile production --local",
+    "build:bundle": "ECO_ASSET_PACKS=1 expo prebuild -p android --clean && cd android && ECO_ASSET_PACKS=1 JAVA_HOME=$(/usr/libexec/java_home -v 21) ./gradlew app:bundleRelease"
   },
   "private": true
 }

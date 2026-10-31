@@ -1,0 +1,2426 @@
+{
+  "ordering at a café or restaurant": [
+    {
+      "text": "¿Podría traernos la carta de vinos mientras decidimos qué vamos a pedir de primero?",
+      "en": "Could you bring us the wine list while we decide what to order as a starter?",
+      "pt": "Você poderia nos trazer a carta de vinhos enquanto decidimos o que vamos pedir de entrada?"
+    },
+    {
+      "text": "Si no le importa, preferiría que la carne estuviera un poco más hecha.",
+      "en": "If you don't mind, I'd prefer the meat to be a bit more well done.",
+      "pt": "Se não se importa, eu preferiria que a carne estivesse um pouco mais bem passada."
+    },
+    {
+      "text": "Mi hermana es celíaca, así que necesitamos saber qué platos no llevan gluten.",
+      "en": "My sister is coeliac, so we need to know which dishes are gluten-free.",
+      "pt": "Minha irmã é celíaca, então precisamos saber quais pratos não têm glúten."
+    },
+    {
+      "text": "Reservamos una mesa para seis a nombre de Laura, pero llegaremos un poco tarde.",
+      "en": "We booked a table for six under Laura's name, but we'll arrive a bit late.",
+      "pt": "Reservamos uma mesa para seis no nome da Laura, mas vamos chegar um pouco atrasados."
+    },
+    {
+      "text": "¿Qué nos recomienda usted que pidamos si es la primera vez que venimos?",
+      "en": "What do you recommend we order if it's our first time here?",
+      "pt": "O que o senhor recomenda que a gente peça, já que é a primeira vez que viemos aqui?"
+    },
+    {
+      "text": "El camarero nos aconsejó que probáramos el pulpo, y la verdad es que acertó.",
+      "en": "The waiter advised us to try the octopus, and he was absolutely right.",
+      "pt": "O garçom nos aconselhou a provar o polvo, e a verdade é que ele acertou."
+    },
+    {
+      "text": "Perdone, creo que se han equivocado con la cuenta, porque nosotros no pedimos postre.",
+      "en": "Excuse me, I think there's a mistake on the bill, because we didn't order dessert.",
+      "pt": "Com licença, acho que houve um erro na conta, porque nós não pedimos sobremesa."
+    },
+    {
+      "text": "¿Les importaría que nos sentáramos en la terraza aunque haga un poco de fresco?",
+      "en": "Would you mind if we sat on the terrace even though it's a bit chilly?",
+      "pt": "Vocês se importariam se nos sentássemos no terraço, mesmo que esteja um pouco frio?"
+    },
+    {
+      "text": "Yo tomaré el menú del día, pero sin el flan, que estoy intentando cuidarme.",
+      "en": "I'll have the set menu, but without the flan, as I'm trying to watch what I eat.",
+      "pt": "Vou pedir o prato do dia, mas sem o pudim, porque estou tentando me cuidar."
+    },
+    {
+      "text": "Cuando venga el camarero, pídele que nos traiga más pan y una jarra de agua.",
+      "en": "When the waiter comes, ask him to bring us more bread and a jug of water.",
+      "pt": "Quando o garçom vier, peça para ele nos trazer mais pão e uma jarra de água."
+    },
+    {
+      "text": "Me extraña que el café tarde tanto, porque normalmente aquí te atienden enseguida.",
+      "en": "I'm surprised the coffee is taking so long, because they usually serve you straight away here.",
+      "pt": "Estranho o café demorar tanto, porque normalmente aqui eles atendem na hora."
+    },
+    {
+      "text": "¿Sería posible cambiar las patatas fritas por una ensalada sin que nos cobren más?",
+      "en": "Would it be possible to swap the chips for a salad without being charged extra?",
+      "pt": "Seria possível trocar as batatas fritas por uma salada sem cobrar a mais?"
+    },
+    {
+      "text": "No hace falta que nos traigan los cafés todavía; estamos esperando a que llegue Javier.",
+      "en": "There's no need to bring the coffees yet; we're waiting for Javier to arrive.",
+      "pt": "Não precisa trazer os cafés ainda; estamos esperando o Javier chegar."
+    },
+    {
+      "text": "Este restaurante siempre está lleno, así que conviene reservar con una semana de antelación.",
+      "en": "This restaurant is always full, so it's best to book a week in advance.",
+      "pt": "Este restaurante está sempre cheio, então é melhor reservar com uma semana de antecedência."
+    },
+    {
+      "text": "Ojalá tuvieran opciones veganas, porque a mi pareja le cuesta encontrar algo en la carta.",
+      "en": "I wish they had vegan options, because my partner struggles to find anything on the menu.",
+      "pt": "Quem dera tivessem opções veganas, porque meu parceiro tem dificuldade de encontrar algo no cardápio."
+    },
+    {
+      "text": "¿Me pone un cortado con leche de avena y una tostada con tomate, por favor?",
+      "en": "Could I have a cortado with oat milk and toast with tomato, please?",
+      "pt": "Pode me ver um cortado com leite de aveia e uma torrada com tomate, por favor?"
+    },
+    {
+      "text": "Les recomiendo que dejen sitio para el postre, porque la tarta de queso es espectacular.",
+      "en": "I recommend you leave room for dessert, because the cheesecake is amazing.",
+      "pt": "Recomendo que vocês deixem espaço para a sobremesa, porque a torta de queijo é espetacular."
+    },
+    {
+      "text": "¿Pagamos a medias, o prefieres que cada uno pague lo suyo?",
+      "en": "Shall we split it down the middle, or would you rather we each pay for our own?",
+      "pt": "Vamos dividir meio a meio, ou você prefere que cada um pague o seu?"
+    },
+    {
+      "text": "Aunque el local es pequeño, la comida está buenísima y los precios son bastante razonables.",
+      "en": "Although the place is small, the food is delicious and the prices are quite reasonable.",
+      "pt": "Embora o lugar seja pequeno, a comida é ótima e os preços são bem razoáveis."
+    },
+    {
+      "text": "Disculpe, este plato está frío; ¿podría calentarlo un poco más, por favor?",
+      "en": "Excuse me, this dish is cold; could you heat it up a little more, please?",
+      "pt": "Com licença, este prato está frio; poderia esquentar um pouco mais, por favor?"
+    },
+    {
+      "text": "Si hubiéramos llegado antes, no habríamos tenido que esperar media hora en la barra.",
+      "en": "If we'd arrived earlier, we wouldn't have had to wait half an hour at the bar.",
+      "pt": "Se tivéssemos chegado antes, não teríamos precisado esperar meia hora no balcão."
+    },
+    {
+      "text": "¿Aceptan tarjeta o en este bar solo se puede pagar en efectivo?",
+      "en": "Do you take cards, or can you only pay in cash at this bar?",
+      "pt": "Vocês aceitam cartão ou neste bar só dá para pagar em dinheiro?"
+    },
+    {
+      "text": "¿Y si pedimos unas raciones para compartir y así probamos un poco de todo?",
+      "en": "How about ordering some sharing plates so we can try a bit of everything?",
+      "pt": "E se a gente pedir umas porções para dividir e assim provar um pouco de tudo?"
+    },
+    {
+      "text": "El arroz se prepara al momento, así que tendrán que esperar unos veinte minutos.",
+      "en": "The rice is made to order, so you'll have to wait about twenty minutes.",
+      "pt": "O arroz é preparado na hora, então vocês vão ter que esperar uns vinte minutos."
+    },
+    {
+      "text": "Me han dicho que en este sitio hacen las mejores croquetas de todo el barrio.",
+      "en": "I've been told this place makes the best croquettes in the whole neighbourhood.",
+      "pt": "Me disseram que este lugar faz as melhores croquetes do bairro todo."
+    },
+    {
+      "text": "¿Podría decirme qué lleva exactamente esta salsa, ya que soy alérgico a los frutos secos?",
+      "en": "Could you tell me exactly what's in this sauce, since I'm allergic to nuts?",
+      "pt": "Poderia me dizer o que exatamente vai neste molho, já que sou alérgico a castanhas?"
+    },
+    {
+      "text": "Siempre que venimos a este bar, el dueño nos invita a un chupito al final.",
+      "en": "Whenever we come to this bar, the owner treats us to a shot at the end.",
+      "pt": "Sempre que viemos a este bar, o dono nos oferece uma dose no final."
+    },
+    {
+      "text": "Preferiríamos una mesa que estuviera lejos de la puerta, porque entra mucho aire.",
+      "en": "We'd prefer a table away from the door, because there's quite a draught.",
+      "pt": "Preferiríamos uma mesa que ficasse longe da porta, porque entra muito vento."
+    },
+    {
+      "text": "No sabía que había que pedir en la barra, y llevábamos diez minutos esperando sentados.",
+      "en": "I didn't know you had to order at the bar, and we'd been sitting there waiting for ten minutes.",
+      "pt": "Eu não sabia que tinha que pedir no balcão, e já estávamos esperando sentados havia dez minutos."
+    },
+    {
+      "text": "La próxima vez que vengamos, pediremos el cordero, que tenía una pinta estupenda.",
+      "en": "Next time we come, we'll order the lamb, which looked fantastic.",
+      "pt": "Da próxima vez que viermos, vamos pedir o cordeiro, que estava com uma cara ótima."
+    },
+    {
+      "text": "¿Te importa pedirme un descafeinado de máquina mientras voy un momento al baño?",
+      "en": "Do you mind ordering me a decaf while I pop to the toilet?",
+      "pt": "Você se importa de pedir um descafeinado para mim enquanto vou rapidinho ao banheiro?"
+    },
+    {
+      "text": "Nos atendió una camarera muy simpática que nos explicó cada plato con todo detalle.",
+      "en": "We were served by a very friendly waitress who explained each dish in great detail.",
+      "pt": "Fomos atendidos por uma garçonete muito simpática que nos explicou cada prato em detalhes."
+    },
+    {
+      "text": "Es una lástima que hayan quitado el bacalao de la carta, porque era mi plato favorito.",
+      "en": "It's a pity they've taken the cod off the menu, because it was my favourite dish.",
+      "pt": "Que pena que tiraram o bacalhau do cardápio, porque era meu prato favorito."
+    },
+    {
+      "text": "Queríamos una botella de tinto de la casa y dos cervezas sin alcohol, por favor.",
+      "en": "We'd like a bottle of the house red and two alcohol-free beers, please.",
+      "pt": "Queríamos uma garrafa de vinho tinto da casa e duas cervejas sem álcool, por favor."
+    },
+    {
+      "text": "A no ser que tengáis mucha hambre, con dos platos para los cuatro tendremos suficiente.",
+      "en": "Unless you're very hungry, two dishes between the four of us will be enough.",
+      "pt": "A não ser que vocês estejam com muita fome, dois pratos para nós quatro vão ser suficientes."
+    },
+    {
+      "text": "¿Está incluido el servicio en el precio o se suele dejar propina aparte?",
+      "en": "Is service included in the price, or do people usually leave a tip separately?",
+      "pt": "O serviço está incluído no preço ou é costume deixar gorjeta à parte?"
+    },
+    {
+      "text": "En cuanto nos sentamos, nos trajeron unas aceitunas y un poco de queso de aperitivo.",
+      "en": "As soon as we sat down, they brought us some olives and a bit of cheese as an appetiser.",
+      "pt": "Assim que nos sentamos, trouxeram umas azeitonas e um pouco de queijo como aperitivo."
+    },
+    {
+      "text": "Me gustaría que me pusieran el aliño aparte, porque no me gusta demasiado vinagre.",
+      "en": "I'd like the dressing on the side, because I don't like too much vinegar.",
+      "pt": "Eu gostaria que colocassem o molho à parte, porque não gosto de muito vinagre."
+    },
+    {
+      "text": "¿Podríamos llevarnos lo que ha sobrado, que sería una pena tirar tanta comida?",
+      "en": "Could we take the leftovers with us, since it would be a shame to throw away so much food?",
+      "pt": "Podemos levar o que sobrou, já que seria uma pena jogar fora tanta comida?"
+    },
+    {
+      "text": "Por mucho que insistas, esta vez invito yo, que tú pagaste la última cena.",
+      "en": "No matter how much you insist, it's on me this time, since you paid for the last dinner.",
+      "pt": "Por mais que você insista, desta vez eu pago, porque você pagou o último jantar."
+    }
+  ],
+  "travel and directions": [
+    {
+      "text": "¿Podría indicarme cómo llegar a la estación de Atocha sin tener que coger el metro?",
+      "en": "Could you tell me how to get to Atocha station without taking the metro?",
+      "pt": "Poderia me indicar como chegar à estação de Atocha sem precisar pegar o metrô?"
+    },
+    {
+      "text": "Siga recto hasta la rotonda y, cuando vea una farmacia, gire a la izquierda.",
+      "en": "Go straight on to the roundabout and, when you see a chemist's, turn left.",
+      "pt": "Siga reto até a rotatória e, quando vir uma farmácia, vire à esquerda."
+    },
+    {
+      "text": "Si hubiera sabido que había obras en la autopista, habría salido una hora antes.",
+      "en": "If I'd known there were roadworks on the motorway, I'd have left an hour earlier.",
+      "pt": "Se eu soubesse que havia obras na rodovia, teria saído uma hora antes."
+    },
+    {
+      "text": "Nos perdimos en el casco antiguo de Toledo porque el móvil se quedó sin batería.",
+      "en": "We got lost in Toledo's old town because the phone ran out of battery.",
+      "pt": "Nós nos perdemos no centro histórico de Toledo porque o celular ficou sem bateria."
+    },
+    {
+      "text": "Te aconsejo que compres los billetes del AVE con antelación, porque salen mucho más baratos.",
+      "en": "I'd advise you to buy your high-speed train tickets in advance, because they're much cheaper.",
+      "pt": "Aconselho que você compre as passagens do trem-bala com antecedência, porque saem bem mais baratas."
+    },
+    {
+      "text": "El vuelo a Lisboa se ha retrasado dos horas por culpa de la niebla.",
+      "en": "The flight to Lisbon has been delayed two hours because of the fog.",
+      "pt": "O voo para Lisboa atrasou duas horas por causa da neblina."
+    },
+    {
+      "text": "¿Sabe usted si este autobús para cerca del museo o tengo que hacer transbordo?",
+      "en": "Do you know if this bus stops near the museum, or do I have to change?",
+      "pt": "O senhor sabe se este ônibus para perto do museu ou se tenho que fazer baldeação?"
+    },
+    {
+      "text": "Cuando lleguéis al hotel, dejad las maletas en recepción y venid directamente al restaurante.",
+      "en": "When you get to the hotel, leave your suitcases at reception and come straight to the restaurant.",
+      "pt": "Quando vocês chegarem ao hotel, deixem as malas na recepção e venham direto para o restaurante."
+    },
+    {
+      "text": "Está a unos diez minutos andando, justo detrás del ayuntamiento, así que no tiene pérdida.",
+      "en": "It's about ten minutes' walk, just behind the town hall, so you can't miss it.",
+      "pt": "Fica a uns dez minutos a pé, logo atrás da prefeitura, então não tem como errar."
+    },
+    {
+      "text": "Me sorprendió que en el aeropuerto no nos pidieran el pasaporte en ningún momento.",
+      "en": "I was surprised that at the airport they never asked us for our passports.",
+      "pt": "Fiquei surpreso que no aeroporto não pediram nosso passaporte em nenhum momento."
+    },
+    {
+      "text": "Antes de que salgamos de viaje, conviene revisar la presión de las ruedas.",
+      "en": "Before we set off, we should check the tyre pressure.",
+      "pt": "Antes de sairmos de viagem, é bom verificar a calibragem dos pneus."
+    },
+    {
+      "text": "¿Cuánto se tarda en llegar a Sevilla en coche si no hay mucho tráfico?",
+      "en": "How long does it take to get to Seville by car if there isn't much traffic?",
+      "pt": "Quanto tempo leva para chegar a Sevilha de carro se não tiver muito trânsito?"
+    },
+    {
+      "text": "Perdone, ¿me podría decir dónde está la parada más cercana del autobús nocturno?",
+      "en": "Excuse me, could you tell me where the nearest night bus stop is?",
+      "pt": "Com licença, poderia me dizer onde fica o ponto mais próximo do ônibus noturno?"
+    },
+    {
+      "text": "Aunque el hotel estaba algo lejos del centro, el transporte público funcionaba de maravilla.",
+      "en": "Although the hotel was rather far from the centre, public transport worked wonderfully.",
+      "pt": "Embora o hotel ficasse um pouco longe do centro, o transporte público funcionava muito bem."
+    },
+    {
+      "text": "Cogimos un tren regional que paraba en todos los pueblos, así que tardamos casi cuatro horas.",
+      "en": "We took a regional train that stopped at every village, so it took us almost four hours.",
+      "pt": "Pegamos um trem regional que parava em todas as cidadezinhas, então levamos quase quatro horas."
+    },
+    {
+      "text": "Lo mejor sería que alquiláramos un coche para recorrer la costa a nuestro aire.",
+      "en": "The best thing would be to rent a car and explore the coast at our own pace.",
+      "pt": "O melhor seria alugarmos um carro para percorrer o litoral do nosso jeito."
+    },
+    {
+      "text": "En cuanto pases el puente, verás un edificio azul, y mi casa es la de al lado.",
+      "en": "As soon as you cross the bridge, you'll see a blue building, and my house is the one next to it.",
+      "pt": "Assim que você passar a ponte, vai ver um prédio azul, e minha casa é a do lado."
+    },
+    {
+      "text": "¿Hay algún descuento para estudiantes si compramos el abono de transporte de diez viajes?",
+      "en": "Is there a student discount if we buy the ten-journey travel pass?",
+      "pt": "Tem algum desconto para estudantes se comprarmos o passe de transporte de dez viagens?"
+    },
+    {
+      "text": "Han cancelado el último tren a Bilbao, de modo que tendremos que buscar alojamiento aquí.",
+      "en": "They've cancelled the last train to Bilbao, so we'll have to find somewhere to stay here.",
+      "pt": "Cancelaram o último trem para Bilbao, então vamos ter que procurar hospedagem aqui."
+    },
+    {
+      "text": "Es imprescindible que lleves el DNI encima, aunque solo viajes dentro del país.",
+      "en": "It's essential that you carry your ID card, even if you're only travelling within the country.",
+      "pt": "É imprescindível que você leve a identidade, mesmo que só viaje dentro do país."
+    },
+    {
+      "text": "Llevamos media hora dando vueltas y todavía no hemos encontrado dónde aparcar.",
+      "en": "We've been driving around for half an hour and still haven't found anywhere to park.",
+      "pt": "Estamos rodando há meia hora e ainda não encontramos onde estacionar."
+    },
+    {
+      "text": "¿Me avisa cuando lleguemos a la plaza Mayor, que no conozco bien la ciudad?",
+      "en": "Will you let me know when we reach the Plaza Mayor, as I don't know the city well?",
+      "pt": "O senhor me avisa quando chegarmos à Plaza Mayor, porque não conheço bem a cidade?"
+    },
+    {
+      "text": "El año pasado hicimos el Camino de Santiago y fue una experiencia inolvidable.",
+      "en": "Last year we walked the Camino de Santiago and it was an unforgettable experience.",
+      "pt": "No ano passado fizemos o Caminho de Santiago e foi uma experiência inesquecível."
+    },
+    {
+      "text": "Si te pierdes, pregunta a cualquiera por la catedral, porque desde allí el hostal está muy cerca.",
+      "en": "If you get lost, ask anyone for the cathedral, because the hostel is very close from there.",
+      "pt": "Se você se perder, pergunte a qualquer pessoa pela catedral, porque de lá o hostel fica bem perto."
+    },
+    {
+      "text": "Por mucho que nos lo recomendaran, a mí Benidorm no me acabó de convencer.",
+      "en": "However much people recommended it to us, Benidorm didn't quite win me over.",
+      "pt": "Por mais que tivessem nos recomendado, Benidorm não chegou a me convencer."
+    },
+    {
+      "text": "Tuvimos que facturar la maleta porque pesaba tres kilos más de lo permitido.",
+      "en": "We had to check the suitcase in because it weighed three kilos over the limit.",
+      "pt": "Tivemos que despachar a mala porque pesava três quilos a mais que o permitido."
+    },
+    {
+      "text": "¿Sabes si hace falta reservar con antelación para visitar la Alhambra en agosto?",
+      "en": "Do you know if you need to book in advance to visit the Alhambra in August?",
+      "pt": "Você sabe se é preciso reservar com antecedência para visitar a Alhambra em agosto?"
+    },
+    {
+      "text": "Ten cuidado con los carteristas en el metro, sobre todo en las horas punta.",
+      "en": "Watch out for pickpockets on the metro, especially at rush hour.",
+      "pt": "Cuidado com os batedores de carteira no metrô, principalmente no horário de pico."
+    },
+    {
+      "text": "Coge la segunda salida de la rotonda y sigue las indicaciones hacia el puerto.",
+      "en": "Take the second exit at the roundabout and follow the signs to the port.",
+      "pt": "Pegue a segunda saída da rotatória e siga as placas para o porto."
+    },
+    {
+      "text": "Nada más aterrizar en Palma, alquilamos unas bicis y nos fuimos directos a la playa.",
+      "en": "As soon as we landed in Palma, we rented some bikes and headed straight to the beach.",
+      "pt": "Assim que pousamos em Palma, alugamos umas bicicletas e fomos direto para a praia."
+    },
+    {
+      "text": "No creo que lleguemos a tiempo al embarque si el taxi no aparece ya.",
+      "en": "I don't think we'll make it to boarding on time if the taxi doesn't turn up right now.",
+      "pt": "Acho que não vamos chegar a tempo para o embarque se o táxi não aparecer agora."
+    },
+    {
+      "text": "La oficina de turismo cierra a las dos, así que será mejor que vayamos por la mañana.",
+      "en": "The tourist office closes at two, so we'd better go in the morning.",
+      "pt": "O posto de informações turísticas fecha às duas, então é melhor irmos de manhã."
+    },
+    {
+      "text": "¿Qué te parece si este verano hacemos una ruta por los pueblos de Asturias?",
+      "en": "How about doing a tour of the villages of Asturias this summer?",
+      "pt": "O que você acha de fazermos um roteiro pelas cidadezinhas das Astúrias neste verão?"
+    },
+    {
+      "text": "Me encanta viajar en tren porque puedo leer tranquilamente y disfrutar del paisaje.",
+      "en": "I love travelling by train because I can read in peace and enjoy the scenery.",
+      "pt": "Adoro viajar de trem porque posso ler tranquilamente e curtir a paisagem."
+    },
+    {
+      "text": "El GPS nos mandó por un camino de tierra y acabamos en medio de un olivar.",
+      "en": "The GPS sent us down a dirt track and we ended up in the middle of an olive grove.",
+      "pt": "O GPS nos mandou por uma estrada de terra e acabamos no meio de um olival."
+    },
+    {
+      "text": "Cuando viajes a Galicia, no olvides llevar un paraguas, aunque sea pleno verano.",
+      "en": "When you travel to Galicia, don't forget to take an umbrella, even if it's the middle of summer.",
+      "pt": "Quando você viajar para a Galícia, não esqueça de levar um guarda-chuva, mesmo que seja pleno verão."
+    },
+    {
+      "text": "Dicen que la mejor manera de conocer una ciudad es perderse por sus calles.",
+      "en": "They say the best way to get to know a city is to get lost in its streets.",
+      "pt": "Dizem que a melhor maneira de conhecer uma cidade é se perder pelas suas ruas."
+    },
+    {
+      "text": "¿Podría guardarnos el equipaje hasta la tarde, ya que nuestro vuelo sale a las ocho?",
+      "en": "Could you keep our luggage until the afternoon, since our flight leaves at eight?",
+      "pt": "Poderia guardar nossa bagagem até a tarde, já que nosso voo sai às oito?"
+    },
+    {
+      "text": "Habíamos reservado una habitación con vistas al mar, pero nos dieron una que daba al aparcamiento.",
+      "en": "We'd booked a room with a sea view, but they gave us one overlooking the car park.",
+      "pt": "Tínhamos reservado um quarto com vista para o mar, mas nos deram um que dava para o estacionamento."
+    },
+    {
+      "text": "A medida que nos acercábamos a los Pirineos, la carretera se volvía cada vez más estrecha.",
+      "en": "As we got closer to the Pyrenees, the road became narrower and narrower.",
+      "pt": "À medida que nos aproximávamos dos Pireneus, a estrada ficava cada vez mais estreita."
+    }
+  ],
+  "shopping": [
+    {
+      "text": "¿Tienen esta chaqueta en una talla más grande o solo queda la del escaparate?",
+      "en": "Do you have this jacket in a bigger size, or is the one in the window the only one left?",
+      "pt": "Vocês têm esta jaqueta num tamanho maior ou só sobrou a da vitrine?"
+    },
+    {
+      "text": "Si no le queda bien, puede devolverlo en un plazo de treinta días con el tique.",
+      "en": "If it doesn't fit, you can return it within thirty days with the receipt.",
+      "pt": "Se não ficar bem, o senhor pode devolver em até trinta dias com o recibo."
+    },
+    {
+      "text": "Estaba buscando un regalo para mi madre, pero no quiero gastarme más de cincuenta euros.",
+      "en": "I was looking for a present for my mother, but I don't want to spend more than fifty euros.",
+      "pt": "Eu estava procurando um presente para minha mãe, mas não quero gastar mais de cinquenta euros."
+    },
+    {
+      "text": "En cuanto empiecen las rebajas, pienso comprarme unas botas de cuero que vi el otro día.",
+      "en": "As soon as the sales start, I'm going to buy myself some leather boots I saw the other day.",
+      "pt": "Assim que começarem as liquidações, pretendo comprar umas botas de couro que vi outro dia."
+    },
+    {
+      "text": "¿Me lo podría envolver para regalo, que es para el cumpleaños de mi sobrino?",
+      "en": "Could you gift-wrap it for me, as it's for my nephew's birthday?",
+      "pt": "Poderia embrulhar para presente, que é para o aniversário do meu sobrinho?"
+    },
+    {
+      "text": "Me arrepiento de no haber comprado ese abrigo cuando estaba de oferta.",
+      "en": "I regret not buying that coat when it was on offer.",
+      "pt": "Me arrependo de não ter comprado aquele casaco quando estava em promoção."
+    },
+    {
+      "text": "Prefiero comprar en las tiendas del barrio, aunque a veces sean un poco más caras.",
+      "en": "I prefer shopping in local shops, even if they're sometimes a bit more expensive.",
+      "pt": "Prefiro comprar nas lojas do bairro, mesmo que às vezes sejam um pouco mais caras."
+    },
+    {
+      "text": "Le recomiendo que se pruebe los dos modelos antes de decidirse, porque no tallan igual.",
+      "en": "I recommend you try on both models before deciding, because the sizes aren't the same.",
+      "pt": "Recomendo que o senhor experimente os dois modelos antes de decidir, porque a numeração não é igual."
+    },
+    {
+      "text": "Perdone, ¿dónde están los probadores, que llevo un rato buscándolos y no los encuentro?",
+      "en": "Excuse me, where are the fitting rooms, because I've been looking for a while and can't find them?",
+      "pt": "Com licença, onde ficam os provadores, que estou procurando há um tempão e não acho?"
+    },
+    {
+      "text": "Compré el móvil por internet y me llegó con la pantalla rota, así que pedí un reembolso.",
+      "en": "I bought the phone online and it arrived with a broken screen, so I asked for a refund.",
+      "pt": "Comprei o celular pela internet e ele chegou com a tela quebrada, então pedi reembolso."
+    },
+    {
+      "text": "Nos hace falta comprar leche, huevos y algo de fruta antes de que cierre el súper.",
+      "en": "We need to buy milk, eggs and some fruit before the supermarket closes.",
+      "pt": "Precisamos comprar leite, ovos e alguma fruta antes que o mercado feche."
+    },
+    {
+      "text": "Este jersey me encanta, pero el color no me favorece nada; ¿lo tienen en gris?",
+      "en": "I love this jumper, but the colour doesn't suit me at all; do you have it in grey?",
+      "pt": "Adoro este suéter, mas a cor não me favorece nada; vocês têm em cinza?"
+    },
+    {
+      "text": "Me cobraron dos veces la misma compra y tuve que llamar al banco para reclamar.",
+      "en": "They charged me twice for the same purchase and I had to call the bank to complain.",
+      "pt": "Me cobraram duas vezes pela mesma compra e tive que ligar para o banco para reclamar."
+    },
+    {
+      "text": "¿Hacen envíos a domicilio o tengo que llevarme el sofá yo mismo?",
+      "en": "Do you deliver, or do I have to take the sofa home myself?",
+      "pt": "Vocês fazem entrega em domicílio ou tenho que levar o sofá eu mesmo?"
+    },
+    {
+      "text": "Aunque estaba rebajado un cuarenta por ciento, me pareció demasiado caro para lo que era.",
+      "en": "Although it was forty per cent off, it seemed too expensive for what it was.",
+      "pt": "Embora estivesse com quarenta por cento de desconto, achei caro demais para o que era."
+    },
+    {
+      "text": "Mi marido odia ir de compras, así que siempre acabo yendo con mi hermana Lucía.",
+      "en": "My husband hates going shopping, so I always end up going with my sister Lucía.",
+      "pt": "Meu marido odeia fazer compras, então sempre acabo indo com minha irmã Lucía."
+    },
+    {
+      "text": "Busco unas zapatillas cómodas para correr que no me cuesten un ojo de la cara.",
+      "en": "I'm looking for comfortable running shoes that don't cost an arm and a leg.",
+      "pt": "Estou procurando um tênis confortável para correr que não custe os olhos da cara."
+    },
+    {
+      "text": "No me cabe en la cabeza que una camiseta tan sencilla cueste setenta euros.",
+      "en": "I can't get my head around such a plain T-shirt costing seventy euros.",
+      "pt": "Não entra na minha cabeça que uma camiseta tão simples custe setenta euros."
+    },
+    {
+      "text": "¿Podría cambiarme estos pantalones por una talla más, que me quedan un poco cortos?",
+      "en": "Could you exchange these trousers for a size up, as they're a bit short on me?",
+      "pt": "Poderia trocar estas calças por um número maior, que estão um pouco curtas em mim?"
+    },
+    {
+      "text": "Si pagas con la tarjeta de la tienda, te hacen un diez por ciento de descuento.",
+      "en": "If you pay with the store card, they give you a ten per cent discount.",
+      "pt": "Se você pagar com o cartão da loja, eles dão dez por cento de desconto."
+    },
+    {
+      "text": "Cada vez compro más por internet, aunque echo de menos el trato con los dependientes.",
+      "en": "I buy more and more online, although I miss dealing with shop assistants.",
+      "pt": "Cada vez compro mais pela internet, embora sinta falta do contato com os vendedores."
+    },
+    {
+      "text": "El mercado de los sábados es ideal para comprar verdura fresca a buen precio.",
+      "en": "The Saturday market is ideal for buying fresh vegetables at a good price.",
+      "pt": "A feira de sábado é ideal para comprar verdura fresca a um bom preço."
+    },
+    {
+      "text": "¿Le importaría guardarme este bolso hasta mañana, que hoy no llevo suficiente dinero?",
+      "en": "Would you mind keeping this bag for me until tomorrow, as I don't have enough money on me today?",
+      "pt": "O senhor se importaria de guardar esta bolsa para mim até amanhã, que hoje não estou com dinheiro suficiente?"
+    },
+    {
+      "text": "Me fijé en que el precio de la etiqueta no coincidía con el que me cobraron en caja.",
+      "en": "I noticed that the price on the label didn't match what they charged me at the till.",
+      "pt": "Percebi que o preço da etiqueta não batia com o que me cobraram no caixa."
+    },
+    {
+      "text": "Quería que me enseñara algún portátil ligero para viajar que tuviera buena batería.",
+      "en": "I'd like you to show me a light laptop for travelling that has good battery life.",
+      "pt": "Queria que você me mostrasse algum notebook leve para viajar que tivesse uma boa bateria."
+    },
+    {
+      "text": "Hoy en día casi nadie paga en efectivo, porque todo el mundo usa el móvil o la tarjeta.",
+      "en": "Nowadays hardly anyone pays in cash, because everyone uses their phone or card.",
+      "pt": "Hoje em dia quase ninguém paga em dinheiro, porque todo mundo usa o celular ou o cartão."
+    },
+    {
+      "text": "Fuimos al centro comercial a por un colchón y volvimos con media tienda.",
+      "en": "We went to the shopping centre for a mattress and came back with half the shop.",
+      "pt": "Fomos ao shopping atrás de um colchão e voltamos com meia loja."
+    },
+    {
+      "text": "Es mejor que hagas una lista antes de ir al súper, así no compras cosas innecesarias.",
+      "en": "It's better to make a list before going to the supermarket, so you don't buy unnecessary things.",
+      "pt": "É melhor fazer uma lista antes de ir ao mercado, assim você não compra coisas desnecessárias."
+    },
+    {
+      "text": "¿Tiene garantía esta cafetera o tendría que pagar la reparación si se estropeara?",
+      "en": "Does this coffee maker have a warranty, or would I have to pay for the repair if it broke down?",
+      "pt": "Esta cafeteira tem garantia ou eu teria que pagar o conserto se ela quebrasse?"
+    },
+    {
+      "text": "La dependienta fue tan amable que acabé comprando dos camisas en lugar de una.",
+      "en": "The shop assistant was so nice that I ended up buying two shirts instead of one.",
+      "pt": "A vendedora foi tão gentil que acabei comprando duas camisas em vez de uma."
+    },
+    {
+      "text": "Ojalá hubiera mirado en otras tiendas antes de comprar la lavadora, porque aquí está cien euros más barata.",
+      "en": "I wish I'd looked in other shops before buying the washing machine, because it's a hundred euros cheaper here.",
+      "pt": "Quem dera eu tivesse olhado outras lojas antes de comprar a máquina de lavar, porque aqui está cem euros mais barata."
+    },
+    {
+      "text": "No hace falta que me dé bolsa, que ya he traído una de casa.",
+      "en": "There's no need to give me a bag, as I've brought one from home.",
+      "pt": "Não precisa me dar sacola, que já trouxe uma de casa."
+    },
+    {
+      "text": "En esta frutería siempre te dejan probar la fruta antes de que la compres.",
+      "en": "At this greengrocer's they always let you taste the fruit before you buy it.",
+      "pt": "Nesta quitanda sempre deixam você provar a fruta antes de comprar."
+    },
+    {
+      "text": "¿Hasta qué hora abren los domingos, que necesito comprar un cargador con urgencia?",
+      "en": "How late are you open on Sundays, as I urgently need to buy a charger?",
+      "pt": "Até que horas vocês abrem aos domingos, que preciso comprar um carregador com urgência?"
+    },
+    {
+      "text": "Mis padres siempre van a la misma carnicería porque conocen al carnicero de toda la vida.",
+      "en": "My parents always go to the same butcher's because they've known the butcher forever.",
+      "pt": "Meus pais sempre vão ao mesmo açougue porque conhecem o açougueiro há muitos anos."
+    },
+    {
+      "text": "Me quedé con las ganas de comprar aquellas gafas de sol porque se agotaron enseguida.",
+      "en": "I never got to buy those sunglasses because they sold out straight away.",
+      "pt": "Fiquei com vontade de comprar aqueles óculos de sol porque esgotaram rapidinho."
+    },
+    {
+      "text": "Antes de comprar unos auriculares, suelo leer las opiniones de otros clientes en internet.",
+      "en": "Before buying headphones, I usually read other customers' reviews online.",
+      "pt": "Antes de comprar fones de ouvido, costumo ler as avaliações de outros clientes na internet."
+    },
+    {
+      "text": "Si me hubieran avisado de que estaba agotado, no habría ido hasta la tienda.",
+      "en": "If they'd told me it was out of stock, I wouldn't have gone all the way to the shop.",
+      "pt": "Se tivessem me avisado que estava esgotado, eu não teria ido até a loja."
+    },
+    {
+      "text": "¡Qué barbaridad lo que ha subido el precio del aceite de oliva este año!",
+      "en": "It's outrageous how much the price of olive oil has gone up this year!",
+      "pt": "Que absurdo o quanto o preço do azeite subiu este ano!"
+    },
+    {
+      "text": "¿Me puede mirar si queda alguna unidad en el almacén antes de que me vaya?",
+      "en": "Could you check whether there are any left in the stockroom before I go?",
+      "pt": "Pode verificar se sobrou alguma unidade no estoque antes de eu ir embora?"
+    }
+  ],
+  "work and meetings": [
+    {
+      "text": "Os agradecería que me enviarais el informe antes del viernes para poder revisarlo con calma.",
+      "en": "I'd appreciate it if you sent me the report before Friday so I can go through it calmly.",
+      "pt": "Eu agradeceria se vocês me enviassem o relatório antes de sexta para eu poder revisar com calma."
+    },
+    {
+      "text": "La reunión se alargó tanto que no nos dio tiempo a tratar todos los puntos.",
+      "en": "The meeting ran on so long that we didn't have time to cover all the points.",
+      "pt": "A reunião se estendeu tanto que não deu tempo de tratar todos os pontos."
+    },
+    {
+      "text": "Es fundamental que todo el equipo esté al tanto de los cambios antes de la presentación.",
+      "en": "It's essential that the whole team is aware of the changes before the presentation.",
+      "pt": "É fundamental que toda a equipe esteja a par das mudanças antes da apresentação."
+    },
+    {
+      "text": "¿Te viene bien que hablemos mañana a primera hora para cerrar el presupuesto?",
+      "en": "Does it suit you if we talk first thing tomorrow to finalise the budget?",
+      "pt": "Para você está bom conversarmos amanhã logo cedo para fechar o orçamento?"
+    },
+    {
+      "text": "Mi jefa me ha pedido que coordine el nuevo proyecto con el departamento de marketing.",
+      "en": "My boss has asked me to coordinate the new project with the marketing department.",
+      "pt": "Minha chefe me pediu para coordenar o novo projeto com o departamento de marketing."
+    },
+    {
+      "text": "Desde que teletrabajo dos días a la semana, me organizo mucho mejor y estoy menos estresado.",
+      "en": "Since I started working from home two days a week, I'm much better organised and less stressed.",
+      "pt": "Desde que comecei a trabalhar de casa dois dias por semana, me organizo muito melhor e fico menos estressado."
+    },
+    {
+      "text": "Si el cliente no aprueba el diseño antes del lunes, tendremos que retrasar el lanzamiento.",
+      "en": "If the client doesn't approve the design before Monday, we'll have to delay the launch.",
+      "pt": "Se o cliente não aprovar o design antes de segunda, vamos ter que adiar o lançamento."
+    },
+    {
+      "text": "Perdonad el retraso, que el tren se ha quedado parado media hora en el túnel.",
+      "en": "Sorry I'm late, the train was stuck in the tunnel for half an hour.",
+      "pt": "Desculpem o atraso, é que o trem ficou parado meia hora no túnel."
+    },
+    {
+      "text": "No creo que sea buena idea programar otra reunión cuando todos estamos hasta arriba de trabajo.",
+      "en": "I don't think it's a good idea to schedule another meeting when we're all swamped with work.",
+      "pt": "Não acho que seja uma boa ideia marcar outra reunião quando estamos todos atolados de trabalho."
+    },
+    {
+      "text": "¿Podrías compartir la pantalla para que todos veamos los datos del último trimestre?",
+      "en": "Could you share your screen so we can all see the figures for the last quarter?",
+      "pt": "Você poderia compartilhar a tela para que todos possamos ver os dados do último trimestre?"
+    },
+    {
+      "text": "Después de diez años en la empresa, Marta ha decidido montar su propio negocio.",
+      "en": "After ten years at the company, Marta has decided to start her own business.",
+      "pt": "Depois de dez anos na empresa, a Marta decidiu abrir o próprio negócio."
+    },
+    {
+      "text": "Quedamos en que cada uno prepararía una propuesta y la presentaríamos el jueves.",
+      "en": "We agreed that each of us would prepare a proposal and we'd present them on Thursday.",
+      "pt": "Combinamos que cada um prepararia uma proposta e que as apresentaríamos na quinta."
+    },
+    {
+      "text": "Me han ofrecido un puesto en Barcelona, pero no sé si me compensa mudarme.",
+      "en": "I've been offered a job in Barcelona, but I don't know if it's worth moving.",
+      "pt": "Me ofereceram um cargo em Barcelona, mas não sei se compensa me mudar."
+    },
+    {
+      "text": "Antes de que empecemos, me gustaría presentaros a Andrés, que se incorpora hoy al equipo.",
+      "en": "Before we start, I'd like to introduce you to Andrés, who joins the team today.",
+      "pt": "Antes de começarmos, eu gostaria de apresentar a vocês o Andrés, que entra hoje na equipe."
+    },
+    {
+      "text": "Hay que entregar el proyecto el día quince sin falta, pase lo que pase.",
+      "en": "The project has to be handed in on the fifteenth without fail, whatever happens.",
+      "pt": "O projeto tem que ser entregue no dia quinze sem falta, aconteça o que acontecer."
+    },
+    {
+      "text": "¿Alguien se encarga de tomar nota de lo que se decida en la reunión?",
+      "en": "Is anyone taking notes on whatever gets decided in the meeting?",
+      "pt": "Alguém fica responsável por anotar o que for decidido na reunião?"
+    },
+    {
+      "text": "Aunque el sueldo no es gran cosa, el ambiente de trabajo es estupendo y aprendo mucho.",
+      "en": "Although the salary isn't great, the working atmosphere is fantastic and I learn a lot.",
+      "pt": "Embora o salário não seja grande coisa, o ambiente de trabalho é ótimo e aprendo muito."
+    },
+    {
+      "text": "Le escribo para confirmar la reunión del martes a las diez en nuestra oficina de Valencia.",
+      "en": "I'm writing to confirm Tuesday's meeting at ten at our Valencia office.",
+      "pt": "Escrevo para confirmar a reunião de terça às dez no nosso escritório de Valência."
+    },
+    {
+      "text": "No me parece justo que siempre me toque a mí quedarme hasta tarde los viernes.",
+      "en": "I don't think it's fair that I'm always the one who has to stay late on Fridays.",
+      "pt": "Não acho justo que sempre sobre para mim ficar até tarde às sextas."
+    },
+    {
+      "text": "Propongo que dividamos la tarea en tres partes para terminarla cuanto antes.",
+      "en": "I suggest we split the task into three parts to get it done as soon as possible.",
+      "pt": "Proponho que dividamos a tarefa em três partes para terminá-la o quanto antes."
+    },
+    {
+      "text": "Por lo visto, van a cambiar el horario de verano y saldremos a las tres.",
+      "en": "Apparently, they're going to change the summer hours and we'll finish at three.",
+      "pt": "Pelo jeito, vão mudar o horário de verão e vamos sair às três."
+    },
+    {
+      "text": "Te llamo después de comer, que ahora mismo estoy en una videollamada con unos clientes alemanes.",
+      "en": "I'll call you after lunch, as right now I'm on a video call with some German clients.",
+      "pt": "Te ligo depois do almoço, que agora estou numa videochamada com uns clientes alemães."
+    },
+    {
+      "text": "¿Cuándo crees que estará listo el borrador del contrato para que lo revise el abogado?",
+      "en": "When do you think the draft contract will be ready for the lawyer to review?",
+      "pt": "Quando você acha que o rascunho do contrato vai estar pronto para o advogado revisar?"
+    },
+    {
+      "text": "Llevo toda la semana apagando fuegos y no he podido avanzar con mis tareas.",
+      "en": "I've spent all week putting out fires and haven't been able to get on with my own tasks.",
+      "pt": "Passei a semana toda apagando incêndios e não consegui avançar nas minhas tarefas."
+    },
+    {
+      "text": "En la entrevista me preguntaron por qué quería dejar mi trabajo actual.",
+      "en": "In the interview they asked me why I wanted to leave my current job.",
+      "pt": "Na entrevista me perguntaram por que eu queria deixar meu emprego atual."
+    },
+    {
+      "text": "Sería conveniente que revisáramos los objetivos del año antes de hablar de subidas de sueldo.",
+      "en": "It would be a good idea to review the year's targets before talking about pay rises.",
+      "pt": "Seria conveniente revisarmos as metas do ano antes de falar de aumentos de salário."
+    },
+    {
+      "text": "A mi compañero Pablo se le da genial hablar en público, así que él hará la presentación.",
+      "en": "My colleague Pablo is great at public speaking, so he'll give the presentation.",
+      "pt": "Meu colega Pablo manda muito bem falando em público, então ele vai fazer a apresentação."
+    },
+    {
+      "text": "Si te soy sincero, creo que esta reunión podría haber sido un correo electrónico.",
+      "en": "To be honest, I think this meeting could have been an email.",
+      "pt": "Para ser sincero, acho que esta reunião poderia ter sido um e-mail."
+    },
+    {
+      "text": "La empresa ha decidido contratar a dos personas más para el servicio de atención al cliente.",
+      "en": "The company has decided to hire two more people for customer service.",
+      "pt": "A empresa decidiu contratar mais duas pessoas para o atendimento ao cliente."
+    },
+    {
+      "text": "Me pidieron que hiciera horas extra todo el mes, pero les dije que no podía.",
+      "en": "They asked me to work overtime all month, but I told them I couldn't.",
+      "pt": "Me pediram para fazer hora extra o mês inteiro, mas eu disse que não podia."
+    },
+    {
+      "text": "¿Os parece bien que aplacemos la reunión hasta que vuelva Elena de vacaciones?",
+      "en": "Are you all OK with postponing the meeting until Elena gets back from holiday?",
+      "pt": "Tudo bem para vocês adiarmos a reunião até a Elena voltar das férias?"
+    },
+    {
+      "text": "Tenemos que reducir gastos sin que eso afecte a la calidad del servicio.",
+      "en": "We need to cut costs without it affecting the quality of the service.",
+      "pt": "Precisamos reduzir gastos sem que isso afete a qualidade do serviço."
+    },
+    {
+      "text": "En cuanto tenga los resultados de la encuesta, os los mando a todos por correo.",
+      "en": "As soon as I have the survey results, I'll email them to all of you.",
+      "pt": "Assim que eu tiver os resultados da pesquisa, mando para todos vocês por e-mail."
+    },
+    {
+      "text": "Estoy pensando en pedir una excedencia para cuidar de mi padre durante unos meses.",
+      "en": "I'm thinking of taking unpaid leave to look after my father for a few months.",
+      "pt": "Estou pensando em pedir uma licença não remunerada para cuidar do meu pai por alguns meses."
+    },
+    {
+      "text": "El nuevo director quiere que todos fichemos a la entrada y a la salida.",
+      "en": "The new director wants all of us to clock in and out.",
+      "pt": "O novo diretor quer que todos nós batamos ponto na entrada e na saída."
+    },
+    {
+      "text": "A pesar de los problemas técnicos, la videoconferencia con la sede de Londres salió bastante bien.",
+      "en": "Despite the technical problems, the video conference with the London head office went quite well.",
+      "pt": "Apesar dos problemas técnicos, a videoconferência com a sede de Londres correu bastante bem."
+    },
+    {
+      "text": "¿Te importaría sustituirme en la reunión de mañana, que tengo cita con el médico?",
+      "en": "Would you mind standing in for me at tomorrow's meeting, as I've got a doctor's appointment?",
+      "pt": "Você se importaria de me substituir na reunião de amanhã, que tenho consulta médica?"
+    },
+    {
+      "text": "Cuando empecé en esta empresa, jamás me imaginé que acabaría dirigiendo un equipo de veinte personas.",
+      "en": "When I started at this company, I never imagined I'd end up leading a team of twenty people.",
+      "pt": "Quando comecei nesta empresa, nunca imaginei que acabaria liderando uma equipe de vinte pessoas."
+    },
+    {
+      "text": "Deberíamos dejar claras las responsabilidades de cada uno para evitar malentendidos.",
+      "en": "We should make everyone's responsibilities clear to avoid misunderstandings.",
+      "pt": "Deveríamos deixar claras as responsabilidades de cada um para evitar mal-entendidos."
+    },
+    {
+      "text": "Ya que estamos todos, aprovecho para recordaros que el lunes es festivo.",
+      "en": "Since we're all here, I'll take the opportunity to remind you that Monday is a bank holiday.",
+      "pt": "Já que estamos todos aqui, aproveito para lembrar vocês que segunda é feriado."
+    }
+  ],
+  "family and friends": [
+    {
+      "text": "Mi abuela siempre insiste en que nos quedemos a comer cuando vamos a verla los domingos.",
+      "en": "My grandmother always insists we stay for lunch when we visit her on Sundays.",
+      "pt": "Minha avó sempre insiste que a gente fique para almoçar quando vamos visitá-la aos domingos."
+    },
+    {
+      "text": "Hace años que no veo a mis primos de Zaragoza y tengo ganas de que llegue la boda.",
+      "en": "I haven't seen my cousins from Zaragoza for years, and I can't wait for the wedding.",
+      "pt": "Faz anos que não vejo meus primos de Saragoça e estou ansioso para que chegue o casamento."
+    },
+    {
+      "text": "Aunque Carlos y yo discutimos a menudo, sé que puedo contar con él para cualquier cosa.",
+      "en": "Although Carlos and I often argue, I know I can count on him for anything.",
+      "pt": "Embora o Carlos e eu discutamos com frequência, sei que posso contar com ele para qualquer coisa."
+    },
+    {
+      "text": "Mis padres se conocieron en la universidad y llevan casi cuarenta años casados.",
+      "en": "My parents met at university and have been married for almost forty years.",
+      "pt": "Meus pais se conheceram na faculdade e estão casados há quase quarenta anos."
+    },
+    {
+      "text": "¿Te acuerdas de cuando nos escapábamos al río en bici después del colegio?",
+      "en": "Do you remember when we used to sneak off to the river on our bikes after school?",
+      "pt": "Você se lembra de quando a gente fugia para o rio de bicicleta depois da escola?"
+    },
+    {
+      "text": "Mi hermano pequeño se parece tanto a mi padre que a veces la gente los confunde.",
+      "en": "My little brother looks so much like my father that people sometimes mix them up.",
+      "pt": "Meu irmão mais novo é tão parecido com meu pai que às vezes as pessoas confundem os dois."
+    },
+    {
+      "text": "Me alegra muchísimo que por fin hayáis decidido veniros a vivir más cerca de nosotros.",
+      "en": "I'm so glad you've finally decided to come and live closer to us.",
+      "pt": "Fico muito feliz que vocês finalmente tenham decidido vir morar mais perto de nós."
+    },
+    {
+      "text": "Desde que nació la niña, apenas tenemos tiempo para quedar con los amigos.",
+      "en": "Since our baby girl was born, we hardly have time to meet up with friends.",
+      "pt": "Desde que a nossa filha nasceu, quase não temos tempo para encontrar os amigos."
+    },
+    {
+      "text": "Mi mejor amiga se muda a Berlín el mes que viene y no sé cómo voy a llevarlo.",
+      "en": "My best friend is moving to Berlin next month and I don't know how I'm going to cope.",
+      "pt": "Minha melhor amiga vai se mudar para Berlim no mês que vem e não sei como vou lidar com isso."
+    },
+    {
+      "text": "Si mis abuelos vivieran, estarían muy orgullosos de que hubieras terminado la carrera.",
+      "en": "If my grandparents were alive, they'd be very proud that you'd finished your degree.",
+      "pt": "Se meus avós estivessem vivos, ficariam muito orgulhosos de você ter terminado a faculdade."
+    },
+    {
+      "text": "Quedamos todos los jueves para cenar, aunque últimamente siempre falta alguien.",
+      "en": "We meet up every Thursday for dinner, although lately someone's always missing.",
+      "pt": "A gente se encontra toda quinta para jantar, embora ultimamente sempre falte alguém."
+    },
+    {
+      "text": "Mi suegra es encantadora, pero tiene la costumbre de presentarse en casa sin avisar.",
+      "en": "My mother-in-law is lovely, but she has a habit of turning up at our house unannounced.",
+      "pt": "Minha sogra é um amor, mas tem o costume de aparecer em casa sem avisar."
+    },
+    {
+      "text": "¿Por qué no invitas a Sofía a la fiesta, que seguro que le hace ilusión?",
+      "en": "Why don't you invite Sofía to the party, since I'm sure she'd love it?",
+      "pt": "Por que você não convida a Sofía para a festa, que com certeza ela vai adorar?"
+    },
+    {
+      "text": "Mi hija adolescente apenas me cuenta nada, y eso me preocupa un poco.",
+      "en": "My teenage daughter hardly tells me anything, and that worries me a bit.",
+      "pt": "Minha filha adolescente quase não me conta nada, e isso me preocupa um pouco."
+    },
+    {
+      "text": "Conocí a Raúl en un viaje a Marruecos y desde entonces somos inseparables.",
+      "en": "I met Raúl on a trip to Morocco and we've been inseparable ever since.",
+      "pt": "Conheci o Raúl numa viagem ao Marrocos e desde então somos inseparáveis."
+    },
+    {
+      "text": "Mis tíos nos han invitado a pasar la Nochebuena en su casa del pueblo.",
+      "en": "My aunt and uncle have invited us to spend Christmas Eve at their house in the village.",
+      "pt": "Meus tios nos convidaram para passar a véspera de Natal na casa deles no interior."
+    },
+    {
+      "text": "No soporto que mi hermano coja mis cosas sin pedírmelas antes.",
+      "en": "I can't stand my brother taking my things without asking me first.",
+      "pt": "Não suporto que meu irmão pegue minhas coisas sem me pedir antes."
+    },
+    {
+      "text": "Cuando éramos pequeños, mi madre nos leía un cuento todas las noches antes de dormir.",
+      "en": "When we were little, my mother read us a story every night before bed.",
+      "pt": "Quando éramos pequenos, minha mãe lia uma história para nós todas as noites antes de dormir."
+    },
+    {
+      "text": "Aunque vivamos lejos, intento llamar a mis padres al menos dos veces por semana.",
+      "en": "Even though we live far apart, I try to call my parents at least twice a week.",
+      "pt": "Mesmo morando longe, tento ligar para os meus pais pelo menos duas vezes por semana."
+    },
+    {
+      "text": "Me da pena que hayamos perdido el contacto, porque de jóvenes éramos muy amigos.",
+      "en": "It's a shame we've lost touch, because we were very close when we were young.",
+      "pt": "Que pena que perdemos o contato, porque quando éramos jovens éramos muito amigos."
+    },
+    {
+      "text": "Mis sobrinos están en esa edad en la que lo preguntan todo.",
+      "en": "My nephews are at that age when they ask about everything.",
+      "pt": "Meus sobrinhos estão naquela fase em que perguntam tudo."
+    },
+    {
+      "text": "Lucía y Tomás se casan en junio y nos han pedido que seamos testigos.",
+      "en": "Lucía and Tomás are getting married in June and have asked us to be their witnesses.",
+      "pt": "A Lucía e o Tomás vão se casar em junho e nos pediram para sermos padrinhos."
+    },
+    {
+      "text": "Por mucho que discutan, mis hermanas no pueden estar más de un día sin hablarse.",
+      "en": "However much they argue, my sisters can't go more than a day without speaking to each other.",
+      "pt": "Por mais que briguem, minhas irmãs não conseguem ficar mais de um dia sem se falar."
+    },
+    {
+      "text": "¿Os apetece venir a cenar a casa el sábado y así conocéis a mi novia?",
+      "en": "Do you fancy coming round for dinner on Saturday so you can meet my girlfriend?",
+      "pt": "Vocês estão a fim de vir jantar em casa no sábado e assim conhecer minha namorada?"
+    },
+    {
+      "text": "Mi padre se jubiló el año pasado y ahora dedica las mañanas a cuidar del huerto.",
+      "en": "My father retired last year and now spends his mornings looking after the vegetable garden.",
+      "pt": "Meu pai se aposentou no ano passado e agora passa as manhãs cuidando da horta."
+    },
+    {
+      "text": "Es increíble lo rápido que crecen los niños; parece que fue ayer cuando nació Daniel.",
+      "en": "It's amazing how fast children grow; it seems like only yesterday that Daniel was born.",
+      "pt": "É incrível como as crianças crescem rápido; parece que foi ontem que o Daniel nasceu."
+    },
+    {
+      "text": "Un buen amigo es el que te dice la verdad aunque no te guste oírla.",
+      "en": "A good friend is one who tells you the truth even if you don't like hearing it.",
+      "pt": "Um bom amigo é aquele que te diz a verdade mesmo que você não goste de ouvir."
+    },
+    {
+      "text": "Nos reunimos toda la familia en casa de mi abuela para celebrar que cumplía noventa años.",
+      "en": "The whole family got together at my grandmother's house to celebrate her ninetieth birthday.",
+      "pt": "A família toda se reuniu na casa da minha avó para comemorar os noventa anos dela."
+    },
+    {
+      "text": "Mi cuñado tiene un sentido del humor muy peculiar que no todo el mundo entiende.",
+      "en": "My brother-in-law has a very peculiar sense of humour that not everyone gets.",
+      "pt": "Meu cunhado tem um senso de humor muito peculiar que nem todo mundo entende."
+    },
+    {
+      "text": "Ojalá pudiéramos vernos más a menudo, pero con el trabajo y los niños es complicado.",
+      "en": "I wish we could see each other more often, but with work and the kids it's complicated.",
+      "pt": "Quem dera a gente pudesse se ver com mais frequência, mas com o trabalho e as crianças é complicado."
+    },
+    {
+      "text": "Le prometí a mi madre que la ayudaría con la mudanza el fin de semana que viene.",
+      "en": "I promised my mother I'd help her with the move next weekend.",
+      "pt": "Prometi à minha mãe que a ajudaria com a mudança no próximo fim de semana."
+    },
+    {
+      "text": "Mi amigo Íñigo siempre llega tarde, así que le decimos que hemos quedado media hora antes.",
+      "en": "My friend Íñigo is always late, so we tell him we're meeting half an hour earlier.",
+      "pt": "Meu amigo Íñigo sempre chega atrasado, então dizemos a ele que marcamos meia hora antes."
+    },
+    {
+      "text": "Los hijos de mi compañera de trabajo y los míos se han hecho muy amigos este verano.",
+      "en": "My colleague's children and mine have become great friends this summer.",
+      "pt": "Os filhos da minha colega de trabalho e os meus ficaram muito amigos neste verão."
+    },
+    {
+      "text": "¿Sabías que Marina está embarazada de gemelos y que nacerán en primavera?",
+      "en": "Did you know that Marina is pregnant with twins and they're due in spring?",
+      "pt": "Você sabia que a Marina está grávida de gêmeos e que eles vão nascer na primavera?"
+    },
+    {
+      "text": "Desde que mis padres se separaron, paso los fines de semana alternos con cada uno.",
+      "en": "Since my parents split up, I spend alternate weekends with each of them.",
+      "pt": "Desde que meus pais se separaram, passo fins de semana alternados com cada um."
+    },
+    {
+      "text": "Mi abuelo cuenta las mismas historias de la mili una y otra vez, pero nos encanta escucharlas.",
+      "en": "My grandfather tells the same stories about his military service over and over, but we love hearing them.",
+      "pt": "Meu avô conta as mesmas histórias do serviço militar várias vezes, mas a gente adora ouvir."
+    },
+    {
+      "text": "No hace falta que traigáis nada a la comida, que ya lo tenemos todo preparado.",
+      "en": "There's no need to bring anything to lunch, as we've got everything ready.",
+      "pt": "Não precisa trazer nada para o almoço, que já está tudo preparado."
+    },
+    {
+      "text": "Siempre me he llevado mejor con mi hermana mayor que con mi hermano.",
+      "en": "I've always got on better with my older sister than with my brother.",
+      "pt": "Sempre me dei melhor com minha irmã mais velha do que com meu irmão."
+    },
+    {
+      "text": "Cuando tengas un rato, llama a la tía Carmen, que ayer la operaron de la rodilla.",
+      "en": "When you have a moment, call Aunt Carmen, because she had knee surgery yesterday.",
+      "pt": "Quando tiver um tempinho, ligue para a tia Carmen, que ela operou o joelho ontem."
+    },
+    {
+      "text": "Lo que más valoro de mis amigos es que siempre están ahí cuando los necesito.",
+      "en": "What I value most about my friends is that they're always there when I need them.",
+      "pt": "O que eu mais valorizo nos meus amigos é que eles estão sempre presentes quando preciso."
+    }
+  ],
+  "health and the doctor": [
+    {
+      "text": "Llevo tres días con fiebre y dolor de garganta, y no se me pasa con nada.",
+      "en": "I've had a fever and a sore throat for three days, and nothing makes it go away.",
+      "pt": "Estou há três dias com febre e dor de garganta, e nada faz passar."
+    },
+    {
+      "text": "El médico me ha dicho que me tome este antibiótico cada ocho horas durante una semana.",
+      "en": "The doctor has told me to take this antibiotic every eight hours for a week.",
+      "pt": "O médico me disse para tomar este antibiótico de oito em oito horas durante uma semana."
+    },
+    {
+      "text": "Es importante que no deje el tratamiento aunque empiece a encontrarse mejor.",
+      "en": "It's important that you don't stop the treatment even if you start feeling better.",
+      "pt": "É importante que o senhor não abandone o tratamento mesmo que comece a se sentir melhor."
+    },
+    {
+      "text": "¿Desde cuándo tiene usted estos mareos y le ocurren a alguna hora concreta?",
+      "en": "How long have you had these dizzy spells, and do they happen at any particular time?",
+      "pt": "Desde quando o senhor tem essas tonturas e elas acontecem em algum horário específico?"
+    },
+    {
+      "text": "Me torcí el tobillo jugando al pádel y tuve que ir a urgencias.",
+      "en": "I twisted my ankle playing padel and had to go to A&E.",
+      "pt": "Torci o tornozelo jogando padel e tive que ir ao pronto-socorro."
+    },
+    {
+      "text": "Si el dolor no mejora en un par de días, vuelva usted a la consulta.",
+      "en": "If the pain doesn't improve in a couple of days, come back to the surgery.",
+      "pt": "Se a dor não melhorar em uns dois dias, volte ao consultório."
+    },
+    {
+      "text": "Mi médica de cabecera me ha recomendado que haga más ejercicio y reduzca la sal.",
+      "en": "My GP has recommended that I exercise more and cut down on salt.",
+      "pt": "Minha clínica geral me recomendou fazer mais exercício e reduzir o sal."
+    },
+    {
+      "text": "¿Necesito receta para comprar este jarabe o me lo pueden dar directamente en la farmacia?",
+      "en": "Do I need a prescription for this cough syrup, or can they give it to me directly at the chemist's?",
+      "pt": "Preciso de receita para comprar este xarope ou podem me dar direto na farmácia?"
+    },
+    {
+      "text": "Desde que dejé de fumar, duermo mejor y ya no me canso al subir escaleras.",
+      "en": "Since I gave up smoking, I sleep better and no longer get tired going up stairs.",
+      "pt": "Desde que parei de fumar, durmo melhor e já não me canso ao subir escadas."
+    },
+    {
+      "text": "Tengo que hacerme un análisis de sangre en ayunas el martes a las ocho.",
+      "en": "I have to have a fasting blood test on Tuesday at eight.",
+      "pt": "Tenho que fazer um exame de sangue em jejum na terça às oito."
+    },
+    {
+      "text": "Me duele tanto la espalda que no puedo ni agacharme para atarme los zapatos.",
+      "en": "My back hurts so much that I can't even bend down to tie my shoes.",
+      "pt": "Minhas costas doem tanto que não consigo nem me abaixar para amarrar os sapatos."
+    },
+    {
+      "text": "Le aconsejo que guarde reposo y beba mucha agua hasta que le baje la fiebre.",
+      "en": "I advise you to rest and drink plenty of water until your temperature comes down.",
+      "pt": "Aconselho que o senhor fique em repouso e beba muita água até a febre baixar."
+    },
+    {
+      "text": "Creo que me he resfriado porque ayer salí sin abrigo y hacía un frío tremendo.",
+      "en": "I think I've caught a cold because I went out without a coat yesterday and it was freezing.",
+      "pt": "Acho que me resfriei porque ontem saí sem casaco e estava um frio tremendo."
+    },
+    {
+      "text": "¿Es normal que me salgan estas manchas en la piel después de tomar el sol?",
+      "en": "Is it normal for these marks to appear on my skin after sunbathing?",
+      "pt": "É normal aparecerem estas manchas na pele depois de tomar sol?"
+    },
+    {
+      "text": "El dentista me ha dicho que tendrá que hacerme un empaste en la muela del juicio.",
+      "en": "The dentist has told me he'll have to give me a filling in my wisdom tooth.",
+      "pt": "O dentista me disse que vai ter que fazer uma obturação no meu dente do siso."
+    },
+    {
+      "text": "No sabía que fuera alérgico a la penicilina hasta que me salió una reacción en la piel.",
+      "en": "I didn't know I was allergic to penicillin until I had a skin reaction.",
+      "pt": "Eu não sabia que era alérgico à penicilina até ter uma reação na pele."
+    },
+    {
+      "text": "La lista de espera para el traumatólogo es de casi tres meses, así que iré por la privada.",
+      "en": "The waiting list for the orthopaedic specialist is almost three months, so I'll go private.",
+      "pt": "A fila de espera para o ortopedista é de quase três meses, então vou pelo particular."
+    },
+    {
+      "text": "Desde que trabajo con el ordenador todo el día, tengo la vista muy cansada.",
+      "en": "Since I've been working on the computer all day, my eyes have been very tired.",
+      "pt": "Desde que trabalho no computador o dia todo, fico com a vista muito cansada."
+    },
+    {
+      "text": "Tómese una pastilla después de cada comida y no mezcle el medicamento con alcohol.",
+      "en": "Take one tablet after each meal and don't mix the medication with alcohol.",
+      "pt": "Tome um comprimido depois de cada refeição e não misture o remédio com álcool."
+    },
+    {
+      "text": "¿Me podría dar un justificante para el trabajo, que he faltado toda la mañana?",
+      "en": "Could you give me a note for work, as I've missed the whole morning?",
+      "pt": "Poderia me dar um atestado para o trabalho, que faltei a manhã inteira?"
+    },
+    {
+      "text": "Mi hijo tiene varicela, así que no podrá ir al colegio hasta la semana que viene.",
+      "en": "My son has chickenpox, so he won't be able to go to school until next week.",
+      "pt": "Meu filho está com catapora, então não vai poder ir à escola até a semana que vem."
+    },
+    {
+      "text": "Aunque no me apetezca, intento caminar media hora al día porque me lo ha mandado el médico.",
+      "en": "Even when I don't feel like it, I try to walk half an hour a day because the doctor told me to.",
+      "pt": "Mesmo sem vontade, tento caminhar meia hora por dia porque o médico mandou."
+    },
+    {
+      "text": "Me he hecho un corte en el dedo picando cebolla y no para de sangrar.",
+      "en": "I've cut my finger chopping onions and it won't stop bleeding.",
+      "pt": "Cortei o dedo picando cebola e não para de sangrar."
+    },
+    {
+      "text": "¿Hay antecedentes de problemas de corazón en su familia, sobre todo en sus padres?",
+      "en": "Is there any history of heart problems in your family, especially your parents?",
+      "pt": "Há histórico de problemas cardíacos na sua família, principalmente nos seus pais?"
+    },
+    {
+      "text": "Estoy tan estresado que me cuesta conciliar el sueño y me despierto varias veces por la noche.",
+      "en": "I'm so stressed that I struggle to fall asleep and I wake up several times a night.",
+      "pt": "Estou tão estressado que tenho dificuldade para pegar no sono e acordo várias vezes à noite."
+    },
+    {
+      "text": "La enfermera me tomó la tensión y me dijo que la tenía un poco alta.",
+      "en": "The nurse took my blood pressure and told me it was a bit high.",
+      "pt": "A enfermeira mediu minha pressão e disse que estava um pouco alta."
+    },
+    {
+      "text": "Si te hubieras puesto crema solar, no te habrías quemado de esa manera.",
+      "en": "If you'd put sunscreen on, you wouldn't have got so badly burnt.",
+      "pt": "Se você tivesse passado protetor solar, não teria se queimado desse jeito."
+    },
+    {
+      "text": "Me han dado cita con el dermatólogo para el día doce a las cinco y media.",
+      "en": "I've been given an appointment with the dermatologist on the twelfth at half past five.",
+      "pt": "Marcaram minha consulta com o dermatologista para o dia doze às cinco e meia."
+    },
+    {
+      "text": "Desde la operación, voy a rehabilitación tres veces por semana para recuperar la movilidad del hombro.",
+      "en": "Since the operation, I've been going to physio three times a week to get the movement back in my shoulder.",
+      "pt": "Desde a cirurgia, faço fisioterapia três vezes por semana para recuperar o movimento do ombro."
+    },
+    {
+      "text": "Más vale que te vacunes contra la gripe antes de que empiece el invierno.",
+      "en": "You'd better get your flu jab before winter starts.",
+      "pt": "É melhor você se vacinar contra a gripe antes que o inverno comece."
+    },
+    {
+      "text": "¿Le duele cuando le presiono aquí o solo cuando mueve el brazo?",
+      "en": "Does it hurt when I press here, or only when you move your arm?",
+      "pt": "Dói quando eu aperto aqui ou só quando o senhor mexe o braço?"
+    },
+    {
+      "text": "Mi abuela se rompió la cadera al caerse en la ducha y estuvo ingresada dos semanas.",
+      "en": "My grandmother broke her hip when she fell in the shower and was in hospital for two weeks.",
+      "pt": "Minha avó quebrou o quadril ao cair no chuveiro e ficou internada duas semanas."
+    },
+    {
+      "text": "Me encuentro fatal y tengo el estómago revuelto desde que cené marisco anoche.",
+      "en": "I feel awful and my stomach has been upset since I had seafood for dinner last night.",
+      "pt": "Estou me sentindo péssimo e com o estômago embrulhado desde que jantei frutos do mar ontem à noite."
+    },
+    {
+      "text": "No conviene que te automediques, aunque creas que sabes lo que tienes.",
+      "en": "You shouldn't self-medicate, even if you think you know what's wrong with you.",
+      "pt": "Não é bom você se automedicar, mesmo que ache que sabe o que tem."
+    },
+    {
+      "text": "El fisioterapeuta me ha enseñado unos ejercicios para que los haga en casa todos los días.",
+      "en": "The physiotherapist has shown me some exercises to do at home every day.",
+      "pt": "O fisioterapeuta me ensinou uns exercícios para eu fazer em casa todos os dias."
+    },
+    {
+      "text": "Cada primavera me pongo fatal con la alergia al polen y no paro de estornudar.",
+      "en": "Every spring my pollen allergy gets really bad and I can't stop sneezing.",
+      "pt": "Toda primavera fico péssimo com a alergia a pólen e não paro de espirrar."
+    },
+    {
+      "text": "¿Cuánto tiempo tendré que llevar la escayola antes de poder volver a conducir?",
+      "en": "How long will I have to wear the cast before I can drive again?",
+      "pt": "Quanto tempo vou ter que ficar com o gesso antes de poder voltar a dirigir?"
+    },
+    {
+      "text": "Tienes mala cara; ¿por qué no te vas a casa y descansas un poco?",
+      "en": "You don't look well; why don't you go home and get some rest?",
+      "pt": "Você está com uma cara péssima; por que não vai para casa descansar um pouco?"
+    },
+    {
+      "text": "Gracias a que lo detectaron a tiempo, el tratamiento fue mucho más sencillo de lo esperado.",
+      "en": "Because they caught it in time, the treatment was much simpler than expected.",
+      "pt": "Graças a terem detectado a tempo, o tratamento foi muito mais simples do que o esperado."
+    },
+    {
+      "text": "Antes de recetarle nada, prefiero que se haga una radiografía del pecho.",
+      "en": "Before prescribing anything, I'd rather you had a chest X-ray.",
+      "pt": "Antes de receitar qualquer coisa, prefiro que o senhor faça um raio-X do tórax."
+    }
+  ],
+  "weather and seasons": [
+    {
+      "text": "Dicen que mañana va a llover a cántaros, así que mejor dejamos la excursión para otro día.",
+      "en": "They say it's going to pour tomorrow, so we'd better leave the trip for another day.",
+      "pt": "Dizem que amanhã vai chover canivetes, então é melhor deixar o passeio para outro dia."
+    },
+    {
+      "text": "Con este calor tan sofocante no hay quien duerma sin el aire acondicionado puesto.",
+      "en": "In this stifling heat nobody can sleep without the air conditioning on.",
+      "pt": "Com este calor sufocante ninguém consegue dormir sem o ar-condicionado ligado."
+    },
+    {
+      "text": "Aunque estemos en marzo, todavía hace un frío que pela por las mañanas.",
+      "en": "Even though it's March, it's still bitterly cold in the mornings.",
+      "pt": "Mesmo estando em março, ainda faz um frio de rachar de manhã."
+    },
+    {
+      "text": "Si mañana hace buen tiempo, podríamos ir a la playa y comer en un chiringuito.",
+      "en": "If the weather's nice tomorrow, we could go to the beach and have lunch at a beach bar.",
+      "pt": "Se amanhã fizer tempo bom, poderíamos ir à praia e almoçar num quiosque."
+    },
+    {
+      "text": "El otoño es mi estación favorita porque me encantan los colores de los árboles.",
+      "en": "Autumn is my favourite season because I love the colours of the trees.",
+      "pt": "O outono é minha estação favorita porque adoro as cores das árvores."
+    },
+    {
+      "text": "Han avisado de que podría nevar en la sierra, así que lleva cadenas en el coche.",
+      "en": "They've warned that it might snow in the mountains, so take chains in the car.",
+      "pt": "Avisaram que pode nevar na serra, então leve correntes no carro."
+    },
+    {
+      "text": "¡Qué bochorno hace hoy, parece que va a caer una buena tormenta!",
+      "en": "It's so muggy today, it looks like there's going to be a big storm!",
+      "pt": "Que abafado está hoje, parece que vai cair uma bela tempestade!"
+    },
+    {
+      "text": "Cuando vivía en Bilbao, me acostumbré a llevar siempre el paraguas en la mochila.",
+      "en": "When I lived in Bilbao, I got used to always carrying an umbrella in my backpack.",
+      "pt": "Quando eu morava em Bilbao, me acostumei a levar sempre o guarda-chuva na mochila."
+    },
+    {
+      "text": "Este año la primavera se ha adelantado tanto que los almendros florecieron en enero.",
+      "en": "Spring came so early this year that the almond trees blossomed in January.",
+      "pt": "Este ano a primavera se adiantou tanto que as amendoeiras floresceram em janeiro."
+    },
+    {
+      "text": "No recuerdo un verano tan seco; llevamos tres meses sin que caiga una gota.",
+      "en": "I can't remember such a dry summer; we've gone three months without a drop of rain.",
+      "pt": "Não lembro de um verão tão seco; estamos há três meses sem cair uma gota."
+    },
+    {
+      "text": "¿Sabes qué tiempo va a hacer el fin de semana en Granada?",
+      "en": "Do you know what the weather's going to be like in Granada at the weekend?",
+      "pt": "Você sabe como vai estar o tempo em Granada no fim de semana?"
+    },
+    {
+      "text": "Abrígate bien, que aunque haga sol, el viento del norte corta la cara.",
+      "en": "Wrap up warm, because even if it's sunny, the north wind is biting.",
+      "pt": "Agasalhe-se bem, porque mesmo com sol, o vento norte corta o rosto."
+    },
+    {
+      "text": "Con tanta niebla, el aeropuerto ha tenido que cancelar casi todos los vuelos de la mañana.",
+      "en": "With so much fog, the airport has had to cancel almost all the morning flights.",
+      "pt": "Com tanta neblina, o aeroporto teve que cancelar quase todos os voos da manhã."
+    },
+    {
+      "text": "En invierno anochece tan pronto que a las seis ya es noche cerrada.",
+      "en": "In winter it gets dark so early that by six it's already pitch black.",
+      "pt": "No inverno escurece tão cedo que às seis já é noite fechada."
+    },
+    {
+      "text": "Ojalá deje de llover antes de la boda, porque la ceremonia es al aire libre.",
+      "en": "I hope it stops raining before the wedding, because the ceremony is outdoors.",
+      "pt": "Tomara que pare de chover antes do casamento, porque a cerimônia é ao ar livre."
+    },
+    {
+      "text": "Las temperaturas han bajado diez grados de golpe y todo el mundo se ha resfriado.",
+      "en": "Temperatures have dropped ten degrees all of a sudden and everyone has caught a cold.",
+      "pt": "As temperaturas caíram dez graus de repente e todo mundo ficou resfriado."
+    },
+    {
+      "text": "En agosto Sevilla es un horno, así que te recomiendo que vayas en otra época.",
+      "en": "In August Seville is like an oven, so I recommend you go at another time of year.",
+      "pt": "Em agosto Sevilha é um forno, então recomendo que você vá em outra época."
+    },
+    {
+      "text": "Me encanta pasear por el parque cuando el suelo está cubierto de hojas secas.",
+      "en": "I love walking in the park when the ground is covered in dry leaves.",
+      "pt": "Adoro passear pelo parque quando o chão está coberto de folhas secas."
+    },
+    {
+      "text": "Según el pronóstico, el lunes subirán las temperaturas y volverá el buen tiempo.",
+      "en": "According to the forecast, temperatures will rise on Monday and the good weather will return.",
+      "pt": "Segundo a previsão, na segunda as temperaturas vão subir e o tempo bom vai voltar."
+    },
+    {
+      "text": "Se me olvidó el paraguas y llegué empapado al trabajo.",
+      "en": "I forgot my umbrella and arrived at work soaked.",
+      "pt": "Esqueci o guarda-chuva e cheguei encharcado ao trabalho."
+    },
+    {
+      "text": "¿No te parece raro que haga tanto calor a finales de octubre?",
+      "en": "Don't you think it's strange that it's so hot at the end of October?",
+      "pt": "Você não acha estranho fazer tanto calor no fim de outubro?"
+    },
+    {
+      "text": "Cuando era pequeño, nevaba casi todos los inviernos en mi pueblo, pero ahora casi nunca.",
+      "en": "When I was little, it snowed almost every winter in my village, but now it hardly ever does.",
+      "pt": "Quando eu era pequeno, nevava quase todo inverno na minha cidade, mas agora quase nunca."
+    },
+    {
+      "text": "El viento era tan fuerte que tuvimos que recoger la sombrilla y volver a casa.",
+      "en": "The wind was so strong that we had to take down the beach umbrella and go home.",
+      "pt": "O vento estava tão forte que tivemos que fechar o guarda-sol e voltar para casa."
+    },
+    {
+      "text": "Es mejor que salgas a correr temprano, antes de que apriete el calor.",
+      "en": "It's better to go running early, before the heat really kicks in.",
+      "pt": "É melhor você sair para correr cedo, antes que o calor aperte."
+    },
+    {
+      "text": "La lluvia de anoche ha venido de maravilla para el campo, que estaba muy seco.",
+      "en": "Last night's rain was great for the fields, which were very dry.",
+      "pt": "A chuva de ontem à noite veio em ótima hora para o campo, que estava muito seco."
+    },
+    {
+      "text": "En primavera el tiempo es tan cambiante que nunca sé qué ponerme por la mañana.",
+      "en": "In spring the weather is so changeable that I never know what to wear in the morning.",
+      "pt": "Na primavera o tempo é tão instável que nunca sei o que vestir de manhã."
+    },
+    {
+      "text": "Hacía tanto frío en Burgos que se nos congelaron las manos paseando junto a la catedral.",
+      "en": "It was so cold in Burgos that our hands froze while we were walking by the cathedral.",
+      "pt": "Estava tão frio em Burgos que nossas mãos congelaram enquanto passeávamos perto da catedral."
+    },
+    {
+      "text": "Por la ola de calor, recomiendan no salir a la calle entre las doce y las cinco.",
+      "en": "Because of the heatwave, they recommend not going outside between twelve and five.",
+      "pt": "Por causa da onda de calor, recomendam não sair na rua entre o meio-dia e as cinco."
+    },
+    {
+      "text": "Me gustaría vivir en un sitio donde los inviernos no fueran tan largos y grises.",
+      "en": "I'd like to live somewhere where the winters weren't so long and grey.",
+      "pt": "Eu gostaria de morar num lugar onde os invernos não fossem tão longos e cinzentos."
+    },
+    {
+      "text": "¡Mira qué arcoíris tan bonito ha salido detrás de las montañas!",
+      "en": "Look at the beautiful rainbow that's appeared behind the mountains!",
+      "pt": "Olha que arco-íris lindo apareceu atrás das montanhas!"
+    },
+    {
+      "text": "Haga el tiempo que haga, la cabalgata de Reyes saldrá a las seis.",
+      "en": "Whatever the weather, the Three Kings parade will set off at six.",
+      "pt": "Faça o tempo que fizer, o desfile dos Reis Magos vai sair às seis."
+    },
+    {
+      "text": "Al final no llovió, así que cargué con el paraguas todo el día para nada.",
+      "en": "In the end it didn't rain, so I lugged the umbrella around all day for nothing.",
+      "pt": "No fim não choveu, então carreguei o guarda-chuva o dia todo à toa."
+    },
+    {
+      "text": "Desde que pusimos las placas solares, aprovechamos mucho más los días de sol.",
+      "en": "Since we put in solar panels, we make much more of the sunny days.",
+      "pt": "Desde que instalamos os painéis solares, aproveitamos muito mais os dias de sol."
+    },
+    {
+      "text": "El granizo de ayer destrozó la cosecha de mis tíos y abolló varios coches.",
+      "en": "Yesterday's hail destroyed my aunt and uncle's harvest and dented several cars.",
+      "pt": "O granizo de ontem destruiu a colheita dos meus tios e amassou vários carros."
+    },
+    {
+      "text": "No me extraña que estés helado si sales en manga corta con este tiempo.",
+      "en": "No wonder you're frozen if you go out in short sleeves in this weather.",
+      "pt": "Não me admira que você esteja congelado se sai de manga curta com este tempo."
+    },
+    {
+      "text": "En la costa mediterránea los inviernos son suaves, mientras que en la meseta hiela a menudo.",
+      "en": "On the Mediterranean coast the winters are mild, whereas on the central plateau there's often frost.",
+      "pt": "No litoral mediterrâneo os invernos são amenos, enquanto no planalto central costuma gear."
+    },
+    {
+      "text": "¿Crees que hará suficiente calor en junio para bañarnos en el Cantábrico?",
+      "en": "Do you think it'll be warm enough in June to swim in the Bay of Biscay?",
+      "pt": "Você acha que vai fazer calor suficiente em junho para nadarmos no mar Cantábrico?"
+    },
+    {
+      "text": "Ayer hubo una tormenta tan fuerte que se fue la luz en todo el barrio.",
+      "en": "Yesterday there was such a strong storm that the power went out in the whole neighbourhood.",
+      "pt": "Ontem teve uma tempestade tão forte que acabou a luz no bairro todo."
+    },
+    {
+      "text": "Aunque el cielo esté despejado, en la montaña el tiempo puede cambiar en cuestión de minutos.",
+      "en": "Even if the sky is clear, in the mountains the weather can change in a matter of minutes.",
+      "pt": "Mesmo que o céu esteja limpo, na montanha o tempo pode mudar em questão de minutos."
+    },
+    {
+      "text": "Lo que más echo de menos del verano son las noches largas en la terraza con los amigos.",
+      "en": "What I miss most about summer is the long evenings on the terrace with friends.",
+      "pt": "O que mais sinto falta do verão são as noites longas no terraço com os amigos."
+    }
+  ],
+  "hobbies and weekends": [
+    {
+      "text": "Los sábados por la mañana suelo ir a nadar y después me tomo un café con mis amigas.",
+      "en": "On Saturday mornings I usually go swimming and then have a coffee with my friends.",
+      "pt": "Aos sábados de manhã costumo ir nadar e depois tomo um café com minhas amigas."
+    },
+    {
+      "text": "Desde que me apunté a clases de cerámica, paso los domingos con las manos llenas de barro.",
+      "en": "Since I signed up for pottery classes, I spend my Sundays with my hands covered in clay.",
+      "pt": "Desde que me inscrevi nas aulas de cerâmica, passo os domingos com as mãos cheias de barro."
+    },
+    {
+      "text": "Si tuviera más tiempo libre, aprendería a tocar el piano, que siempre me ha hecho ilusión.",
+      "en": "If I had more free time, I'd learn to play the piano, which I've always dreamed of doing.",
+      "pt": "Se eu tivesse mais tempo livre, aprenderia a tocar piano, que sempre foi um sonho meu."
+    },
+    {
+      "text": "¿Te apetece que vayamos al cine esta noche o prefieres quedarte en casa viendo una serie?",
+      "en": "Do you fancy going to the cinema tonight, or would you rather stay in and watch a series?",
+      "pt": "Você está a fim de irmos ao cinema hoje à noite ou prefere ficar em casa vendo uma série?"
+    },
+    {
+      "text": "Este fin de semana no pienso hacer nada más que leer y descansar.",
+      "en": "This weekend I'm not planning to do anything but read and rest.",
+      "pt": "Neste fim de semana não pretendo fazer nada além de ler e descansar."
+    },
+    {
+      "text": "Mi marido se ha aficionado tanto a la bici que sale todos los domingos a las siete.",
+      "en": "My husband has got so into cycling that he goes out every Sunday at seven.",
+      "pt": "Meu marido pegou tanto gosto pela bicicleta que sai todo domingo às sete."
+    },
+    {
+      "text": "Hicimos una ruta por la sierra de Guadarrama y acabamos agotados, pero mereció la pena.",
+      "en": "We did a hike in the Guadarrama mountains and ended up exhausted, but it was worth it.",
+      "pt": "Fizemos uma trilha na serra de Guadarrama e terminamos exaustos, mas valeu a pena."
+    },
+    {
+      "text": "Me encantaría que vinieras conmigo al concierto del sábado, porque me sobra una entrada.",
+      "en": "I'd love you to come with me to Saturday's concert, because I've got a spare ticket.",
+      "pt": "Eu adoraria que você fosse comigo ao show de sábado, porque tenho um ingresso sobrando."
+    },
+    {
+      "text": "Últimamente me ha dado por hacer puzles de mil piezas y no puedo parar.",
+      "en": "Lately I've got into doing thousand-piece jigsaws and I can't stop.",
+      "pt": "Ultimamente cismei de montar quebra-cabeças de mil peças e não consigo parar."
+    },
+    {
+      "text": "Cuando hace buen tiempo, solemos ir al campo a hacer una barbacoa con los vecinos.",
+      "en": "When the weather's nice, we usually go to the countryside for a barbecue with the neighbours.",
+      "pt": "Quando o tempo está bom, costumamos ir ao campo fazer um churrasco com os vizinhos."
+    },
+    {
+      "text": "Mi hijo está obsesionado con los videojuegos, y nos cuesta que salga a jugar fuera.",
+      "en": "My son is obsessed with video games, and it's hard to get him to go and play outside.",
+      "pt": "Meu filho é obcecado por videogame, e é difícil fazer ele sair para brincar lá fora."
+    },
+    {
+      "text": "Llevo dos años en un coro y cantar me ayuda muchísimo a desconectar del trabajo.",
+      "en": "I've been in a choir for two years and singing really helps me switch off from work.",
+      "pt": "Estou num coral há dois anos e cantar me ajuda muito a desligar do trabalho."
+    },
+    {
+      "text": "¿Qué tal si el domingo vamos al Rastro y luego comemos por La Latina?",
+      "en": "How about going to the Rastro flea market on Sunday and then having lunch around La Latina?",
+      "pt": "Que tal irmos ao Rastro no domingo e depois almoçarmos pela região de La Latina?"
+    },
+    {
+      "text": "Aunque no se me da muy bien, disfruto muchísimo pintando acuarelas en el parque.",
+      "en": "Although I'm not very good at it, I really enjoy painting watercolours in the park.",
+      "pt": "Embora eu não seja muito bom nisso, curto muito pintar aquarelas no parque."
+    },
+    {
+      "text": "El fin de semana pasado fuimos a una casa rural y no hicimos absolutamente nada.",
+      "en": "Last weekend we went to a country cottage and did absolutely nothing.",
+      "pt": "No fim de semana passado fomos a uma casa de campo e não fizemos absolutamente nada."
+    },
+    {
+      "text": "Me he propuesto leer un libro al mes, aunque de momento voy un poco retrasado.",
+      "en": "I've set myself the goal of reading a book a month, although I'm a bit behind for now.",
+      "pt": "Me propus ler um livro por mês, embora por enquanto esteja um pouco atrasado."
+    },
+    {
+      "text": "Si no te gusta el fútbol, podemos ir a ver la exposición de fotografía del Reina Sofía.",
+      "en": "If you don't like football, we can go and see the photography exhibition at the Reina Sofía.",
+      "pt": "Se você não gosta de futebol, podemos ir ver a exposição de fotografia do Reina Sofía."
+    },
+    {
+      "text": "Cada domingo quedo con unos amigos para jugar al baloncesto en el polideportivo.",
+      "en": "Every Sunday I meet up with some friends to play basketball at the sports centre.",
+      "pt": "Todo domingo encontro uns amigos para jogar basquete no ginásio poliesportivo."
+    },
+    {
+      "text": "Mi abuelo se pasa las tardes jugando al dominó con sus amigos en el hogar del jubilado.",
+      "en": "My grandfather spends his afternoons playing dominoes with his friends at the senior centre.",
+      "pt": "Meu avô passa as tardes jogando dominó com os amigos no centro de convivência de idosos."
+    },
+    {
+      "text": "Me gustaría encontrar un hobby que no implicara pasar más horas delante de una pantalla.",
+      "en": "I'd like to find a hobby that doesn't involve spending more hours in front of a screen.",
+      "pt": "Eu gostaria de encontrar um hobby que não envolvesse passar mais horas na frente de uma tela."
+    },
+    {
+      "text": "No sabía que te interesara la fotografía, y menos que tuvieras una cámara tan buena.",
+      "en": "I didn't know you were interested in photography, let alone that you had such a good camera.",
+      "pt": "Eu não sabia que você se interessava por fotografia, muito menos que tinha uma câmera tão boa."
+    },
+    {
+      "text": "Este sábado hay un mercadillo de libros de segunda mano en la plaza del pueblo.",
+      "en": "This Saturday there's a second-hand book market in the village square.",
+      "pt": "Neste sábado tem uma feira de livros usados na praça da cidade."
+    },
+    {
+      "text": "Desde que tenemos perro, los fines de semana salimos mucho más al campo.",
+      "en": "Since we got a dog, we get out into the countryside much more at weekends.",
+      "pt": "Desde que temos cachorro, nos fins de semana saímos muito mais para o campo."
+    },
+    {
+      "text": "Cuando era joven jugaba al ajedrez en un club, pero lo dejé al empezar a trabajar.",
+      "en": "When I was young I played chess at a club, but I gave it up when I started working.",
+      "pt": "Quando eu era jovem, jogava xadrez num clube, mas parei quando comecei a trabalhar."
+    },
+    {
+      "text": "Ojalá el domingo no llueva, porque tenemos entradas para ver al Betis en el estadio.",
+      "en": "I hope it doesn't rain on Sunday, because we've got tickets to see Betis at the stadium.",
+      "pt": "Tomara que não chova no domingo, porque temos ingressos para ver o Betis no estádio."
+    },
+    {
+      "text": "A Clara le encanta cocinar, así que los domingos siempre prepara algo nuevo para toda la familia.",
+      "en": "Clara loves cooking, so on Sundays she always makes something new for the whole family.",
+      "pt": "A Clara adora cozinhar, então aos domingos sempre prepara algo novo para a família toda."
+    },
+    {
+      "text": "No hay nada que me relaje más que pasar una tarde entera pescando en el río.",
+      "en": "There's nothing that relaxes me more than spending a whole afternoon fishing on the river.",
+      "pt": "Não há nada que me relaxe mais do que passar uma tarde inteira pescando no rio."
+    },
+    {
+      "text": "Nos hemos apuntado a clases de salsa los viernes por la noche y nos lo pasamos genial.",
+      "en": "We've signed up for salsa classes on Friday nights and we're having a great time.",
+      "pt": "Nos inscrevemos em aulas de salsa às sextas à noite e estamos nos divertindo muito."
+    },
+    {
+      "text": "¿Has visto la última película de Almodóvar o todavía no ha llegado a los cines de tu ciudad?",
+      "en": "Have you seen the latest Almodóvar film, or hasn't it reached the cinemas in your city yet?",
+      "pt": "Você já viu o último filme do Almodóvar ou ele ainda não chegou aos cinemas da sua cidade?"
+    },
+    {
+      "text": "El domingo me levanté tardísimo, desayuné tranquilamente y me pasé la tarde en el sofá.",
+      "en": "On Sunday I got up really late, had a leisurely breakfast and spent the afternoon on the sofa.",
+      "pt": "No domingo acordei muito tarde, tomei café com calma e passei a tarde no sofá."
+    },
+    {
+      "text": "Me he comprado una guitarra de segunda mano y estoy aprendiendo con vídeos de internet.",
+      "en": "I've bought a second-hand guitar and I'm learning with online videos.",
+      "pt": "Comprei um violão usado e estou aprendendo com vídeos da internet."
+    },
+    {
+      "text": "Para que los niños se desfogaran un poco, los llevamos al parque de atracciones el sábado.",
+      "en": "So the kids could let off some steam, we took them to the theme park on Saturday.",
+      "pt": "Para as crianças gastarem um pouco de energia, levamos elas ao parque de diversões no sábado."
+    },
+    {
+      "text": "Siempre que tengo un fin de semana libre, aprovecho para escaparme a algún pueblo con encanto.",
+      "en": "Whenever I have a free weekend, I take the chance to get away to some charming village.",
+      "pt": "Sempre que tenho um fim de semana livre, aproveito para fugir para alguma cidadezinha charmosa."
+    },
+    {
+      "text": "No entiendo cómo te puede gustar correr maratones, porque a mí me parece una tortura.",
+      "en": "I don't understand how you can enjoy running marathons, because to me it seems like torture.",
+      "pt": "Não entendo como você pode gostar de correr maratonas, porque para mim parece uma tortura."
+    },
+    {
+      "text": "Mi pareja y yo estamos haciendo un curso de cocina japonesa los martes por la tarde.",
+      "en": "My partner and I are doing a Japanese cooking course on Tuesday evenings.",
+      "pt": "Eu e meu parceiro estamos fazendo um curso de culinária japonesa às terças à tarde."
+    },
+    {
+      "text": "Este verano quiero aprender a hacer surf, aunque el mar me da un poco de miedo.",
+      "en": "This summer I want to learn to surf, although the sea scares me a little.",
+      "pt": "Neste verão quero aprender a surfar, embora o mar me dê um pouco de medo."
+    },
+    {
+      "text": "Los viernes por la noche quedamos para jugar a juegos de mesa y pedimos unas pizzas.",
+      "en": "On Friday nights we get together to play board games and order some pizzas.",
+      "pt": "Às sextas à noite nos reunimos para jogar jogos de tabuleiro e pedimos umas pizzas."
+    },
+    {
+      "text": "Me encantaría hacer voluntariado los fines de semana, pero aún no he encontrado ninguna asociación cerca.",
+      "en": "I'd love to volunteer at weekends, but I haven't found an organisation nearby yet.",
+      "pt": "Eu adoraria fazer trabalho voluntário nos fins de semana, mas ainda não encontrei nenhuma associação por perto."
+    },
+    {
+      "text": "¿Quieres que te enseñe a hacer punto, que es más relajante de lo que parece?",
+      "en": "Do you want me to teach you to knit, since it's more relaxing than it looks?",
+      "pt": "Quer que eu te ensine a tricotar, que é mais relaxante do que parece?"
+    },
+    {
+      "text": "Cuando mis amigos y yo nos juntamos para ver el partido, siempre acabamos discutiendo de fútbol.",
+      "en": "Whenever my friends and I get together to watch the match, we always end up arguing about football.",
+      "pt": "Quando eu e meus amigos nos juntamos para ver o jogo, sempre acabamos discutindo sobre futebol."
+    }
+  ],
+  "home and daily routine": [
+    {
+      "text": "Entre semana me levanto a las seis y media para que me dé tiempo a desayunar tranquilo.",
+      "en": "On weekdays I get up at half past six so I have time for a relaxed breakfast.",
+      "pt": "Durante a semana acordo às seis e meia para dar tempo de tomar café com calma."
+    },
+    {
+      "text": "Si llegas a casa antes que yo, ¿podrías poner la lavadora y tender la ropa?",
+      "en": "If you get home before me, could you put a wash on and hang the clothes out?",
+      "pt": "Se você chegar em casa antes de mim, poderia colocar a roupa para lavar e depois estender?"
+    },
+    {
+      "text": "En casa nos repartimos las tareas: yo cocino y mi pareja friega los platos.",
+      "en": "At home we share the chores: I cook and my partner does the dishes.",
+      "pt": "Em casa dividimos as tarefas: eu cozinho e meu parceiro lava a louça."
+    },
+    {
+      "text": "Desde que trabajo en casa, me cuesta mucho separar la vida personal del trabajo.",
+      "en": "Since I started working at home, I find it really hard to separate my personal life from work.",
+      "pt": "Desde que trabalho em casa, tenho muita dificuldade em separar a vida pessoal do trabalho."
+    },
+    {
+      "text": "Antes de acostarme, siempre dejo preparada la ropa que me voy a poner al día siguiente.",
+      "en": "Before going to bed, I always lay out the clothes I'm going to wear the next day.",
+      "pt": "Antes de dormir, sempre deixo separada a roupa que vou vestir no dia seguinte."
+    },
+    {
+      "text": "Hay que llamar al fontanero cuanto antes, porque el grifo de la cocina no deja de gotear.",
+      "en": "We need to call the plumber as soon as possible, because the kitchen tap won't stop dripping.",
+      "pt": "Precisamos chamar o encanador o quanto antes, porque a torneira da cozinha não para de pingar."
+    },
+    {
+      "text": "No soporto que dejes los calcetines tirados por el suelo del salón.",
+      "en": "I can't stand you leaving your socks lying around on the living room floor.",
+      "pt": "Não suporto que você deixe as meias jogadas no chão da sala."
+    },
+    {
+      "text": "Los domingos por la tarde aprovecho para hacer la compra de toda la semana y cocinar.",
+      "en": "On Sunday afternoons I take the chance to do the whole week's shopping and cook.",
+      "pt": "Aos domingos à tarde aproveito para fazer as compras da semana toda e cozinhar."
+    },
+    {
+      "text": "Mi rutina cambió por completo cuando empecé a ir al gimnasio antes del trabajo.",
+      "en": "My routine changed completely when I started going to the gym before work.",
+      "pt": "Minha rotina mudou completamente quando comecei a ir à academia antes do trabalho."
+    },
+    {
+      "text": "¿Te importaría bajar la basura cuando salgas, que yo tengo las manos ocupadas?",
+      "en": "Would you mind taking the rubbish down when you go out, as my hands are full?",
+      "pt": "Você se importaria de levar o lixo quando sair, que estou com as mãos ocupadas?"
+    },
+    {
+      "text": "Queremos pintar el piso antes de que nazca el bebé, pero no encontramos el momento.",
+      "en": "We want to paint the flat before the baby is born, but we can't find the time.",
+      "pt": "Queremos pintar o apartamento antes que o bebê nasça, mas não achamos tempo."
+    },
+    {
+      "text": "Por las mañanas no soy persona hasta que me tomo el primer café.",
+      "en": "In the mornings I'm not human until I've had my first coffee.",
+      "pt": "De manhã eu não sou gente até tomar o primeiro café."
+    },
+    {
+      "text": "Cada vez que salta la luz, tengo que bajar al sótano para revisar el cuadro eléctrico.",
+      "en": "Every time the power trips, I have to go down to the basement to check the fuse box.",
+      "pt": "Toda vez que a energia cai, tenho que descer ao porão para verificar o quadro de luz."
+    },
+    {
+      "text": "Si no ordenas tu cuarto antes de cenar, mañana no saldrás con tus amigos.",
+      "en": "If you don't tidy your room before dinner, you won't be going out with your friends tomorrow.",
+      "pt": "Se você não arrumar o quarto antes do jantar, amanhã não vai sair com os amigos."
+    },
+    {
+      "text": "Me he acostumbrado a dormir la siesta los fines de semana y ya no puedo vivir sin ella.",
+      "en": "I've got used to having a nap at weekends and now I can't live without it.",
+      "pt": "Me acostumei a tirar uma soneca nos fins de semana e agora não consigo viver sem ela."
+    },
+    {
+      "text": "Al volver del trabajo, lo primero que hago es quitarme los zapatos y ponerme cómodo.",
+      "en": "When I get back from work, the first thing I do is take off my shoes and get comfortable.",
+      "pt": "Ao voltar do trabalho, a primeira coisa que faço é tirar os sapatos e ficar à vontade."
+    },
+    {
+      "text": "Nuestro piso es pequeño, pero tiene mucha luz y unas vistas preciosas a la sierra.",
+      "en": "Our flat is small, but it gets lots of light and has lovely views of the mountains.",
+      "pt": "Nosso apartamento é pequeno, mas tem muita luz e uma vista linda para a serra."
+    },
+    {
+      "text": "¿Quién se ha dejado la ventana del baño abierta toda la noche, con el frío que hace?",
+      "en": "Who left the bathroom window open all night, in this cold?",
+      "pt": "Quem deixou a janela do banheiro aberta a noite toda, com esse frio?"
+    },
+    {
+      "text": "Aunque odio planchar, prefiero hacerlo el domingo que tenerlo pendiente toda la semana.",
+      "en": "Although I hate ironing, I'd rather do it on Sunday than have it hanging over me all week.",
+      "pt": "Embora eu odeie passar roupa, prefiro fazer isso no domingo a ficar com isso pendente a semana toda."
+    },
+    {
+      "text": "Antes de salir, comprueba que has apagado el horno y has cerrado la puerta con llave.",
+      "en": "Before you leave, check that you've turned off the oven and locked the door.",
+      "pt": "Antes de sair, confira se você desligou o forno e trancou a porta."
+    },
+    {
+      "text": "Mis hijos tardan tanto en vestirse que casi todos los días llegamos tarde al colegio.",
+      "en": "My kids take so long to get dressed that we're late for school almost every day.",
+      "pt": "Meus filhos demoram tanto para se vestir que quase todo dia chegamos atrasados na escola."
+    },
+    {
+      "text": "Estamos pensando en reformar la cocina, aunque nos da pereza vivir entre obras varios meses.",
+      "en": "We're thinking of redoing the kitchen, although we can't face living with building work for months.",
+      "pt": "Estamos pensando em reformar a cozinha, embora dê preguiça viver no meio de obra por vários meses."
+    },
+    {
+      "text": "Me levanto, me ducho, desayuno algo rápido y salgo corriendo a coger el autobús de las ocho.",
+      "en": "I get up, have a shower, grab a quick breakfast and rush out to catch the eight o'clock bus.",
+      "pt": "Eu acordo, tomo banho, como algo rápido e saio correndo para pegar o ônibus das oito."
+    },
+    {
+      "text": "Es mejor que pongas el lavavajillas por la noche, que la luz sale más barata.",
+      "en": "It's better to run the dishwasher at night, as electricity is cheaper then.",
+      "pt": "É melhor ligar a lava-louças à noite, que a energia sai mais barata."
+    },
+    {
+      "text": "Desde que tenemos robot aspirador, ya no discutimos por quién tiene que barrer.",
+      "en": "Since we got a robot vacuum, we no longer argue about who has to sweep.",
+      "pt": "Desde que temos aspirador robô, não discutimos mais sobre quem tem que varrer."
+    },
+    {
+      "text": "Cuando vivía con mis padres, nunca me preocupaba de las facturas ni de la limpieza.",
+      "en": "When I lived with my parents, I never worried about bills or cleaning.",
+      "pt": "Quando eu morava com meus pais, nunca me preocupava com contas nem com limpeza."
+    },
+    {
+      "text": "¿Podrías darle de comer al gato mientras estoy de viaje si te dejo las llaves?",
+      "en": "Could you feed the cat while I'm away if I leave you the keys?",
+      "pt": "Você poderia dar comida para o gato enquanto eu estiver viajando se eu deixar as chaves com você?"
+    },
+    {
+      "text": "Me cuesta muchísimo madrugar en invierno, cuando todavía es de noche al salir de casa.",
+      "en": "I find it really hard to get up early in winter, when it's still dark as I leave the house.",
+      "pt": "Tenho muita dificuldade em acordar cedo no inverno, quando ainda está escuro ao sair de casa."
+    },
+    {
+      "text": "La calefacción lleva dos días sin funcionar y el técnico no puede venir hasta el jueves.",
+      "en": "The heating hasn't worked for two days and the technician can't come until Thursday.",
+      "pt": "O aquecimento está sem funcionar há dois dias e o técnico só pode vir na quinta."
+    },
+    {
+      "text": "Después de cenar solemos ver un capítulo de alguna serie antes de irnos a dormir.",
+      "en": "After dinner we usually watch an episode of a series before going to bed.",
+      "pt": "Depois do jantar costumamos ver um episódio de alguma série antes de ir dormir."
+    },
+    {
+      "text": "Ojalá tuviéramos un balcón, porque me encantaría desayunar al aire libre.",
+      "en": "I wish we had a balcony, because I'd love to have breakfast outdoors.",
+      "pt": "Quem dera tivéssemos uma varanda, porque eu adoraria tomar café da manhã ao ar livre."
+    },
+    {
+      "text": "En mi casa cenamos tardísimo, casi nunca antes de las diez de la noche.",
+      "en": "At home we have dinner really late, hardly ever before ten at night.",
+      "pt": "Na minha casa jantamos muito tarde, quase nunca antes das dez da noite."
+    },
+    {
+      "text": "Si no hubieras dejado la puerta de la nevera abierta, no se habría estropeado el pescado.",
+      "en": "If you hadn't left the fridge door open, the fish wouldn't have gone off.",
+      "pt": "Se você não tivesse deixado a porta da geladeira aberta, o peixe não teria estragado."
+    },
+    {
+      "text": "Por mucho que limpie, con dos gatos en casa siempre hay pelos por todas partes.",
+      "en": "However much I clean, with two cats in the house there's always hair everywhere.",
+      "pt": "Por mais que eu limpe, com dois gatos em casa sempre tem pelo por todo lado."
+    },
+    {
+      "text": "Estoy intentando acostarme antes de las once para no ir tan cansado al trabajo.",
+      "en": "I'm trying to go to bed before eleven so I'm not so tired at work.",
+      "pt": "Estou tentando deitar antes das onze para não ir tão cansado para o trabalho."
+    },
+    {
+      "text": "Los lunes saco a pasear al perro antes de que amanezca, porque luego no tengo tiempo.",
+      "en": "On Mondays I walk the dog before dawn, because later on I don't have time.",
+      "pt": "Às segundas levo o cachorro para passear antes de amanhecer, porque depois não tenho tempo."
+    },
+    {
+      "text": "¿Dónde has puesto las llaves del coche, que llevo diez minutos buscándolas?",
+      "en": "Where have you put the car keys, because I've been looking for them for ten minutes?",
+      "pt": "Onde você colocou as chaves do carro, que estou procurando há dez minutos?"
+    },
+    {
+      "text": "Compartir piso con tres personas tiene sus ventajas, aunque a veces echo de menos la intimidad.",
+      "en": "Sharing a flat with three people has its advantages, although sometimes I miss my privacy.",
+      "pt": "Dividir apartamento com três pessoas tem suas vantagens, embora às vezes eu sinta falta de privacidade."
+    },
+    {
+      "text": "Cuando acabemos de recoger la cocina, nos sentamos un rato en el sofá a charlar.",
+      "en": "When we've finished tidying the kitchen, we'll sit on the sofa for a while and chat.",
+      "pt": "Quando terminarmos de arrumar a cozinha, a gente senta um pouco no sofá para conversar."
+    },
+    {
+      "text": "Mi madre siempre decía que una casa ordenada es una mente ordenada, y empiezo a darle la razón.",
+      "en": "My mother always said that a tidy house is a tidy mind, and I'm starting to agree with her.",
+      "pt": "Minha mãe sempre dizia que casa arrumada é mente arrumada, e estou começando a dar razão a ela."
+    }
+  ],
+  "feelings and opinions": [
+    {
+      "text": "Me molesta muchísimo que la gente hable por el móvil en voz alta en el tren.",
+      "en": "It really annoys me when people talk loudly on their phones on the train.",
+      "pt": "Me incomoda muito que as pessoas falem alto no celular no trem."
+    },
+    {
+      "text": "No creo que sea justo juzgar a alguien sin conocer toda la historia.",
+      "en": "I don't think it's fair to judge someone without knowing the whole story.",
+      "pt": "Não acho justo julgar alguém sem conhecer a história toda."
+    },
+    {
+      "text": "Me puse tan nervioso en la entrevista que se me olvidó hasta mi número de teléfono.",
+      "en": "I got so nervous in the interview that I even forgot my own phone number.",
+      "pt": "Fiquei tão nervoso na entrevista que esqueci até meu número de telefone."
+    },
+    {
+      "text": "Sinceramente, me parece que exageras, porque no creo que lo dijera con mala intención.",
+      "en": "Honestly, I think you're exaggerating, because I don't think he meant it badly.",
+      "pt": "Sinceramente, acho que você está exagerando, porque não acho que ele tenha dito por mal."
+    },
+    {
+      "text": "Me hace mucha ilusión que vengas a verme a Valencia este verano.",
+      "en": "I'm really excited that you're coming to see me in Valencia this summer.",
+      "pt": "Estou muito animado que você venha me visitar em Valência neste verão."
+    },
+    {
+      "text": "Estoy harto de que todo el mundo me cuente sus problemas y nadie me pregunte cómo estoy.",
+      "en": "I'm fed up with everyone telling me their problems and nobody asking how I am.",
+      "pt": "Estou cansado de todo mundo me contar seus problemas e ninguém me perguntar como estou."
+    },
+    {
+      "text": "A mi modo de ver, deberían invertir más en transporte público y menos en carreteras.",
+      "en": "The way I see it, they should invest more in public transport and less in roads.",
+      "pt": "Do meu ponto de vista, deveriam investir mais em transporte público e menos em estradas."
+    },
+    {
+      "text": "Me dio muchísima vergüenza cuando me di cuenta de que había llamado a mi jefe por otro nombre.",
+      "en": "I was so embarrassed when I realised I'd called my boss by the wrong name.",
+      "pt": "Fiquei com muita vergonha quando percebi que tinha chamado meu chefe por outro nome."
+    },
+    {
+      "text": "¿De verdad te parece buena idea dejar el trabajo sin tener otro?",
+      "en": "Do you really think it's a good idea to quit your job without having another one?",
+      "pt": "Você acha mesmo uma boa ideia largar o emprego sem ter outro?"
+    },
+    {
+      "text": "Me tranquiliza saber que, decida lo que decida, mi familia me va a apoyar.",
+      "en": "It reassures me to know that, whatever I decide, my family will support me.",
+      "pt": "Me tranquiliza saber que, seja qual for minha decisão, minha família vai me apoiar."
+    },
+    {
+      "text": "Lo que más me preocupa es que los jóvenes no puedan permitirse alquilar un piso.",
+      "en": "What worries me most is that young people can't afford to rent a flat.",
+      "pt": "O que mais me preocupa é que os jovens não consigam pagar o aluguel de um apartamento."
+    },
+    {
+      "text": "Estaba convencida de que no me darían la beca, así que cuando me llamaron me eché a llorar.",
+      "en": "I was convinced I wouldn't get the grant, so when they called me I burst into tears.",
+      "pt": "Eu estava convencida de que não ia ganhar a bolsa, então quando me ligaram caí no choro."
+    },
+    {
+      "text": "Puede que tengas razón, pero yo lo veo de otra manera.",
+      "en": "You may be right, but I see it differently.",
+      "pt": "Pode ser que você tenha razão, mas eu vejo de outra forma."
+    },
+    {
+      "text": "Me da mucha rabia que me interrumpan cuando estoy explicando algo importante.",
+      "en": "It really makes me angry when people interrupt me while I'm explaining something important.",
+      "pt": "Me dá muita raiva quando me interrompem enquanto estou explicando algo importante."
+    },
+    {
+      "text": "No me esperaba que la película fuera tan buena, y la verdad es que me emocionó.",
+      "en": "I didn't expect the film to be so good, and to be honest it really moved me.",
+      "pt": "Eu não esperava que o filme fosse tão bom, e a verdade é que me emocionou."
+    },
+    {
+      "text": "Estoy de acuerdo contigo en lo esencial, aunque no en todos los detalles.",
+      "en": "I agree with you on the essentials, though not on every detail.",
+      "pt": "Concordo com você no essencial, embora não em todos os detalhes."
+    },
+    {
+      "text": "Desde que me mudé, me siento mucho más tranquila y tengo menos ansiedad.",
+      "en": "Since I moved, I feel much calmer and I have less anxiety.",
+      "pt": "Desde que me mudei, me sinto muito mais tranquila e tenho menos ansiedade."
+    },
+    {
+      "text": "¿No te da miedo viajar sola por países que no conoces?",
+      "en": "Aren't you scared of travelling alone in countries you don't know?",
+      "pt": "Você não tem medo de viajar sozinha por países que não conhece?"
+    },
+    {
+      "text": "Me sentí fatal por no haber ido a su cumpleaños, así que le mandé un regalo.",
+      "en": "I felt terrible about missing her birthday, so I sent her a present.",
+      "pt": "Me senti péssimo por não ter ido ao aniversário dela, então mandei um presente."
+    },
+    {
+      "text": "Que yo sepa, nadie se ha quejado del nuevo horario, así que no entiendo el problema.",
+      "en": "As far as I know, nobody has complained about the new timetable, so I don't see the problem.",
+      "pt": "Que eu saiba, ninguém reclamou do novo horário, então não entendo o problema."
+    },
+    {
+      "text": "Me encanta que la gente sea sincera, aunque a veces la verdad duela.",
+      "en": "I love it when people are honest, even if the truth sometimes hurts.",
+      "pt": "Adoro quando as pessoas são sinceras, mesmo que às vezes a verdade doa."
+    },
+    {
+      "text": "Para mí, lo más importante de un trabajo es que te deje tiempo para tu vida.",
+      "en": "For me, the most important thing about a job is that it leaves you time for your own life.",
+      "pt": "Para mim, o mais importante num trabalho é que ele te deixe tempo para a sua vida."
+    },
+    {
+      "text": "Me sorprende que todavía haya gente que no recicle, con lo fácil que es hoy en día.",
+      "en": "It surprises me that there are still people who don't recycle, given how easy it is nowadays.",
+      "pt": "Me surpreende que ainda haja gente que não recicla, sendo tão fácil hoje em dia."
+    },
+    {
+      "text": "Cuando me enteré de la noticia, no supe si reír o llorar.",
+      "en": "When I heard the news, I didn't know whether to laugh or cry.",
+      "pt": "Quando fiquei sabendo da notícia, não soube se ria ou chorava."
+    },
+    {
+      "text": "Tengo la sensación de que últimamente todo el mundo va con prisa y nadie disfruta de nada.",
+      "en": "I get the feeling that lately everyone's in a hurry and nobody enjoys anything.",
+      "pt": "Tenho a sensação de que ultimamente todo mundo anda com pressa e ninguém aproveita nada."
+    },
+    {
+      "text": "No es que no me guste tu idea, es que creo que todavía no es el momento.",
+      "en": "It's not that I don't like your idea; it's that I don't think the time is right yet.",
+      "pt": "Não é que eu não goste da sua ideia, é que acho que ainda não é o momento."
+    },
+    {
+      "text": "Me pone de muy buen humor salir a correr temprano y ver amanecer junto al mar.",
+      "en": "Going for an early run and watching the sunrise by the sea puts me in a really good mood.",
+      "pt": "Sair para correr cedo e ver o sol nascer à beira-mar me deixa de muito bom humor."
+    },
+    {
+      "text": "Admiro mucho a mi tía Pilar porque siempre ha luchado por lo que quería.",
+      "en": "I really admire my aunt Pilar because she has always fought for what she wanted.",
+      "pt": "Admiro muito minha tia Pilar porque ela sempre lutou pelo que queria."
+    },
+    {
+      "text": "Aunque al principio me costó adaptarme, ahora no cambiaría esta ciudad por nada.",
+      "en": "Although it was hard to adapt at first, now I wouldn't swap this city for anything.",
+      "pt": "Embora no começo tenha sido difícil me adaptar, agora não trocaria esta cidade por nada."
+    },
+    {
+      "text": "Me parece fatal que hayan cerrado la biblioteca del barrio para construir un aparcamiento.",
+      "en": "I think it's terrible that they've closed the local library to build a car park.",
+      "pt": "Acho péssimo que tenham fechado a biblioteca do bairro para construir um estacionamento."
+    },
+    {
+      "text": "¿Qué opinas de que los niños tengan móvil antes de cumplir los doce años?",
+      "en": "What do you think about children having mobile phones before they turn twelve?",
+      "pt": "O que você acha de as crianças terem celular antes de completarem doze anos?"
+    },
+    {
+      "text": "Estoy muy orgulloso de mi hija, que ha aprobado las oposiciones a la primera.",
+      "en": "I'm very proud of my daughter, who passed the civil service exams at the first attempt.",
+      "pt": "Estou muito orgulhoso da minha filha, que passou no concurso público de primeira."
+    },
+    {
+      "text": "Siento mucho lo que pasó el otro día, porque no era mi intención hacerte daño.",
+      "en": "I'm really sorry about what happened the other day, because I never meant to hurt you.",
+      "pt": "Sinto muito pelo que aconteceu outro dia, porque não era minha intenção te magoar."
+    },
+    {
+      "text": "Me agobia muchísimo tener tantas cosas pendientes y no saber por dónde empezar.",
+      "en": "It really stresses me out to have so many things to do and not know where to start.",
+      "pt": "Me angustia muito ter tantas coisas pendentes e não saber por onde começar."
+    },
+    {
+      "text": "Francamente, no entiendo por qué te molesta tanto que tu hermano opine diferente.",
+      "en": "Frankly, I don't understand why it bothers you so much that your brother thinks differently.",
+      "pt": "Francamente, não entendo por que te incomoda tanto que seu irmão pense diferente."
+    },
+    {
+      "text": "Me quedé de piedra cuando me dijeron que Jorge y Ana se habían separado.",
+      "en": "I was stunned when they told me that Jorge and Ana had split up.",
+      "pt": "Fiquei de queixo caído quando me disseram que o Jorge e a Ana tinham se separado."
+    },
+    {
+      "text": "Por un lado me apetece cambiar de aires, pero por otro me da pena dejar a mis amigos.",
+      "en": "On the one hand I fancy a change of scene, but on the other I'm sad to leave my friends.",
+      "pt": "Por um lado estou a fim de mudar de ares, mas por outro me dá pena deixar meus amigos."
+    },
+    {
+      "text": "Dudo mucho que el Gobierno cumpla todo lo que prometió en la campaña.",
+      "en": "I very much doubt the government will deliver everything it promised in the campaign.",
+      "pt": "Duvido muito que o governo cumpra tudo o que prometeu na campanha."
+    },
+    {
+      "text": "¡Qué alegría me da verte tan recuperado después de todo lo que has pasado!",
+      "en": "I'm so happy to see you so well recovered after everything you've been through!",
+      "pt": "Que alegria te ver tão recuperado depois de tudo o que você passou!"
+    },
+    {
+      "text": "Creo que la felicidad está en las cosas pequeñas, como una buena charla con los amigos.",
+      "en": "I think happiness lies in the little things, like a good chat with friends.",
+      "pt": "Acho que a felicidade está nas pequenas coisas, como uma boa conversa com os amigos."
+    }
+  ],
+  "small talk with a neighbour": [
+    {
+      "text": "Buenos días, Manuel, ¿qué tal le fue a su hija en el examen de conducir?",
+      "en": "Good morning, Manuel, how did your daughter get on in her driving test?",
+      "pt": "Bom dia, Manuel, como sua filha se saiu na prova de direção?"
+    },
+    {
+      "text": "Perdone que le moleste, pero ¿sabe si han arreglado ya el ascensor?",
+      "en": "Sorry to bother you, but do you know if they've fixed the lift yet?",
+      "pt": "Desculpe incomodar, mas o senhor sabe se já consertaram o elevador?"
+    },
+    {
+      "text": "Con el calor que ha hecho esta noche, no he podido pegar ojo, ¿y usted?",
+      "en": "With how hot it was last night, I didn't sleep a wink; how about you?",
+      "pt": "Com o calor que fez esta noite, não consegui pregar o olho, e o senhor?"
+    },
+    {
+      "text": "He visto que tienen un perro nuevo; ¿cómo se llama y cuántos meses tiene?",
+      "en": "I see you've got a new dog; what's its name and how many months old is it?",
+      "pt": "Vi que vocês têm um cachorro novo; como ele se chama e quantos meses tem?"
+    },
+    {
+      "text": "Si necesita que le riegue las plantas mientras está fuera, no dude en decírmelo.",
+      "en": "If you need me to water your plants while you're away, don't hesitate to ask.",
+      "pt": "Se precisar que eu regue suas plantas enquanto estiver fora, não hesite em me dizer."
+    },
+    {
+      "text": "¿Se ha enterado de que van a abrir un supermercado nuevo en la esquina?",
+      "en": "Have you heard they're going to open a new supermarket on the corner?",
+      "pt": "O senhor ficou sabendo que vão abrir um supermercado novo na esquina?"
+    },
+    {
+      "text": "Disculpe el ruido de ayer, que celebramos el cumpleaños de mi hijo y se nos hizo tarde.",
+      "en": "Sorry about the noise yesterday; we were celebrating my son's birthday and it got late.",
+      "pt": "Desculpe o barulho de ontem, é que comemoramos o aniversário do meu filho e acabou ficando tarde."
+    },
+    {
+      "text": "Hace siglos que no le veía, ¿ha estado usted de viaje?",
+      "en": "I haven't seen you for ages; have you been away?",
+      "pt": "Faz séculos que não vejo o senhor, estava viajando?"
+    },
+    {
+      "text": "Me han dicho que la comunidad va a subir la cuota para pintar la fachada.",
+      "en": "I've been told the residents' association is going to raise the fees to paint the front of the building.",
+      "pt": "Me disseram que o condomínio vai aumentar a taxa para pintar a fachada."
+    },
+    {
+      "text": "¡Qué mayor está su nieto, si la última vez que lo vi todavía era un bebé!",
+      "en": "How grown-up your grandson is, when the last time I saw him he was still a baby!",
+      "pt": "Como seu neto está grande, e da última vez que o vi ainda era um bebê!"
+    },
+    {
+      "text": "¿Le importaría avisarme si ve que llega un paquete a mi nombre esta tarde?",
+      "en": "Would you mind letting me know if you see a parcel arrive in my name this afternoon?",
+      "pt": "O senhor se importaria de me avisar se vir chegar um pacote no meu nome hoje à tarde?"
+    },
+    {
+      "text": "Parece que por fin ha llegado la primavera; ya era hora de ver un poco de sol.",
+      "en": "It looks like spring has finally arrived; it was about time we saw some sun.",
+      "pt": "Parece que finalmente a primavera chegou; já era hora de ver um pouco de sol."
+    },
+    {
+      "text": "¿Qué tal se han adaptado los niños al nuevo colegio?",
+      "en": "How have the children settled into their new school?",
+      "pt": "Como as crianças se adaptaram à escola nova?"
+    },
+    {
+      "text": "Oiga, ¿sabe usted a qué hora pasa el camión de la basura los sábados?",
+      "en": "Excuse me, do you know what time the bin lorry comes on Saturdays?",
+      "pt": "Escuta, o senhor sabe a que horas passa o caminhão de lixo aos sábados?"
+    },
+    {
+      "text": "Ya me he enterado de lo de su marido; si necesita cualquier cosa, aquí me tiene.",
+      "en": "I've heard about your husband; if you need anything at all, I'm here for you.",
+      "pt": "Já fiquei sabendo do que aconteceu com seu marido; se precisar de qualquer coisa, pode contar comigo."
+    },
+    {
+      "text": "Mire, le he traído unos tomates de mi huerto, que este año hemos tenido muchísimos.",
+      "en": "Look, I've brought you some tomatoes from my vegetable patch, as we've had loads this year.",
+      "pt": "Olha, trouxe uns tomates da minha horta para o senhor, que este ano tivemos muitos."
+    },
+    {
+      "text": "¿Sabe qué obras están haciendo en el piso de abajo, que llevan una semana con el taladro?",
+      "en": "Do you know what work they're doing in the flat downstairs, because they've been drilling for a week?",
+      "pt": "O senhor sabe que obra estão fazendo no apartamento de baixo, que estão há uma semana com a furadeira?"
+    },
+    {
+      "text": "Me alegro de que se haya recuperado tan rápido de la operación de rodilla.",
+      "en": "I'm glad you've recovered so quickly from your knee operation.",
+      "pt": "Fico feliz que o senhor tenha se recuperado tão rápido da cirurgia no joelho."
+    },
+    {
+      "text": "¿Va usted también a la reunión de vecinos del jueves por la tarde?",
+      "en": "Are you going to the residents' meeting on Thursday afternoon too?",
+      "pt": "O senhor também vai à reunião de condomínio de quinta à tarde?"
+    },
+    {
+      "text": "Le dejo mi número por si alguna vez necesita algo o pasa cualquier cosa en el edificio.",
+      "en": "I'll leave you my number in case you ever need anything or something happens in the building.",
+      "pt": "Vou deixar meu número caso o senhor precise de algo ou aconteça qualquer coisa no prédio."
+    },
+    {
+      "text": "Por lo que me han contado, los nuevos vecinos del tercero son una pareja de Argentina.",
+      "en": "From what I've been told, the new neighbours on the third floor are a couple from Argentina.",
+      "pt": "Pelo que me contaram, os novos vizinhos do terceiro andar são um casal da Argentina."
+    },
+    {
+      "text": "¿Qué está cocinando hoy, que huele de maravilla desde el rellano?",
+      "en": "What are you cooking today, because it smells wonderful from the landing?",
+      "pt": "O que a senhora está cozinhando hoje, que está com um cheiro maravilhoso lá do corredor?"
+    },
+    {
+      "text": "Espero que el perro no les moleste por las noches, que está aprendiendo a quedarse solo.",
+      "en": "I hope the dog doesn't bother you at night; he's learning to stay on his own.",
+      "pt": "Espero que o cachorro não incomode vocês à noite, que ele está aprendendo a ficar sozinho."
+    },
+    {
+      "text": "¿Va a ir al pueblo este verano o se queda en Madrid como el año pasado?",
+      "en": "Are you going to your village this summer, or staying in Madrid like last year?",
+      "pt": "O senhor vai para a sua cidade natal neste verão ou vai ficar em Madri como no ano passado?"
+    },
+    {
+      "text": "Me ha dicho el portero que mañana cortarán el agua de diez a doce.",
+      "en": "The caretaker told me they'll cut off the water tomorrow from ten to twelve.",
+      "pt": "O porteiro me disse que amanhã vão cortar a água das dez ao meio-dia."
+    },
+    {
+      "text": "Si quiere, le ayudo a subir las bolsas, que pesan bastante.",
+      "en": "If you like, I'll help you carry the bags up, as they're quite heavy.",
+      "pt": "Se quiser, eu ajudo o senhor a subir com as sacolas, que estão bem pesadas."
+    },
+    {
+      "text": "Vaya tiempo más raro estamos teniendo este otoño, ¿no le parece?",
+      "en": "What strange weather we're having this autumn, don't you think?",
+      "pt": "Que tempo mais estranho estamos tendo neste outono, não acha?"
+    },
+    {
+      "text": "Su hija toca el violín muy bien; a veces la escuchamos practicar por las tardes.",
+      "en": "Your daughter plays the violin very well; sometimes we hear her practising in the afternoons.",
+      "pt": "Sua filha toca violino muito bem; às vezes a gente ouve ela ensaiar à tarde."
+    },
+    {
+      "text": "¿Sabe si alguien ha avisado ya al administrador de la gotera del garaje?",
+      "en": "Do you know if anyone has told the property manager about the leak in the garage yet?",
+      "pt": "O senhor sabe se alguém já avisou o síndico sobre a goteira na garagem?"
+    },
+    {
+      "text": "Tienen ustedes una terraza muy soleada, y se nota en lo bonitos que están los geranios.",
+      "en": "You've got a very sunny terrace, and it shows in how lovely the geraniums look.",
+      "pt": "Vocês têm um terraço muito ensolarado, e dá para ver pelos gerânios lindos."
+    },
+    {
+      "text": "Cuando vuelva de vacaciones, tenemos que tomarnos un café y me cuenta qué tal.",
+      "en": "When you're back from holiday, we must have a coffee and you can tell me all about it.",
+      "pt": "Quando o senhor voltar das férias, temos que tomar um café e o senhor me conta como foi."
+    },
+    {
+      "text": "Le he cogido el correo estos días porque el buzón ya no cerraba de lo lleno que estaba.",
+      "en": "I've been collecting your post these last few days because the letterbox was so full it wouldn't close.",
+      "pt": "Peguei sua correspondência nestes dias porque a caixa de correio já não fechava de tão cheia."
+    },
+    {
+      "text": "¿Usted también ha notado que el portal está más sucio desde que cambiaron la empresa de limpieza?",
+      "en": "Have you also noticed that the entrance hall is dirtier since they changed the cleaning company?",
+      "pt": "O senhor também reparou que a portaria está mais suja desde que trocaram a empresa de limpeza?"
+    },
+    {
+      "text": "Dígale a su mujer que muchas gracias por el bizcocho, que estaba buenísimo.",
+      "en": "Tell your wife thank you so much for the sponge cake, it was delicious.",
+      "pt": "Diga à sua esposa que muito obrigado pelo bolo, que estava uma delícia."
+    },
+    {
+      "text": "Ahora que se ha jubilado, supongo que tendrá mucho más tiempo para sus cosas.",
+      "en": "Now that you've retired, I suppose you'll have much more time for your own things.",
+      "pt": "Agora que o senhor se aposentou, imagino que vai ter muito mais tempo para as suas coisas."
+    },
+    {
+      "text": "Si oye ruidos raros en mi piso este fin de semana, no se preocupe, que son los pintores.",
+      "en": "If you hear strange noises in my flat this weekend, don't worry, it's just the painters.",
+      "pt": "Se ouvir barulhos estranhos no meu apartamento neste fim de semana, não se preocupe, são os pintores."
+    },
+    {
+      "text": "Mi hijo dice que su nieto y él van juntos a clase de inglés.",
+      "en": "My son says that he and your grandson go to English class together.",
+      "pt": "Meu filho diz que ele e seu neto fazem aula de inglês juntos."
+    },
+    {
+      "text": "¿Cree usted que deberíamos poner cámaras en la entrada después de los robos del mes pasado?",
+      "en": "Do you think we should put cameras at the entrance after last month's break-ins?",
+      "pt": "O senhor acha que deveríamos colocar câmeras na entrada depois dos roubos do mês passado?"
+    },
+    {
+      "text": "No sabía que usted también fuera del Atleti; tenemos que ver algún partido juntos.",
+      "en": "I didn't know you were an Atlético fan too; we must watch a match together.",
+      "pt": "Eu não sabia que o senhor também torcia para o Atlético; temos que ver algum jogo juntos."
+    },
+    {
+      "text": "Bueno, no le entretengo más, que seguro que tiene mil cosas que hacer.",
+      "en": "Well, I won't keep you any longer, as I'm sure you've got a thousand things to do.",
+      "pt": "Bom, não vou mais tomar seu tempo, que com certeza o senhor tem mil coisas para fazer."
+    }
+  ],
+  "phone calls and appointments": [
+    {
+      "text": "Buenos días, llamaba para pedir cita con la doctora Ruiz para la semana que viene.",
+      "en": "Good morning, I'm calling to make an appointment with Dr Ruiz for next week.",
+      "pt": "Bom dia, estou ligando para marcar uma consulta com a doutora Ruiz para a semana que vem."
+    },
+    {
+      "text": "¿Podría decirle a Javier que me devuelva la llamada en cuanto salga de la reunión?",
+      "en": "Could you ask Javier to call me back as soon as he comes out of the meeting?",
+      "pt": "Poderia pedir ao Javier que me retorne a ligação assim que sair da reunião?"
+    },
+    {
+      "text": "Lo siento, se ha cortado la llamada porque creo que estaba entrando en un túnel.",
+      "en": "Sorry, the call got cut off because I think I was going into a tunnel.",
+      "pt": "Desculpe, a ligação caiu porque acho que eu estava entrando num túnel."
+    },
+    {
+      "text": "Le llamo para confirmar su cita del jueves a las once con el fisioterapeuta.",
+      "en": "I'm calling to confirm your appointment with the physiotherapist on Thursday at eleven.",
+      "pt": "Estou ligando para confirmar sua consulta de quinta às onze com o fisioterapeuta."
+    },
+    {
+      "text": "Si no puede venir, le rogamos que nos avise con al menos veinticuatro horas de antelación.",
+      "en": "If you can't come, please let us know at least twenty-four hours in advance.",
+      "pt": "Se não puder vir, pedimos que nos avise com pelo menos vinte e quatro horas de antecedência."
+    },
+    {
+      "text": "Perdone, no le oigo bien; ¿podría repetir su número de teléfono más despacio?",
+      "en": "Sorry, I can't hear you very well; could you repeat your phone number more slowly?",
+      "pt": "Desculpe, não estou ouvindo bem; poderia repetir seu número de telefone mais devagar?"
+    },
+    {
+      "text": "Llevo media hora esperando a que me atiendan y la musiquita ya me está volviendo loco.",
+      "en": "I've been on hold for half an hour and the hold music is driving me mad.",
+      "pt": "Estou há meia hora esperando para ser atendido e a musiquinha já está me deixando louco."
+    },
+    {
+      "text": "¿Le vendría bien cambiar la cita al viernes por la mañana en lugar del miércoles?",
+      "en": "Would it suit you to move the appointment to Friday morning instead of Wednesday?",
+      "pt": "Seria bom para o senhor mudar a consulta para sexta de manhã em vez de quarta?"
+    },
+    {
+      "text": "Ahora mismo no puedo hablar, pero te llamo en cuanto salga del metro.",
+      "en": "I can't talk right now, but I'll call you as soon as I get out of the metro.",
+      "pt": "Agora não posso falar, mas te ligo assim que sair do metrô."
+    },
+    {
+      "text": "He intentado llamarte varias veces, pero siempre me salta el buzón de voz.",
+      "en": "I've tried calling you several times, but it always goes to voicemail.",
+      "pt": "Tentei te ligar várias vezes, mas sempre cai na caixa postal."
+    },
+    {
+      "text": "La señora Gómez no está en este momento; ¿quiere dejarle algún recado?",
+      "en": "Mrs Gómez isn't here at the moment; would you like to leave her a message?",
+      "pt": "A senhora Gómez não está no momento; quer deixar algum recado?"
+    },
+    {
+      "text": "Necesitaría una cita para cortarme el pelo el sábado, a ser posible por la mañana.",
+      "en": "I'd need an appointment for a haircut on Saturday, in the morning if possible.",
+      "pt": "Eu precisaria de um horário para cortar o cabelo no sábado, de preferência de manhã."
+    },
+    {
+      "text": "¿Me podría pasar con el departamento de reclamaciones, que es por un error en una factura?",
+      "en": "Could you put me through to the complaints department, as it's about a mistake on a bill?",
+      "pt": "Poderia me transferir para o setor de reclamações, que é sobre um erro numa fatura?"
+    },
+    {
+      "text": "Te mando un mensaje con la dirección para que no te pierdas cuando vengas.",
+      "en": "I'll send you a message with the address so you don't get lost when you come.",
+      "pt": "Te mando uma mensagem com o endereço para você não se perder quando vier."
+    },
+    {
+      "text": "Si me hubieras llamado antes, te habría hecho un hueco en la agenda esta misma tarde.",
+      "en": "If you'd called me earlier, I'd have fitted you into my diary this very afternoon.",
+      "pt": "Se você tivesse me ligado antes, eu teria arrumado um horário na agenda hoje mesmo à tarde."
+    },
+    {
+      "text": "Disculpe, me he equivocado de número; estaba buscando la clínica dental.",
+      "en": "Sorry, I've got the wrong number; I was looking for the dental clinic.",
+      "pt": "Desculpe, liguei para o número errado; estava procurando a clínica odontológica."
+    },
+    {
+      "text": "Para pedir cita, marque el uno; para hablar con un operador, marque el cero.",
+      "en": "To make an appointment, press one; to speak to an operator, press zero.",
+      "pt": "Para marcar consulta, digite um; para falar com um atendente, digite zero."
+    },
+    {
+      "text": "¿A qué hora te viene mejor que te llame para hablar con calma del viaje?",
+      "en": "What time suits you best for me to call so we can talk about the trip properly?",
+      "pt": "Que horas é melhor para você que eu te ligue para conversarmos com calma sobre a viagem?"
+    },
+    {
+      "text": "Me han dado cita para renovar el pasaporte dentro de tres semanas, que es lo primero que había.",
+      "en": "I've been given an appointment to renew my passport in three weeks, which was the earliest available.",
+      "pt": "Me deram horário para renovar o passaporte daqui a três semanas, que era o primeiro disponível."
+    },
+    {
+      "text": "No te oigo nada porque hay muchísimo ruido, así que espera que salgo a la calle.",
+      "en": "I can't hear you at all because it's really noisy, so hang on while I step outside.",
+      "pt": "Não estou te ouvindo nada porque tem muito barulho, então espera que vou sair para a rua."
+    },
+    {
+      "text": "Le llamamos de la compañía telefónica para ofrecerle una tarifa con más datos.",
+      "en": "We're calling from the phone company to offer you a plan with more data.",
+      "pt": "Estamos ligando da operadora para oferecer ao senhor um plano com mais dados."
+    },
+    {
+      "text": "Quería anular la cita que tenía mañana, porque me ha surgido un imprevisto en el trabajo.",
+      "en": "I'd like to cancel the appointment I had tomorrow, because something unexpected has come up at work.",
+      "pt": "Queria cancelar a consulta que eu tinha amanhã, porque surgiu um imprevisto no trabalho."
+    },
+    {
+      "text": "¿Sería tan amable de deletrearme su apellido para que lo apunte correctamente?",
+      "en": "Would you be so kind as to spell your surname for me so I can write it down correctly?",
+      "pt": "Poderia fazer a gentileza de soletrar seu sobrenome para eu anotar corretamente?"
+    },
+    {
+      "text": "Mi madre me llama todos los domingos por la noche, aunque no tenga nada que contarme.",
+      "en": "My mother calls me every Sunday night, even if she has nothing to tell me.",
+      "pt": "Minha mãe me liga todo domingo à noite, mesmo que não tenha nada para contar."
+    },
+    {
+      "text": "Si quiere, puedo ponerle en lista de espera por si alguien cancela su cita.",
+      "en": "If you like, I can put you on the waiting list in case someone cancels their appointment.",
+      "pt": "Se quiser, posso colocar o senhor na lista de espera caso alguém cancele a consulta."
+    },
+    {
+      "text": "Se me olvidó cargar el móvil y me quedé sin batería justo cuando iba a llamarte.",
+      "en": "I forgot to charge my phone and the battery died just as I was about to call you.",
+      "pt": "Esqueci de carregar o celular e fiquei sem bateria bem na hora em que ia te ligar."
+    },
+    {
+      "text": "¿Podemos hacer la reunión por videollamada en vez de en persona, que estoy en Málaga?",
+      "en": "Can we do the meeting by video call instead of in person, as I'm in Málaga?",
+      "pt": "Podemos fazer a reunião por videochamada em vez de presencialmente, que estou em Málaga?"
+    },
+    {
+      "text": "Tiene usted cita con el oculista el día tres de marzo a las cuatro menos cuarto.",
+      "en": "You have an appointment with the eye doctor on the third of March at a quarter to four.",
+      "pt": "O senhor tem consulta com o oftalmologista no dia três de março às quinze para as quatro."
+    },
+    {
+      "text": "Llámame en cuanto llegues a casa, que así me quedo más tranquila.",
+      "en": "Call me as soon as you get home, so I don't worry.",
+      "pt": "Me liga assim que chegar em casa, que assim eu fico mais tranquila."
+    },
+    {
+      "text": "Le paso con mi compañera, que es quien lleva su expediente.",
+      "en": "I'll put you through to my colleague, who's handling your file.",
+      "pt": "Vou transferir o senhor para minha colega, que é quem cuida do seu processo."
+    },
+    {
+      "text": "No me gusta nada hablar por teléfono con desconocidos, así que prefiero pedir cita por internet.",
+      "en": "I really don't like talking on the phone to strangers, so I prefer booking appointments online.",
+      "pt": "Não gosto nada de falar ao telefone com desconhecidos, então prefiro marcar horário pela internet."
+    },
+    {
+      "text": "¿Le importa que le llame dentro de diez minutos, que ahora estoy conduciendo?",
+      "en": "Do you mind if I call you in ten minutes, as I'm driving right now?",
+      "pt": "O senhor se importa se eu ligar daqui a dez minutos, que agora estou dirigindo?"
+    },
+    {
+      "text": "El técnico dijo que vendría por la mañana, pero son las tres y no ha aparecido.",
+      "en": "The technician said he'd come in the morning, but it's three o'clock and he hasn't turned up.",
+      "pt": "O técnico disse que viria de manhã, mas já são três horas e ele não apareceu."
+    },
+    {
+      "text": "Te llamo para recordarte que mañana tenemos la cena con los clientes a las nueve.",
+      "en": "I'm calling to remind you that tomorrow we have the dinner with the clients at nine.",
+      "pt": "Estou ligando para te lembrar que amanhã temos o jantar com os clientes às nove."
+    },
+    {
+      "text": "¿Hay algún hueco libre esta semana o tendría que esperar hasta la próxima?",
+      "en": "Is there a free slot this week, or would I have to wait until next week?",
+      "pt": "Tem algum horário livre esta semana ou eu teria que esperar até a próxima?"
+    },
+    {
+      "text": "Ya he hablado con el seguro y me han dicho que mandarán a alguien a mirar el coche.",
+      "en": "I've spoken to the insurance company and they've told me they'll send someone to look at the car.",
+      "pt": "Já falei com o seguro e me disseram que vão mandar alguém para olhar o carro."
+    },
+    {
+      "text": "Cuando llamé a la academia, me dijeron que las clases empezaban el uno de octubre.",
+      "en": "When I called the language school, they told me classes started on the first of October.",
+      "pt": "Quando liguei para a escola, me disseram que as aulas começavam no dia primeiro de outubro."
+    },
+    {
+      "text": "Apúntame la cita en el calendario, que si no, seguro que se me olvida.",
+      "en": "Put the appointment in the calendar for me, because otherwise I'm bound to forget.",
+      "pt": "Anota a consulta no calendário para mim, que senão com certeza eu esqueço."
+    },
+    {
+      "text": "Me extrañó que no me cogieras el teléfono, porque tú siempre contestas enseguida.",
+      "en": "I was surprised you didn't pick up, because you always answer straight away.",
+      "pt": "Estranhei você não atender o telefone, porque você sempre atende na hora."
+    },
+    {
+      "text": "Gracias por llamar; en breve le atenderá uno de nuestros agentes.",
+      "en": "Thank you for calling; one of our agents will be with you shortly.",
+      "pt": "Obrigado por ligar; em breve um de nossos atendentes vai falar com você."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Development-time only: fetches the model weights and eSpeak NG source that get bundled into the APK.
+# Development-time only: fetches the voice model weights and eSpeak NG source that get bundled into the APK.
 # The app itself never touches the network.
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -15,17 +15,6 @@ fetch() { [ -s "$2" ] || { echo "↓ $2"; mkdir -p "$(dirname "$2")"; curl -fL -
 fetch "$KOKORO/onnx/model_quantized.onnx" "$MODELS/kokoro/model_quantized.onnx"
 fetch "$KOKORO/tokenizer.json" "$MODELS/kokoro/tokenizer.json"
 for v in ff_siwis ef_dora em_alex; do fetch "$KOKORO/voices/$v.bin" "$MODELS/kokoro/voices/$v.bin"; done
-
-# Sentence writer: a small LLM writes English (where small models are reliable)…
-fetch "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_0.gguf" "$MODELS/llm/qwen2.5-1.5b-instruct-q4_0.gguf"
-# …and Opus-MT (CC-BY 4.0, Helsinki-NLP) translates it: en→fr, en→es, and en→pt via the ROMANCE model.
-for pair in fr:opus-mt-en-fr es:opus-mt-en-es pt:opus-mt-en-ROMANCE; do
-  dir=$MODELS/mt/${pair%%:*}; repo=https://huggingface.co/Xenova/${pair#*:}/resolve/main
-  fetch "$repo/onnx/encoder_model_quantized.onnx" "$dir/encoder.onnx"
-  fetch "$repo/onnx/decoder_model_merged_quantized.onnx" "$dir/decoder.onnx"
-  fetch "$repo/tokenizer.json" "$dir/tokenizer.json"
-  fetch "$repo/config.json" "$dir/config.json"
-done
 
 if [ ! -d "$VENDOR/espeak-ng" ]; then
   fetch "https://github.com/espeak-ng/espeak-ng/archive/refs/tags/$ESPEAK_TAG.tar.gz" "$VENDOR/espeak-ng.tar.gz"

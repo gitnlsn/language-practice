@@ -22,16 +22,6 @@ export const sentencesSchema = (n: number) => ({
   required: ["sentences"],
 });
 
-/** The same shape as a llama.cpp GBNF grammar, for runtimes that take a grammar rather than a JSON schema. */
-export function sentencesGrammar(n: number): string {
-  const item = "ws string";
-  return [
-    `root ::= "{" ws "\\"sentences\\"" ws ":" ws "[" ${item}${` ws "," ${item}`.repeat(n - 1)} ws "]" ws "}"`,
-    `string ::= "\\"" ( [^"\\\\\\x7F\\x00-\\x1F] | "\\\\" ( ["\\\\/bfnrt] | "u" [0-9a-fA-F]{4} ) )* "\\""`,
-    `ws ::= [ \\t\\n]{0,20}`,
-  ].join("\n");
-}
-
 export interface PromptOptions {
   target: TargetLang;
   level: Level;
@@ -59,36 +49,6 @@ export function sentencesPrompt(o: PromptOptions): string {
     .filter(Boolean)
     .join("\n");
 }
-
-// Android: a small local model writes English (where it is reliable) and Opus-MT translates. The prompt never
-// names the learner's language: small models drift into it and stop writing English.
-const ENGLISH_LEVEL: Record<Level, string> = {
-  A1: "very short (4-8 words), present tense, basic everyday words",
-  A2: "short (6-10 words), present, near future and simple past, common daily-life words",
-  B1: "medium length (8-14 words), past, future and conditional, opinions and plans",
-  B2: "10-18 words, complex clauses (if/although/unless/so that), hypotheticals, common idioms",
-  C1: "12-22 words, nuanced, advanced connectors and idiomatic expressions",
-};
-
-export const ENGLISH_SYSTEM_PROMPT =
-  "You write example sentences in plain, natural English for language learners. Output English only.";
-
-export function englishSentencesPrompt(o: { level: Level; topic: string; count: number; avoid: string[] }): string {
-  const avoid = o.avoid.slice(0, 20);
-  return [
-    `Write ${o.count} different English sentences at CEFR level ${o.level}.`,
-    `Topic: ${o.topic.trim() || "a random everyday situation (pick a different one each time)"}.`,
-    `Sentences: ${ENGLISH_LEVEL[o.level]}.`,
-    "Mix statements, questions and dialogue-style lines. Use simple, literal wording that translates well; avoid English-only idioms and phrasal verbs.",
-    "Each item must be one complete sentence ending with . ? or !",
-    avoid.length ? `Do not repeat any of these:\n${avoid.map((s) => `- ${s}`).join("\n")}` : "",
-  ]
-    .filter(Boolean)
-    .join("\n");
-}
-
-/** Drop fragments a small model sometimes emits (no final punctuation). */
-export const isCompleteSentence = (s: string) => /[.?!…]["”»)]?$/.test(s.trim());
 
 /** Small models sometimes wrap each item in quotes or number it; strip that. */
 const tidy = (s: string) => s.trim().replace(/^\d+[.)]\s+/, "").replace(/^["“«]\s*(.*?)\s*["”»]$/s, "$1").trim();

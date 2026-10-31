@@ -1,6 +1,5 @@
 // The session bar (language · level · topic pills) and the bottom sheet that edits them.
-import { useState } from "react";
-import { Modal, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
+import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import { LEVELS, TOPICS, type Level, type Settings, type TargetLang } from "@viva-voz/core";
@@ -79,15 +78,13 @@ export function SessionSheet(props: {
   const c = useColors();
   const insets = useSafeAreaInsets();
   const { settings, onChange } = props;
-  const [custom, setCustom] = useState("");
-  const isPreset = !settings.topic || TOPICS.includes(settings.topic);
 
   return (
     <Modal visible={props.open != null} transparent animationType="slide" onRequestClose={props.onClose} statusBarTranslucent>
       <Pressable style={styles.scrim} onPress={props.onClose} accessibilityLabel="Close" />
       <View style={[styles.sheet, { backgroundColor: c.bg, paddingBottom: insets.bottom + 16 }]}>
         <View style={[styles.grabber, { backgroundColor: c.line }]} />
-        <ScrollView contentContainerStyle={styles.sheetContent} keyboardShouldPersistTaps="handled">
+        <ScrollView contentContainerStyle={styles.sheetContent}>
           <Text style={[styles.h, { color: c.text }]}>Language</Text>
           <View style={styles.row}>
             {(Object.keys(LANGUAGES) as TargetLang[]).map((t) => {
@@ -140,14 +137,6 @@ export function SessionSheet(props: {
               );
             })}
           </View>
-          <TextInput
-            value={isPreset ? custom : settings.topic}
-            onChangeText={(t) => (setCustom(t), onChange({ topic: t }))}
-            placeholder="…or type your own topic"
-            placeholderTextColor={c.muted}
-            style={[styles.input, { color: c.text, backgroundColor: c.surface, borderColor: !isPreset ? c.accent : c.line }]}
-            returnKeyType="done"
-          />
         </ScrollView>
         <Pressable
           accessibilityRole="button"
@@ -155,7 +144,7 @@ export function SessionSheet(props: {
           style={({ pressed }) => [styles.go, { backgroundColor: c.accent }, pressed && { opacity: 0.85 }]}
         >
           <Ionicons name="sparkles" size={18} color={c.accentInk} />
-          <Text style={[styles.goText, { color: c.accentInk }]}>Generate {settings.count} sentences</Text>
+          <Text style={[styles.goText, { color: c.accentInk }]}>Get {settings.count} sentences</Text>
         </Pressable>
       </View>
     </Modal>
@@ -181,7 +170,6 @@ const styles = StyleSheet.create({
   topics: { flexDirection: "row", flexWrap: "wrap", gap: 8 },
   topic: { flexDirection: "row", alignItems: "center", gap: 6, borderWidth: 1, borderRadius: 999, paddingHorizontal: 12, paddingVertical: 8 },
   topicText: { fontSize: 14 },
-  input: { borderWidth: 1, borderRadius: radius, paddingHorizontal: 14, paddingVertical: 11, fontSize: 15 },
   go: { flexDirection: "row", alignItems: "center", justifyContent: "center", gap: 8, borderRadius: 999, paddingVertical: 15, marginTop: 8 },
   goText: { fontSize: 16, fontWeight: "700" },
 });

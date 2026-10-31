@@ -3,7 +3,7 @@ import type { ColorValue } from "react-native";
 import { Tabs } from "expo-router/js-tabs";
 import { Ionicons } from "@expo/vector-icons";
 import { StatusBar } from "expo-status-bar";
-import { AppProvider, useApp } from "../state/app";
+import { AppProvider } from "../state/app";
 import { warmUp } from "../engine/status";
 import { useColors } from "../theme";
 
@@ -14,12 +14,11 @@ const icon = (on: keyof typeof Ionicons.glyphMap, off: keyof typeof Ionicons.gly
 
 function AppTabs() {
   const c = useColors();
-  const { settings } = useApp();
 
-  // Load everything in the background so the first Generate/Listen doesn't wait for it.
+  // Load the voice in the background so the first Listen doesn't wait for it.
   useEffect(() => {
-    void warmUp(settings.target, settings.native);
-  }, [settings.target, settings.native]);
+    void warmUp();
+  }, []);
 
   return (
     <>

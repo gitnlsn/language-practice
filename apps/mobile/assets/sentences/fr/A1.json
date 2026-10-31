@@ -1,0 +1,2426 @@
+{
+  "ordering at a café or restaurant": [
+    {
+      "text": "Bonjour, un café, s'il vous plaît.",
+      "en": "Hello, a coffee, please.",
+      "pt": "Bom dia, um café, por favor."
+    },
+    {
+      "text": "Je voudrais un thé au citron.",
+      "en": "I would like a lemon tea.",
+      "pt": "Eu queria um chá com limão."
+    },
+    {
+      "text": "L'addition, s'il vous plaît !",
+      "en": "The bill, please!",
+      "pt": "A conta, por favor!"
+    },
+    {
+      "text": "Vous avez une table pour deux ?",
+      "en": "Do you have a table for two?",
+      "pt": "Vocês têm uma mesa para dois?"
+    },
+    {
+      "text": "Je prends le menu du jour.",
+      "en": "I'll have the set menu of the day.",
+      "pt": "Eu vou querer o menu do dia."
+    },
+    {
+      "text": "Un croissant et un jus d'orange.",
+      "en": "A croissant and an orange juice.",
+      "pt": "Um croissant e um suco de laranja."
+    },
+    {
+      "text": "La carte, s'il vous plaît.",
+      "en": "The menu, please.",
+      "pt": "O cardápio, por favor."
+    },
+    {
+      "text": "C'est combien, le sandwich ?",
+      "en": "How much is the sandwich?",
+      "pt": "Quanto custa o sanduíche?"
+    },
+    {
+      "text": "Je n'aime pas le poisson.",
+      "en": "I don't like fish.",
+      "pt": "Eu não gosto de peixe."
+    },
+    {
+      "text": "Une bouteille d'eau, s'il vous plaît.",
+      "en": "A bottle of water, please.",
+      "pt": "Uma garrafa de água, por favor."
+    },
+    {
+      "text": "Marie prend une salade verte.",
+      "en": "Marie is having a green salad.",
+      "pt": "A Marie vai comer uma salada verde."
+    },
+    {
+      "text": "Le café est très chaud.",
+      "en": "The coffee is very hot.",
+      "pt": "O café está muito quente."
+    },
+    {
+      "text": "Vous avez du pain ?",
+      "en": "Do you have any bread?",
+      "pt": "Vocês têm pão?"
+    },
+    {
+      "text": "Je suis végétarien.",
+      "en": "I am vegetarian.",
+      "pt": "Eu sou vegetariano."
+    },
+    {
+      "text": "On peut payer par carte ?",
+      "en": "Can we pay by card?",
+      "pt": "Dá para pagar com cartão?"
+    },
+    {
+      "text": "Deux cafés et un chocolat chaud.",
+      "en": "Two coffees and a hot chocolate.",
+      "pt": "Dois cafés e um chocolate quente."
+    },
+    {
+      "text": "Le dessert est délicieux !",
+      "en": "The dessert is delicious!",
+      "pt": "A sobremesa está deliciosa!"
+    },
+    {
+      "text": "Où sont les toilettes, s'il vous plaît ?",
+      "en": "Where are the toilets, please?",
+      "pt": "Onde fica o banheiro, por favor?"
+    },
+    {
+      "text": "Je voudrais une pizza aux champignons.",
+      "en": "I would like a mushroom pizza.",
+      "pt": "Eu queria uma pizza de cogumelos."
+    },
+    {
+      "text": "Paul boit un verre de vin rouge.",
+      "en": "Paul is drinking a glass of red wine.",
+      "pt": "O Paul está bebendo uma taça de vinho tinto."
+    },
+    {
+      "text": "Une table dehors, c'est possible ?",
+      "en": "A table outside, is that possible?",
+      "pt": "Uma mesa do lado de fora, é possível?"
+    },
+    {
+      "text": "Le restaurant ouvre à midi.",
+      "en": "The restaurant opens at noon.",
+      "pt": "O restaurante abre ao meio-dia."
+    },
+    {
+      "text": "Un steak frites, s'il vous plaît.",
+      "en": "Steak and fries, please.",
+      "pt": "Um bife com fritas, por favor."
+    },
+    {
+      "text": "Vous voulez du sucre ?",
+      "en": "Do you want sugar?",
+      "pt": "Você quer açúcar?"
+    },
+    {
+      "text": "Non merci, sans sucre.",
+      "en": "No thanks, no sugar.",
+      "pt": "Não, obrigado, sem açúcar."
+    },
+    {
+      "text": "La soupe est un peu froide.",
+      "en": "The soup is a bit cold.",
+      "pt": "A sopa está um pouco fria."
+    },
+    {
+      "text": "Nous avons très faim.",
+      "en": "We are very hungry.",
+      "pt": "Estamos com muita fome."
+    },
+    {
+      "text": "J'ai soif, une limonade, s'il vous plaît.",
+      "en": "I'm thirsty, a lemonade, please.",
+      "pt": "Estou com sede, uma limonada, por favor."
+    },
+    {
+      "text": "C'est pour emporter.",
+      "en": "It's to take away.",
+      "pt": "É para viagem."
+    },
+    {
+      "text": "Je mange ici.",
+      "en": "I'm eating here.",
+      "pt": "Vou comer aqui."
+    },
+    {
+      "text": "Le serveur est très gentil.",
+      "en": "The waiter is very nice.",
+      "pt": "O garçom é muito simpático."
+    },
+    {
+      "text": "Encore un peu de pain, s'il vous plaît.",
+      "en": "A bit more bread, please.",
+      "pt": "Mais um pouco de pão, por favor."
+    },
+    {
+      "text": "Ça fait douze euros.",
+      "en": "That's twelve euros.",
+      "pt": "Dá doze euros."
+    },
+    {
+      "text": "Vous avez un menu enfant ?",
+      "en": "Do you have a children's menu?",
+      "pt": "Vocês têm cardápio infantil?"
+    },
+    {
+      "text": "Je voudrais réserver une table.",
+      "en": "I would like to book a table.",
+      "pt": "Eu queria reservar uma mesa."
+    },
+    {
+      "text": "Le poulet est très bon ici.",
+      "en": "The chicken is very good here.",
+      "pt": "O frango é muito bom aqui."
+    },
+    {
+      "text": "Une glace à la vanille, s'il vous plaît.",
+      "en": "A vanilla ice cream, please.",
+      "pt": "Um sorvete de baunilha, por favor."
+    },
+    {
+      "text": "Le petit déjeuner est à huit heures.",
+      "en": "Breakfast is at eight o'clock.",
+      "pt": "O café da manhã é às oito horas."
+    },
+    {
+      "text": "Bon appétit !",
+      "en": "Enjoy your meal!",
+      "pt": "Bom apetite!"
+    },
+    {
+      "text": "Merci, c'est parfait.",
+      "en": "Thank you, it's perfect.",
+      "pt": "Obrigado, está perfeito."
+    }
+  ],
+  "travel and directions": [
+    {
+      "text": "Où est la gare, s'il vous plaît ?",
+      "en": "Where is the train station, please?",
+      "pt": "Onde fica a estação de trem, por favor?"
+    },
+    {
+      "text": "La banque est à gauche.",
+      "en": "The bank is on the left.",
+      "pt": "O banco fica à esquerda."
+    },
+    {
+      "text": "Tournez à droite après le pont.",
+      "en": "Turn right after the bridge.",
+      "pt": "Vire à direita depois da ponte."
+    },
+    {
+      "text": "Allez tout droit.",
+      "en": "Go straight ahead.",
+      "pt": "Siga em frente."
+    },
+    {
+      "text": "Le musée est près d'ici ?",
+      "en": "Is the museum near here?",
+      "pt": "O museu fica perto daqui?"
+    },
+    {
+      "text": "C'est loin à pied ?",
+      "en": "Is it far on foot?",
+      "pt": "É longe a pé?"
+    },
+    {
+      "text": "Je cherche l'hôtel du Parc.",
+      "en": "I'm looking for the Hôtel du Parc.",
+      "pt": "Estou procurando o Hôtel du Parc."
+    },
+    {
+      "text": "Un billet pour Lyon, s'il vous plaît.",
+      "en": "A ticket to Lyon, please.",
+      "pt": "Uma passagem para Lyon, por favor."
+    },
+    {
+      "text": "Le train part à dix heures.",
+      "en": "The train leaves at ten o'clock.",
+      "pt": "O trem sai às dez horas."
+    },
+    {
+      "text": "Où est l'arrêt de bus ?",
+      "en": "Where is the bus stop?",
+      "pt": "Onde fica o ponto de ônibus?"
+    },
+    {
+      "text": "Je prends le métro tous les jours.",
+      "en": "I take the metro every day.",
+      "pt": "Eu pego o metrô todos os dias."
+    },
+    {
+      "text": "L'aéroport est à vingt kilomètres.",
+      "en": "The airport is twenty kilometres away.",
+      "pt": "O aeroporto fica a vinte quilômetros."
+    },
+    {
+      "text": "Nous sommes en vacances à Nice.",
+      "en": "We are on holiday in Nice.",
+      "pt": "Estamos de férias em Nice."
+    },
+    {
+      "text": "La pharmacie est en face de la poste.",
+      "en": "The pharmacy is opposite the post office.",
+      "pt": "A farmácia fica em frente aos correios."
+    },
+    {
+      "text": "Vous avez un plan de la ville ?",
+      "en": "Do you have a map of the city?",
+      "pt": "Você tem um mapa da cidade?"
+    },
+    {
+      "text": "Je suis perdu.",
+      "en": "I'm lost.",
+      "pt": "Estou perdido."
+    },
+    {
+      "text": "Le quai numéro trois, c'est où ?",
+      "en": "Platform number three, where is it?",
+      "pt": "A plataforma número três, onde fica?"
+    },
+    {
+      "text": "Le bus numéro cinq va au centre.",
+      "en": "Bus number five goes to the centre.",
+      "pt": "O ônibus número cinco vai para o centro."
+    },
+    {
+      "text": "Mon vol part à quinze heures.",
+      "en": "My flight leaves at three p.m.",
+      "pt": "Meu voo sai às quinze horas."
+    },
+    {
+      "text": "Voici mon passeport.",
+      "en": "Here is my passport.",
+      "pt": "Aqui está o meu passaporte."
+    },
+    {
+      "text": "La plage est à cinq minutes.",
+      "en": "The beach is five minutes away.",
+      "pt": "A praia fica a cinco minutos."
+    },
+    {
+      "text": "Anna voyage en train.",
+      "en": "Anna travels by train.",
+      "pt": "A Anna viaja de trem."
+    },
+    {
+      "text": "Je loue une voiture.",
+      "en": "I'm renting a car.",
+      "pt": "Estou alugando um carro."
+    },
+    {
+      "text": "Où est la sortie ?",
+      "en": "Where is the exit?",
+      "pt": "Onde fica a saída?"
+    },
+    {
+      "text": "C'est la deuxième rue à gauche.",
+      "en": "It's the second street on the left.",
+      "pt": "É a segunda rua à esquerda."
+    },
+    {
+      "text": "L'hôtel est derrière l'église.",
+      "en": "The hotel is behind the church.",
+      "pt": "O hotel fica atrás da igreja."
+    },
+    {
+      "text": "Un aller-retour pour Paris, s'il vous plaît.",
+      "en": "A return ticket to Paris, please.",
+      "pt": "Uma passagem de ida e volta para Paris, por favor."
+    },
+    {
+      "text": "Le taxi arrive dans dix minutes.",
+      "en": "The taxi arrives in ten minutes.",
+      "pt": "O táxi chega em dez minutos."
+    },
+    {
+      "text": "Il y a un parking ici ?",
+      "en": "Is there a car park here?",
+      "pt": "Tem um estacionamento aqui?"
+    },
+    {
+      "text": "Ma valise est très lourde.",
+      "en": "My suitcase is very heavy.",
+      "pt": "Minha mala está muito pesada."
+    },
+    {
+      "text": "Nous allons à Marseille demain.",
+      "en": "We are going to Marseille tomorrow.",
+      "pt": "Nós vamos a Marseille amanhã."
+    },
+    {
+      "text": "Le métro est au coin de la rue.",
+      "en": "The metro is at the corner of the street.",
+      "pt": "O metrô fica na esquina."
+    },
+    {
+      "text": "Excusez-moi, la rue Victor Hugo, s'il vous plaît ?",
+      "en": "Excuse me, Victor Hugo Street, please?",
+      "pt": "Com licença, a rua Victor Hugo, por favor?"
+    },
+    {
+      "text": "Le marché est sur la place.",
+      "en": "The market is on the square.",
+      "pt": "A feira fica na praça."
+    },
+    {
+      "text": "Je voyage avec mes amis.",
+      "en": "I'm travelling with my friends.",
+      "pt": "Estou viajando com meus amigos."
+    },
+    {
+      "text": "Le vélo, c'est pratique en ville.",
+      "en": "A bike is practical in the city.",
+      "pt": "A bicicleta é prática na cidade."
+    },
+    {
+      "text": "Prenez la première rue à droite.",
+      "en": "Take the first street on the right.",
+      "pt": "Pegue a primeira rua à direita."
+    },
+    {
+      "text": "Le train pour Bordeaux est en retard.",
+      "en": "The train to Bordeaux is late.",
+      "pt": "O trem para Bordeaux está atrasado."
+    },
+    {
+      "text": "Combien coûte le ticket de bus ?",
+      "en": "How much is the bus ticket?",
+      "pt": "Quanto custa a passagem de ônibus?"
+    },
+    {
+      "text": "L'office de tourisme ouvre à neuf heures.",
+      "en": "The tourist office opens at nine o'clock.",
+      "pt": "O posto de informações turísticas abre às nove horas."
+    }
+  ],
+  "shopping": [
+    {
+      "text": "Combien coûte ce pull ?",
+      "en": "How much is this sweater?",
+      "pt": "Quanto custa este suéter?"
+    },
+    {
+      "text": "Je cherche une robe rouge.",
+      "en": "I'm looking for a red dress.",
+      "pt": "Estou procurando um vestido vermelho."
+    },
+    {
+      "text": "Vous avez la taille M ?",
+      "en": "Do you have size M?",
+      "pt": "Vocês têm o tamanho M?"
+    },
+    {
+      "text": "C'est trop cher pour moi.",
+      "en": "It's too expensive for me.",
+      "pt": "É caro demais para mim."
+    },
+    {
+      "text": "Je voudrais un kilo de pommes.",
+      "en": "I would like a kilo of apples.",
+      "pt": "Eu queria um quilo de maçãs."
+    },
+    {
+      "text": "Les tomates sont à trois euros.",
+      "en": "The tomatoes are three euros.",
+      "pt": "Os tomates custam três euros."
+    },
+    {
+      "text": "Je peux essayer ces chaussures ?",
+      "en": "Can I try on these shoes?",
+      "pt": "Posso experimentar estes sapatos?"
+    },
+    {
+      "text": "La cabine est au fond.",
+      "en": "The fitting room is at the back.",
+      "pt": "O provador fica no fundo."
+    },
+    {
+      "text": "Le magasin ferme à dix-neuf heures.",
+      "en": "The shop closes at seven p.m.",
+      "pt": "A loja fecha às dezenove horas."
+    },
+    {
+      "text": "Je prends ce sac noir.",
+      "en": "I'll take this black bag.",
+      "pt": "Vou levar esta bolsa preta."
+    },
+    {
+      "text": "Vous acceptez les cartes ?",
+      "en": "Do you accept cards?",
+      "pt": "Vocês aceitam cartão?"
+    },
+    {
+      "text": "Voici votre monnaie.",
+      "en": "Here is your change.",
+      "pt": "Aqui está o seu troco."
+    },
+    {
+      "text": "Une baguette, s'il vous plaît.",
+      "en": "A baguette, please.",
+      "pt": "Uma baguete, por favor."
+    },
+    {
+      "text": "Le supermarché est ouvert le dimanche.",
+      "en": "The supermarket is open on Sundays.",
+      "pt": "O supermercado abre aos domingos."
+    },
+    {
+      "text": "Ce pantalon est trop petit.",
+      "en": "These trousers are too small.",
+      "pt": "Esta calça está pequena demais."
+    },
+    {
+      "text": "Vous avez une taille plus grande ?",
+      "en": "Do you have a bigger size?",
+      "pt": "Vocês têm um tamanho maior?"
+    },
+    {
+      "text": "Je regarde seulement, merci.",
+      "en": "I'm just looking, thank you.",
+      "pt": "Só estou olhando, obrigado."
+    },
+    {
+      "text": "Il me faut du lait et des œufs.",
+      "en": "I need milk and eggs.",
+      "pt": "Eu preciso de leite e ovos."
+    },
+    {
+      "text": "Sophie achète des fleurs pour sa mère.",
+      "en": "Sophie is buying flowers for her mother.",
+      "pt": "A Sophie está comprando flores para a mãe dela."
+    },
+    {
+      "text": "C'est en solde ?",
+      "en": "Is it on sale?",
+      "pt": "Está em promoção?"
+    },
+    {
+      "text": "Ce t-shirt coûte quinze euros.",
+      "en": "This T-shirt costs fifteen euros.",
+      "pt": "Esta camiseta custa quinze euros."
+    },
+    {
+      "text": "J'aime bien cette couleur.",
+      "en": "I really like this colour.",
+      "pt": "Eu gosto muito desta cor."
+    },
+    {
+      "text": "Un sac en papier, s'il vous plaît.",
+      "en": "A paper bag, please.",
+      "pt": "Uma sacola de papel, por favor."
+    },
+    {
+      "text": "Vous désirez autre chose ?",
+      "en": "Would you like anything else?",
+      "pt": "Deseja mais alguma coisa?"
+    },
+    {
+      "text": "Non, c'est tout, merci.",
+      "en": "No, that's all, thank you.",
+      "pt": "Não, é só isso, obrigado."
+    },
+    {
+      "text": "Je voudrais deux cents grammes de fromage.",
+      "en": "I would like two hundred grams of cheese.",
+      "pt": "Eu queria duzentos gramas de queijo."
+    },
+    {
+      "text": "La boulangerie est à côté.",
+      "en": "The bakery is next door.",
+      "pt": "A padaria fica ao lado."
+    },
+    {
+      "text": "Ces chaussettes sont jolies.",
+      "en": "These socks are pretty.",
+      "pt": "Estas meias são bonitas."
+    },
+    {
+      "text": "Où sont les caisses ?",
+      "en": "Where are the checkouts?",
+      "pt": "Onde ficam os caixas?"
+    },
+    {
+      "text": "Je paie en espèces.",
+      "en": "I'm paying in cash.",
+      "pt": "Vou pagar em dinheiro."
+    },
+    {
+      "text": "Thomas cherche un cadeau pour Julie.",
+      "en": "Thomas is looking for a present for Julie.",
+      "pt": "O Thomas está procurando um presente para a Julie."
+    },
+    {
+      "text": "Le marché a lieu le samedi.",
+      "en": "The market takes place on Saturdays.",
+      "pt": "A feira acontece aos sábados."
+    },
+    {
+      "text": "Les bananes sont bien mûres.",
+      "en": "The bananas are nice and ripe.",
+      "pt": "As bananas estão bem maduras."
+    },
+    {
+      "text": "Cette veste est en coton ?",
+      "en": "Is this jacket made of cotton?",
+      "pt": "Esta jaqueta é de algodão?"
+    },
+    {
+      "text": "Je n'ai pas de monnaie.",
+      "en": "I don't have any change.",
+      "pt": "Eu não tenho trocado."
+    },
+    {
+      "text": "C'est pour offrir.",
+      "en": "It's a gift.",
+      "pt": "É para presente."
+    },
+    {
+      "text": "Une boîte de thé vert, s'il vous plaît.",
+      "en": "A box of green tea, please.",
+      "pt": "Uma caixa de chá verde, por favor."
+    },
+    {
+      "text": "Les prix sont bas ici.",
+      "en": "Prices are low here.",
+      "pt": "Os preços são baixos aqui."
+    },
+    {
+      "text": "Je voudrais un pot de confiture.",
+      "en": "I would like a jar of jam.",
+      "pt": "Eu queria um pote de geleia."
+    },
+    {
+      "text": "Le centre commercial est grand.",
+      "en": "The shopping centre is big.",
+      "pt": "O shopping é grande."
+    }
+  ],
+  "work and meetings": [
+    {
+      "text": "La réunion commence à neuf heures.",
+      "en": "The meeting starts at nine o'clock.",
+      "pt": "A reunião começa às nove horas."
+    },
+    {
+      "text": "Je travaille dans un bureau.",
+      "en": "I work in an office.",
+      "pt": "Eu trabalho em um escritório."
+    },
+    {
+      "text": "Mon chef s'appelle Monsieur Martin.",
+      "en": "My boss is called Mr Martin.",
+      "pt": "Meu chefe se chama senhor Martin."
+    },
+    {
+      "text": "Vous êtes libre à quatorze heures ?",
+      "en": "Are you free at two p.m.?",
+      "pt": "Você está livre às quatorze horas?"
+    },
+    {
+      "text": "Je suis professeur.",
+      "en": "I am a teacher.",
+      "pt": "Eu sou professor."
+    },
+    {
+      "text": "Claire est ingénieure à Lille.",
+      "en": "Claire is an engineer in Lille.",
+      "pt": "A Claire é engenheira em Lille."
+    },
+    {
+      "text": "La salle de réunion est au deuxième étage.",
+      "en": "The meeting room is on the second floor.",
+      "pt": "A sala de reunião fica no segundo andar."
+    },
+    {
+      "text": "J'ai une réunion cet après-midi.",
+      "en": "I have a meeting this afternoon.",
+      "pt": "Tenho uma reunião hoje à tarde."
+    },
+    {
+      "text": "Mon collègue est très sympa.",
+      "en": "My colleague is very nice.",
+      "pt": "Meu colega é muito legal."
+    },
+    {
+      "text": "Je commence à huit heures.",
+      "en": "I start at eight o'clock.",
+      "pt": "Eu começo às oito horas."
+    },
+    {
+      "text": "Nous finissons à dix-sept heures.",
+      "en": "We finish at five p.m.",
+      "pt": "Nós terminamos às dezessete horas."
+    },
+    {
+      "text": "Où est l'imprimante ?",
+      "en": "Where is the printer?",
+      "pt": "Onde fica a impressora?"
+    },
+    {
+      "text": "Le projet est important.",
+      "en": "The project is important.",
+      "pt": "O projeto é importante."
+    },
+    {
+      "text": "Vous avez un stylo ?",
+      "en": "Do you have a pen?",
+      "pt": "Você tem uma caneta?"
+    },
+    {
+      "text": "Je travaille de la maison le vendredi.",
+      "en": "I work from home on Fridays.",
+      "pt": "Eu trabalho de casa às sextas-feiras."
+    },
+    {
+      "text": "Bonjour à tous, on commence ?",
+      "en": "Hello everyone, shall we start?",
+      "pt": "Bom dia a todos, vamos começar?"
+    },
+    {
+      "text": "Je n'ai pas de question.",
+      "en": "I don't have any questions.",
+      "pt": "Eu não tenho nenhuma pergunta."
+    },
+    {
+      "text": "Le document est sur la table.",
+      "en": "The document is on the table.",
+      "pt": "O documento está em cima da mesa."
+    },
+    {
+      "text": "Karim est en retard ce matin.",
+      "en": "Karim is late this morning.",
+      "pt": "O Karim está atrasado hoje de manhã."
+    },
+    {
+      "text": "Mon bureau est petit mais clair.",
+      "en": "My office is small but bright.",
+      "pt": "Meu escritório é pequeno, mas claro."
+    },
+    {
+      "text": "J'envoie un e-mail à Lucie.",
+      "en": "I'm sending an email to Lucie.",
+      "pt": "Estou mandando um e-mail para a Lucie."
+    },
+    {
+      "text": "La pause café est à dix heures.",
+      "en": "The coffee break is at ten o'clock.",
+      "pt": "A pausa para o café é às dez horas."
+    },
+    {
+      "text": "Nous sommes cinq dans l'équipe.",
+      "en": "There are five of us on the team.",
+      "pt": "Somos cinco na equipe."
+    },
+    {
+      "text": "Je déjeune avec mes collègues.",
+      "en": "I have lunch with my colleagues.",
+      "pt": "Eu almoço com meus colegas."
+    },
+    {
+      "text": "L'ordinateur ne marche pas.",
+      "en": "The computer isn't working.",
+      "pt": "O computador não está funcionando."
+    },
+    {
+      "text": "Vous travaillez où ?",
+      "en": "Where do you work?",
+      "pt": "Onde você trabalha?"
+    },
+    {
+      "text": "Je travaille dans une banque.",
+      "en": "I work in a bank.",
+      "pt": "Eu trabalho em um banco."
+    },
+    {
+      "text": "Le directeur est dans son bureau.",
+      "en": "The director is in his office.",
+      "pt": "O diretor está na sala dele."
+    },
+    {
+      "text": "La réunion dure une heure.",
+      "en": "The meeting lasts an hour.",
+      "pt": "A reunião dura uma hora."
+    },
+    {
+      "text": "Je suis très occupé aujourd'hui.",
+      "en": "I'm very busy today.",
+      "pt": "Estou muito ocupado hoje."
+    },
+    {
+      "text": "Voici ma carte de visite.",
+      "en": "Here is my business card.",
+      "pt": "Aqui está o meu cartão de visita."
+    },
+    {
+      "text": "Nous avons un nouveau client.",
+      "en": "We have a new client.",
+      "pt": "Nós temos um cliente novo."
+    },
+    {
+      "text": "Le lundi, je travaille beaucoup.",
+      "en": "On Mondays, I work a lot.",
+      "pt": "Às segundas, eu trabalho muito."
+    },
+    {
+      "text": "Mon travail est intéressant.",
+      "en": "My job is interesting.",
+      "pt": "Meu trabalho é interessante."
+    },
+    {
+      "text": "Je prends des notes.",
+      "en": "I'm taking notes.",
+      "pt": "Estou fazendo anotações."
+    },
+    {
+      "text": "Vous parlez anglais au travail ?",
+      "en": "Do you speak English at work?",
+      "pt": "Você fala inglês no trabalho?"
+    },
+    {
+      "text": "Le bureau ferme à dix-huit heures.",
+      "en": "The office closes at six p.m.",
+      "pt": "O escritório fecha às dezoito horas."
+    },
+    {
+      "text": "Je vais au travail en bus.",
+      "en": "I go to work by bus.",
+      "pt": "Eu vou para o trabalho de ônibus."
+    },
+    {
+      "text": "Merci pour la réunion, à demain !",
+      "en": "Thanks for the meeting, see you tomorrow!",
+      "pt": "Obrigado pela reunião, até amanhã!"
+    },
+    {
+      "text": "Aujourd'hui, Léa présente le projet.",
+      "en": "Today Léa is presenting the project.",
+      "pt": "Hoje a Léa apresenta o projeto."
+    }
+  ],
+  "family and friends": [
+    {
+      "text": "J'ai deux frères et une sœur.",
+      "en": "I have two brothers and a sister.",
+      "pt": "Eu tenho dois irmãos e uma irmã."
+    },
+    {
+      "text": "Ma mère s'appelle Isabelle.",
+      "en": "My mother's name is Isabelle.",
+      "pt": "Minha mãe se chama Isabelle."
+    },
+    {
+      "text": "Mon père est cuisinier.",
+      "en": "My father is a cook.",
+      "pt": "Meu pai é cozinheiro."
+    },
+    {
+      "text": "Tu as des enfants ?",
+      "en": "Do you have children?",
+      "pt": "Você tem filhos?"
+    },
+    {
+      "text": "Ma fille a six ans.",
+      "en": "My daughter is six years old.",
+      "pt": "Minha filha tem seis anos."
+    },
+    {
+      "text": "Mon fils joue avec son ami.",
+      "en": "My son is playing with his friend.",
+      "pt": "Meu filho está brincando com o amigo dele."
+    },
+    {
+      "text": "Voici ma femme, Camille.",
+      "en": "This is my wife, Camille.",
+      "pt": "Esta é minha esposa, Camille."
+    },
+    {
+      "text": "Mon mari travaille à Paris.",
+      "en": "My husband works in Paris.",
+      "pt": "Meu marido trabalha em Paris."
+    },
+    {
+      "text": "Mes grands-parents habitent à la campagne.",
+      "en": "My grandparents live in the countryside.",
+      "pt": "Meus avós moram no interior."
+    },
+    {
+      "text": "Pierre est mon meilleur ami.",
+      "en": "Pierre is my best friend.",
+      "pt": "O Pierre é o meu melhor amigo."
+    },
+    {
+      "text": "Ma sœur est grande et blonde.",
+      "en": "My sister is tall and blonde.",
+      "pt": "Minha irmã é alta e loira."
+    },
+    {
+      "text": "Nous sommes quatre dans la famille.",
+      "en": "There are four of us in the family.",
+      "pt": "Somos quatro na família."
+    },
+    {
+      "text": "Mon oncle a un chien.",
+      "en": "My uncle has a dog.",
+      "pt": "Meu tio tem um cachorro."
+    },
+    {
+      "text": "Ma tante habite en Belgique.",
+      "en": "My aunt lives in Belgium.",
+      "pt": "Minha tia mora na Bélgica."
+    },
+    {
+      "text": "Tu as quel âge ?",
+      "en": "How old are you?",
+      "pt": "Quantos anos você tem?"
+    },
+    {
+      "text": "J'ai trente-deux ans.",
+      "en": "I am thirty-two years old.",
+      "pt": "Eu tenho trinta e dois anos."
+    },
+    {
+      "text": "Mon cousin s'appelle Hugo.",
+      "en": "My cousin's name is Hugo.",
+      "pt": "Meu primo se chama Hugo."
+    },
+    {
+      "text": "Ma grand-mère fait un gâteau.",
+      "en": "My grandmother is making a cake.",
+      "pt": "Minha avó está fazendo um bolo."
+    },
+    {
+      "text": "Mes parents sont très gentils.",
+      "en": "My parents are very kind.",
+      "pt": "Meus pais são muito gentis."
+    },
+    {
+      "text": "Emma et Léo sont jumeaux.",
+      "en": "Emma and Léo are twins.",
+      "pt": "A Emma e o Léo são gêmeos."
+    },
+    {
+      "text": "Je dîne chez mes amis ce soir.",
+      "en": "I'm having dinner at my friends' place tonight.",
+      "pt": "Vou jantar na casa dos meus amigos hoje à noite."
+    },
+    {
+      "text": "Mon frère est plus âgé que moi.",
+      "en": "My brother is older than me.",
+      "pt": "Meu irmão é mais velho do que eu."
+    },
+    {
+      "text": "Le bébé dort dans sa chambre.",
+      "en": "The baby is sleeping in his room.",
+      "pt": "O bebê está dormindo no quarto dele."
+    },
+    {
+      "text": "Tu es mariée ?",
+      "en": "Are you married?",
+      "pt": "Você é casada?"
+    },
+    {
+      "text": "Non, je suis célibataire.",
+      "en": "No, I'm single.",
+      "pt": "Não, eu sou solteiro."
+    },
+    {
+      "text": "Mon amie Nadia est très drôle.",
+      "en": "My friend Nadia is very funny.",
+      "pt": "Minha amiga Nadia é muito engraçada."
+    },
+    {
+      "text": "Nous fêtons l'anniversaire de papa.",
+      "en": "We are celebrating Dad's birthday.",
+      "pt": "Estamos comemorando o aniversário do papai."
+    },
+    {
+      "text": "Mes enfants vont à l'école.",
+      "en": "My children go to school.",
+      "pt": "Meus filhos vão à escola."
+    },
+    {
+      "text": "Ma famille habite à Toulouse.",
+      "en": "My family lives in Toulouse.",
+      "pt": "Minha família mora em Toulouse."
+    },
+    {
+      "text": "Le dimanche, on mange chez mamie.",
+      "en": "On Sundays, we eat at Grandma's.",
+      "pt": "Aos domingos, a gente come na casa da vovó."
+    },
+    {
+      "text": "Je te présente mon ami Marc.",
+      "en": "This is my friend Marc.",
+      "pt": "Este é o meu amigo Marc."
+    },
+    {
+      "text": "Enchanté, Marc !",
+      "en": "Nice to meet you, Marc!",
+      "pt": "Prazer, Marc!"
+    },
+    {
+      "text": "Ma nièce a les yeux bleus.",
+      "en": "My niece has blue eyes.",
+      "pt": "Minha sobrinha tem olhos azuis."
+    },
+    {
+      "text": "Mon neveu aime le football.",
+      "en": "My nephew likes football.",
+      "pt": "Meu sobrinho gosta de futebol."
+    },
+    {
+      "text": "Tu as des frères et sœurs ?",
+      "en": "Do you have any brothers or sisters?",
+      "pt": "Você tem irmãos?"
+    },
+    {
+      "text": "Je suis fils unique.",
+      "en": "I'm an only child.",
+      "pt": "Eu sou filho único."
+    },
+    {
+      "text": "Mes amis arrivent à vingt heures.",
+      "en": "My friends arrive at eight p.m.",
+      "pt": "Meus amigos chegam às vinte horas."
+    },
+    {
+      "text": "Mon grand-père a quatre-vingts ans.",
+      "en": "My grandfather is eighty.",
+      "pt": "Meu avô tem oitenta anos."
+    },
+    {
+      "text": "J'appelle ma mère tous les soirs.",
+      "en": "I call my mother every evening.",
+      "pt": "Eu ligo para minha mãe todas as noites."
+    },
+    {
+      "text": "Ma meilleure amie habite à côté.",
+      "en": "My best friend lives next door.",
+      "pt": "Minha melhor amiga mora aqui do lado."
+    }
+  ],
+  "health and the doctor": [
+    {
+      "text": "J'ai mal à la tête.",
+      "en": "I have a headache.",
+      "pt": "Estou com dor de cabeça."
+    },
+    {
+      "text": "Je suis malade aujourd'hui.",
+      "en": "I'm sick today.",
+      "pt": "Estou doente hoje."
+    },
+    {
+      "text": "J'ai de la fièvre.",
+      "en": "I have a fever.",
+      "pt": "Estou com febre."
+    },
+    {
+      "text": "Où est l'hôpital, s'il vous plaît ?",
+      "en": "Where is the hospital, please?",
+      "pt": "Onde fica o hospital, por favor?"
+    },
+    {
+      "text": "Le médecin arrive à dix heures.",
+      "en": "The doctor arrives at ten o'clock.",
+      "pt": "O médico chega às dez horas."
+    },
+    {
+      "text": "J'ai mal au ventre.",
+      "en": "I have a stomach ache.",
+      "pt": "Estou com dor de barriga."
+    },
+    {
+      "text": "Vous avez mal où ?",
+      "en": "Where does it hurt?",
+      "pt": "Onde está doendo?"
+    },
+    {
+      "text": "Ouvrez la bouche, s'il vous plaît.",
+      "en": "Open your mouth, please.",
+      "pt": "Abra a boca, por favor."
+    },
+    {
+      "text": "Je tousse beaucoup.",
+      "en": "I'm coughing a lot.",
+      "pt": "Estou tossindo muito."
+    },
+    {
+      "text": "J'ai un rhume.",
+      "en": "I have a cold.",
+      "pt": "Estou resfriado."
+    },
+    {
+      "text": "Prenez ce médicament le matin.",
+      "en": "Take this medicine in the morning.",
+      "pt": "Tome este remédio de manhã."
+    },
+    {
+      "text": "Je suis fatigué ce matin.",
+      "en": "I'm tired this morning.",
+      "pt": "Estou cansado hoje de manhã."
+    },
+    {
+      "text": "Paul a mal au dos.",
+      "en": "Paul has a backache.",
+      "pt": "O Paul está com dor nas costas."
+    },
+    {
+      "text": "Vous avez une ordonnance ?",
+      "en": "Do you have a prescription?",
+      "pt": "Você tem uma receita?"
+    },
+    {
+      "text": "La pharmacie est ouverte jusqu'à vingt heures.",
+      "en": "The pharmacy is open until eight p.m.",
+      "pt": "A farmácia fica aberta até as vinte horas."
+    },
+    {
+      "text": "Je suis allergique aux chats.",
+      "en": "I'm allergic to cats.",
+      "pt": "Sou alérgico a gatos."
+    },
+    {
+      "text": "Buvez beaucoup d'eau.",
+      "en": "Drink lots of water.",
+      "pt": "Beba bastante água."
+    },
+    {
+      "text": "Restez au lit deux jours.",
+      "en": "Stay in bed for two days.",
+      "pt": "Fique de cama por dois dias."
+    },
+    {
+      "text": "Ma fille a mal aux dents.",
+      "en": "My daughter has a toothache.",
+      "pt": "Minha filha está com dor de dente."
+    },
+    {
+      "text": "Le dentiste est au premier étage.",
+      "en": "The dentist is on the first floor.",
+      "pt": "O dentista fica no primeiro andar."
+    },
+    {
+      "text": "Je voudrais voir un médecin.",
+      "en": "I would like to see a doctor.",
+      "pt": "Eu queria ver um médico."
+    },
+    {
+      "text": "Vous dormez bien ?",
+      "en": "Do you sleep well?",
+      "pt": "Você dorme bem?"
+    },
+    {
+      "text": "Non, je dors mal.",
+      "en": "No, I sleep badly.",
+      "pt": "Não, eu durmo mal."
+    },
+    {
+      "text": "J'ai mal à la gorge.",
+      "en": "I have a sore throat.",
+      "pt": "Estou com dor de garganta."
+    },
+    {
+      "text": "Je me sens mieux aujourd'hui.",
+      "en": "I feel better today.",
+      "pt": "Eu me sinto melhor hoje."
+    },
+    {
+      "text": "Respirez profondément.",
+      "en": "Breathe deeply.",
+      "pt": "Respire fundo."
+    },
+    {
+      "text": "Le docteur Lefèvre est très gentil.",
+      "en": "Doctor Lefèvre is very kind.",
+      "pt": "O doutor Lefèvre é muito gentil."
+    },
+    {
+      "text": "Trois comprimés par jour.",
+      "en": "Three tablets a day.",
+      "pt": "Três comprimidos por dia."
+    },
+    {
+      "text": "J'ai mal au pied droit.",
+      "en": "My right foot hurts.",
+      "pt": "Estou com dor no pé direito."
+    },
+    {
+      "text": "C'est grave, docteur ?",
+      "en": "Is it serious, doctor?",
+      "pt": "É grave, doutor?"
+    },
+    {
+      "text": "Non, ce n'est pas grave.",
+      "en": "No, it's not serious.",
+      "pt": "Não, não é grave."
+    },
+    {
+      "text": "Je fais du sport pour la santé.",
+      "en": "I do sport for my health.",
+      "pt": "Eu pratico esporte pela saúde."
+    },
+    {
+      "text": "Mon fils a la grippe.",
+      "en": "My son has the flu.",
+      "pt": "Meu filho está com gripe."
+    },
+    {
+      "text": "Appelez une ambulance !",
+      "en": "Call an ambulance!",
+      "pt": "Chame uma ambulância!"
+    },
+    {
+      "text": "Je mange des fruits tous les jours.",
+      "en": "I eat fruit every day.",
+      "pt": "Eu como frutas todos os dias."
+    },
+    {
+      "text": "Vous fumez ?",
+      "en": "Do you smoke?",
+      "pt": "Você fuma?"
+    },
+    {
+      "text": "Voici ma carte Vitale.",
+      "en": "Here is my health insurance card.",
+      "pt": "Aqui está o meu cartão do plano de saúde."
+    },
+    {
+      "text": "Le cabinet médical est fermé le samedi.",
+      "en": "The doctor's surgery is closed on Saturdays.",
+      "pt": "O consultório fica fechado aos sábados."
+    },
+    {
+      "text": "Je prends ma température.",
+      "en": "I'm taking my temperature.",
+      "pt": "Estou medindo a minha temperatura."
+    },
+    {
+      "text": "Bon rétablissement !",
+      "en": "Get well soon!",
+      "pt": "Melhoras!"
+    }
+  ],
+  "weather and seasons": [
+    {
+      "text": "Il fait beau aujourd'hui.",
+      "en": "The weather is nice today.",
+      "pt": "O tempo está bom hoje."
+    },
+    {
+      "text": "Il pleut beaucoup à Brest.",
+      "en": "It rains a lot in Brest.",
+      "pt": "Chove muito em Brest."
+    },
+    {
+      "text": "Il fait très froid ce matin.",
+      "en": "It's very cold this morning.",
+      "pt": "Está muito frio hoje de manhã."
+    },
+    {
+      "text": "Il neige en montagne.",
+      "en": "It's snowing in the mountains.",
+      "pt": "Está nevando nas montanhas."
+    },
+    {
+      "text": "Quel temps fait-il à Paris ?",
+      "en": "What's the weather like in Paris?",
+      "pt": "Como está o tempo em Paris?"
+    },
+    {
+      "text": "Il fait vingt-cinq degrés.",
+      "en": "It's twenty-five degrees.",
+      "pt": "Está fazendo vinte e cinco graus."
+    },
+    {
+      "text": "J'aime l'été.",
+      "en": "I like summer.",
+      "pt": "Eu gosto do verão."
+    },
+    {
+      "text": "L'hiver est long ici.",
+      "en": "Winter is long here.",
+      "pt": "O inverno é longo aqui."
+    },
+    {
+      "text": "Il y a du vent.",
+      "en": "It's windy.",
+      "pt": "Está ventando."
+    },
+    {
+      "text": "Le ciel est gris.",
+      "en": "The sky is grey.",
+      "pt": "O céu está cinza."
+    },
+    {
+      "text": "Il y a du soleil.",
+      "en": "It's sunny.",
+      "pt": "Está fazendo sol."
+    },
+    {
+      "text": "Prends ton parapluie !",
+      "en": "Take your umbrella!",
+      "pt": "Leve o seu guarda-chuva!"
+    },
+    {
+      "text": "Au printemps, les fleurs sont belles.",
+      "en": "In spring, the flowers are beautiful.",
+      "pt": "Na primavera, as flores são lindas."
+    },
+    {
+      "text": "En automne, les feuilles tombent.",
+      "en": "In autumn, the leaves fall.",
+      "pt": "No outono, as folhas caem."
+    },
+    {
+      "text": "Il fait chaud en juillet.",
+      "en": "It's hot in July.",
+      "pt": "Faz calor em julho."
+    },
+    {
+      "text": "Il y a des nuages.",
+      "en": "It's cloudy.",
+      "pt": "Está nublado."
+    },
+    {
+      "text": "Il va faire beau demain ?",
+      "en": "Is it going to be nice tomorrow?",
+      "pt": "Vai fazer tempo bom amanhã?"
+    },
+    {
+      "text": "Ma saison préférée, c'est l'automne.",
+      "en": "My favourite season is autumn.",
+      "pt": "Minha estação preferida é o outono."
+    },
+    {
+      "text": "Il fait moins cinq dehors.",
+      "en": "It's minus five outside.",
+      "pt": "Está fazendo cinco graus negativos lá fora."
+    },
+    {
+      "text": "Il y a un orage ce soir.",
+      "en": "There's a storm this evening.",
+      "pt": "Tem uma tempestade hoje à noite."
+    },
+    {
+      "text": "J'ai froid aux mains.",
+      "en": "My hands are cold.",
+      "pt": "Estou com as mãos frias."
+    },
+    {
+      "text": "Il fait gris et humide.",
+      "en": "It's grey and damp.",
+      "pt": "Está cinzento e úmido."
+    },
+    {
+      "text": "Les enfants jouent dans la neige.",
+      "en": "The children are playing in the snow.",
+      "pt": "As crianças estão brincando na neve."
+    },
+    {
+      "text": "En été, nous allons à la mer.",
+      "en": "In summer, we go to the seaside.",
+      "pt": "No verão, nós vamos para a praia."
+    },
+    {
+      "text": "Il fait doux aujourd'hui.",
+      "en": "It's mild today.",
+      "pt": "O tempo está ameno hoje."
+    },
+    {
+      "text": "Le soleil se couche tôt en hiver.",
+      "en": "The sun sets early in winter.",
+      "pt": "O sol se põe cedo no inverno."
+    },
+    {
+      "text": "Il pleut, je reste à la maison.",
+      "en": "It's raining, I'm staying home.",
+      "pt": "Está chovendo, vou ficar em casa."
+    },
+    {
+      "text": "Mets ton manteau, il fait froid !",
+      "en": "Put on your coat, it's cold!",
+      "pt": "Coloque o casaco, está frio!"
+    },
+    {
+      "text": "Il fait trente degrés à Nice.",
+      "en": "It's thirty degrees in Nice.",
+      "pt": "Está fazendo trinta graus em Nice."
+    },
+    {
+      "text": "Je déteste la pluie.",
+      "en": "I hate the rain.",
+      "pt": "Eu detesto chuva."
+    },
+    {
+      "text": "Il fait nuit à dix-sept heures.",
+      "en": "It's dark at five p.m.",
+      "pt": "Fica escuro às dezessete horas."
+    },
+    {
+      "text": "Quelle belle journée !",
+      "en": "What a beautiful day!",
+      "pt": "Que dia lindo!"
+    },
+    {
+      "text": "Le printemps commence en mars.",
+      "en": "Spring starts in March.",
+      "pt": "A primavera começa em março."
+    },
+    {
+      "text": "Il y a du brouillard ce matin.",
+      "en": "It's foggy this morning.",
+      "pt": "Tem neblina hoje de manhã."
+    },
+    {
+      "text": "Nous faisons du ski en février.",
+      "en": "We go skiing in February.",
+      "pt": "Nós esquiamos em fevereiro."
+    },
+    {
+      "text": "Il fait meilleur qu'hier.",
+      "en": "The weather is better than yesterday.",
+      "pt": "O tempo está melhor do que ontem."
+    },
+    {
+      "text": "La météo annonce de la pluie.",
+      "en": "The forecast says rain.",
+      "pt": "A previsão do tempo anuncia chuva."
+    },
+    {
+      "text": "En Bretagne, le temps change vite.",
+      "en": "In Brittany, the weather changes quickly.",
+      "pt": "Na Bretanha, o tempo muda rápido."
+    },
+    {
+      "text": "Il fait trop chaud pour marcher.",
+      "en": "It's too hot to walk.",
+      "pt": "Está quente demais para caminhar."
+    },
+    {
+      "text": "Lucas aime la neige et le froid.",
+      "en": "Lucas likes snow and the cold.",
+      "pt": "O Lucas gosta de neve e de frio."
+    }
+  ],
+  "hobbies and weekends": [
+    {
+      "text": "Le samedi, je fais du vélo.",
+      "en": "On Saturdays, I go cycling.",
+      "pt": "Aos sábados, eu ando de bicicleta."
+    },
+    {
+      "text": "J'aime lire le soir.",
+      "en": "I like reading in the evening.",
+      "pt": "Eu gosto de ler à noite."
+    },
+    {
+      "text": "Tu joues au tennis ?",
+      "en": "Do you play tennis?",
+      "pt": "Você joga tênis?"
+    },
+    {
+      "text": "Marie fait de la natation.",
+      "en": "Marie goes swimming.",
+      "pt": "A Marie faz natação."
+    },
+    {
+      "text": "Nous allons au cinéma ce soir.",
+      "en": "We're going to the cinema tonight.",
+      "pt": "Nós vamos ao cinema hoje à noite."
+    },
+    {
+      "text": "Mon frère joue de la guitare.",
+      "en": "My brother plays the guitar.",
+      "pt": "Meu irmão toca violão."
+    },
+    {
+      "text": "J'adore la musique classique.",
+      "en": "I love classical music.",
+      "pt": "Eu adoro música clássica."
+    },
+    {
+      "text": "Le dimanche, je me repose.",
+      "en": "On Sundays, I rest.",
+      "pt": "Aos domingos, eu descanso."
+    },
+    {
+      "text": "Tu fais quoi ce week-end ?",
+      "en": "What are you doing this weekend?",
+      "pt": "O que você vai fazer neste fim de semana?"
+    },
+    {
+      "text": "Je vais à la piscine.",
+      "en": "I'm going to the swimming pool.",
+      "pt": "Vou à piscina."
+    },
+    {
+      "text": "Julien aime cuisiner pour ses amis.",
+      "en": "Julien likes cooking for his friends.",
+      "pt": "O Julien gosta de cozinhar para os amigos."
+    },
+    {
+      "text": "Je regarde un film à la télé.",
+      "en": "I'm watching a film on TV.",
+      "pt": "Estou vendo um filme na TV."
+    },
+    {
+      "text": "On fait une promenade au parc ?",
+      "en": "Shall we go for a walk in the park?",
+      "pt": "Vamos dar uma volta no parque?"
+    },
+    {
+      "text": "J'aime beaucoup danser.",
+      "en": "I love dancing.",
+      "pt": "Eu gosto muito de dançar."
+    },
+    {
+      "text": "Inès peint des paysages.",
+      "en": "Inès paints landscapes.",
+      "pt": "A Inès pinta paisagens."
+    },
+    {
+      "text": "Le football, c'est mon sport préféré.",
+      "en": "Football is my favourite sport.",
+      "pt": "O futebol é o meu esporte preferido."
+    },
+    {
+      "text": "Nous jouons aux cartes le soir.",
+      "en": "We play cards in the evening.",
+      "pt": "Nós jogamos cartas à noite."
+    },
+    {
+      "text": "Je prends des photos en vacances.",
+      "en": "I take photos on holiday.",
+      "pt": "Eu tiro fotos nas férias."
+    },
+    {
+      "text": "Tu aimes les jeux vidéo ?",
+      "en": "Do you like video games?",
+      "pt": "Você gosta de videogame?"
+    },
+    {
+      "text": "Je fais du yoga le mardi.",
+      "en": "I do yoga on Tuesdays.",
+      "pt": "Eu faço ioga às terças."
+    },
+    {
+      "text": "Le week-end, je dors tard.",
+      "en": "At the weekend, I sleep in.",
+      "pt": "No fim de semana, eu durmo até tarde."
+    },
+    {
+      "text": "On va au concert samedi ?",
+      "en": "Shall we go to the concert on Saturday?",
+      "pt": "Vamos ao show no sábado?"
+    },
+    {
+      "text": "J'apprends le piano.",
+      "en": "I'm learning the piano.",
+      "pt": "Estou aprendendo piano."
+    },
+    {
+      "text": "Ils jouent au basket au parc.",
+      "en": "They play basketball in the park.",
+      "pt": "Eles jogam basquete no parque."
+    },
+    {
+      "text": "Je vais au musée avec Chloé.",
+      "en": "I'm going to the museum with Chloé.",
+      "pt": "Vou ao museu com a Chloé."
+    },
+    {
+      "text": "Mon père fait du jardinage.",
+      "en": "My father does gardening.",
+      "pt": "Meu pai faz jardinagem."
+    },
+    {
+      "text": "J'écoute de la musique dans le bus.",
+      "en": "I listen to music on the bus.",
+      "pt": "Eu escuto música no ônibus."
+    },
+    {
+      "text": "Tu veux jouer aux échecs ?",
+      "en": "Do you want to play chess?",
+      "pt": "Você quer jogar xadrez?"
+    },
+    {
+      "text": "Nous faisons une randonnée dimanche.",
+      "en": "We're going hiking on Sunday.",
+      "pt": "Nós vamos fazer uma trilha no domingo."
+    },
+    {
+      "text": "Je n'aime pas le sport.",
+      "en": "I don't like sport.",
+      "pt": "Eu não gosto de esporte."
+    },
+    {
+      "text": "Le cours de danse est à dix-huit heures.",
+      "en": "The dance class is at six p.m.",
+      "pt": "A aula de dança é às dezoito horas."
+    },
+    {
+      "text": "Je lis un roman policier.",
+      "en": "I'm reading a detective novel.",
+      "pt": "Estou lendo um romance policial."
+    },
+    {
+      "text": "On fait un pique-nique ?",
+      "en": "Shall we have a picnic?",
+      "pt": "Vamos fazer um piquenique?"
+    },
+    {
+      "text": "Elle chante dans une chorale.",
+      "en": "She sings in a choir.",
+      "pt": "Ela canta em um coral."
+    },
+    {
+      "text": "Le samedi matin, je cours.",
+      "en": "On Saturday mornings, I go running.",
+      "pt": "Aos sábados de manhã, eu corro."
+    },
+    {
+      "text": "J'aime aller au théâtre.",
+      "en": "I like going to the theatre.",
+      "pt": "Eu gosto de ir ao teatro."
+    },
+    {
+      "text": "Mes amis viennent dîner samedi.",
+      "en": "My friends are coming to dinner on Saturday.",
+      "pt": "Meus amigos vêm jantar no sábado."
+    },
+    {
+      "text": "Tu as un loisir ?",
+      "en": "Do you have a hobby?",
+      "pt": "Você tem algum hobby?"
+    },
+    {
+      "text": "Oui, je dessine beaucoup.",
+      "en": "Yes, I draw a lot.",
+      "pt": "Sim, eu desenho muito."
+    },
+    {
+      "text": "Bon week-end !",
+      "en": "Have a good weekend!",
+      "pt": "Bom fim de semana!"
+    }
+  ],
+  "home and daily routine": [
+    {
+      "text": "Je me lève à sept heures.",
+      "en": "I get up at seven o'clock.",
+      "pt": "Eu me levanto às sete horas."
+    },
+    {
+      "text": "Je prends une douche le matin.",
+      "en": "I take a shower in the morning.",
+      "pt": "Eu tomo banho de manhã."
+    },
+    {
+      "text": "Je bois un café avec du lait.",
+      "en": "I drink a coffee with milk.",
+      "pt": "Eu tomo um café com leite."
+    },
+    {
+      "text": "Mon appartement a trois pièces.",
+      "en": "My flat has three rooms.",
+      "pt": "Meu apartamento tem três cômodos."
+    },
+    {
+      "text": "La cuisine est petite.",
+      "en": "The kitchen is small.",
+      "pt": "A cozinha é pequena."
+    },
+    {
+      "text": "Je me brosse les dents.",
+      "en": "I brush my teeth.",
+      "pt": "Eu escovo os dentes."
+    },
+    {
+      "text": "Je m'habille vite.",
+      "en": "I get dressed quickly.",
+      "pt": "Eu me visto rápido."
+    },
+    {
+      "text": "Les enfants partent à l'école à huit heures.",
+      "en": "The children leave for school at eight.",
+      "pt": "As crianças saem para a escola às oito horas."
+    },
+    {
+      "text": "Je fais la vaisselle après le dîner.",
+      "en": "I do the dishes after dinner.",
+      "pt": "Eu lavo a louça depois do jantar."
+    },
+    {
+      "text": "Mon mari fait les courses.",
+      "en": "My husband does the shopping.",
+      "pt": "Meu marido faz as compras."
+    },
+    {
+      "text": "Nous dînons à vingt heures.",
+      "en": "We have dinner at eight p.m.",
+      "pt": "Nós jantamos às vinte horas."
+    },
+    {
+      "text": "Je me couche à onze heures.",
+      "en": "I go to bed at eleven.",
+      "pt": "Eu me deito às onze horas."
+    },
+    {
+      "text": "La salle de bains est en haut.",
+      "en": "The bathroom is upstairs.",
+      "pt": "O banheiro fica no andar de cima."
+    },
+    {
+      "text": "J'habite dans une maison avec jardin.",
+      "en": "I live in a house with a garden.",
+      "pt": "Eu moro em uma casa com jardim."
+    },
+    {
+      "text": "Le salon est grand et clair.",
+      "en": "The living room is big and bright.",
+      "pt": "A sala é grande e clara."
+    },
+    {
+      "text": "Je range ma chambre.",
+      "en": "I'm tidying my room.",
+      "pt": "Estou arrumando o meu quarto."
+    },
+    {
+      "text": "Le chat dort sur le canapé.",
+      "en": "The cat is sleeping on the sofa.",
+      "pt": "O gato está dormindo no sofá."
+    },
+    {
+      "text": "Je travaille de huit heures à seize heures.",
+      "en": "I work from eight to four.",
+      "pt": "Eu trabalho das oito às dezesseis horas."
+    },
+    {
+      "text": "Le soir, je prépare le repas.",
+      "en": "In the evening, I make the meal.",
+      "pt": "À noite, eu preparo a refeição."
+    },
+    {
+      "text": "Où sont mes clés ?",
+      "en": "Where are my keys?",
+      "pt": "Onde estão as minhas chaves?"
+    },
+    {
+      "text": "Je fais le ménage le samedi.",
+      "en": "I do the housework on Saturdays.",
+      "pt": "Eu faço faxina aos sábados."
+    },
+    {
+      "text": "Ma chambre donne sur la rue.",
+      "en": "My bedroom looks onto the street.",
+      "pt": "Meu quarto dá para a rua."
+    },
+    {
+      "text": "Je mets la table.",
+      "en": "I'm setting the table.",
+      "pt": "Estou pondo a mesa."
+    },
+    {
+      "text": "Il y a un lit et une armoire.",
+      "en": "There is a bed and a wardrobe.",
+      "pt": "Tem uma cama e um guarda-roupa."
+    },
+    {
+      "text": "J'arrose les plantes le matin.",
+      "en": "I water the plants in the morning.",
+      "pt": "Eu rego as plantas de manhã."
+    },
+    {
+      "text": "Le frigo est vide !",
+      "en": "The fridge is empty!",
+      "pt": "A geladeira está vazia!"
+    },
+    {
+      "text": "Je lave mes vêtements le dimanche.",
+      "en": "I wash my clothes on Sundays.",
+      "pt": "Eu lavo as minhas roupas aos domingos."
+    },
+    {
+      "text": "Je promène le chien le soir.",
+      "en": "I walk the dog in the evening.",
+      "pt": "Eu passeio com o cachorro à noite."
+    },
+    {
+      "text": "Ma maison est près du centre.",
+      "en": "My house is near the centre.",
+      "pt": "Minha casa fica perto do centro."
+    },
+    {
+      "text": "Je prends mon petit déjeuner à la maison.",
+      "en": "I have breakfast at home.",
+      "pt": "Eu tomo o café da manhã em casa."
+    },
+    {
+      "text": "Ferme la fenêtre, s'il te plaît.",
+      "en": "Close the window, please.",
+      "pt": "Feche a janela, por favor."
+    },
+    {
+      "text": "J'ouvre les volets.",
+      "en": "I open the shutters.",
+      "pt": "Eu abro as persianas."
+    },
+    {
+      "text": "Je rentre chez moi à pied.",
+      "en": "I walk home.",
+      "pt": "Eu volto para casa a pé."
+    },
+    {
+      "text": "Nous habitons au troisième étage.",
+      "en": "We live on the third floor.",
+      "pt": "Nós moramos no terceiro andar."
+    },
+    {
+      "text": "Il n'y a pas d'ascenseur.",
+      "en": "There is no lift.",
+      "pt": "Não tem elevador."
+    },
+    {
+      "text": "Je fais mon lit tous les matins.",
+      "en": "I make my bed every morning.",
+      "pt": "Eu arrumo a minha cama todas as manhãs."
+    },
+    {
+      "text": "Le réveil sonne à six heures.",
+      "en": "The alarm goes off at six.",
+      "pt": "O despertador toca às seis horas."
+    },
+    {
+      "text": "Je lis avant de dormir.",
+      "en": "I read before going to sleep.",
+      "pt": "Eu leio antes de dormir."
+    },
+    {
+      "text": "La lampe est sur le bureau.",
+      "en": "The lamp is on the desk.",
+      "pt": "A luminária está em cima da escrivaninha."
+    },
+    {
+      "text": "Je sors la poubelle le mardi.",
+      "en": "I take out the rubbish on Tuesdays.",
+      "pt": "Eu levo o lixo para fora às terças."
+    }
+  ],
+  "feelings and opinions": [
+    {
+      "text": "Je suis très content aujourd'hui.",
+      "en": "I'm very happy today.",
+      "pt": "Estou muito contente hoje."
+    },
+    {
+      "text": "Elle est triste ce soir.",
+      "en": "She's sad this evening.",
+      "pt": "Ela está triste hoje à noite."
+    },
+    {
+      "text": "J'aime beaucoup ce film.",
+      "en": "I really like this film.",
+      "pt": "Eu gosto muito deste filme."
+    },
+    {
+      "text": "Je pense que c'est une bonne idée.",
+      "en": "I think it's a good idea.",
+      "pt": "Eu acho que é uma boa ideia."
+    },
+    {
+      "text": "Tu as l'air fatigué.",
+      "en": "You look tired.",
+      "pt": "Você parece cansado."
+    },
+    {
+      "text": "Je n'aime pas les araignées.",
+      "en": "I don't like spiders.",
+      "pt": "Eu não gosto de aranhas."
+    },
+    {
+      "text": "C'est super !",
+      "en": "That's great!",
+      "pt": "Que ótimo!"
+    },
+    {
+      "text": "J'ai peur des chiens.",
+      "en": "I'm afraid of dogs.",
+      "pt": "Eu tenho medo de cachorros."
+    },
+    {
+      "text": "Je suis d'accord avec toi.",
+      "en": "I agree with you.",
+      "pt": "Eu concordo com você."
+    },
+    {
+      "text": "Non, je ne suis pas d'accord.",
+      "en": "No, I don't agree.",
+      "pt": "Não, eu não concordo."
+    },
+    {
+      "text": "Ce livre est ennuyeux.",
+      "en": "This book is boring.",
+      "pt": "Este livro é chato."
+    },
+    {
+      "text": "Nous sommes très heureux ici.",
+      "en": "We are very happy here.",
+      "pt": "Nós somos muito felizes aqui."
+    },
+    {
+      "text": "Il est en colère contre son frère.",
+      "en": "He's angry with his brother.",
+      "pt": "Ele está bravo com o irmão."
+    },
+    {
+      "text": "Je préfère le thé au café.",
+      "en": "I prefer tea to coffee.",
+      "pt": "Eu prefiro chá a café."
+    },
+    {
+      "text": "À mon avis, c'est trop difficile.",
+      "en": "In my opinion, it's too difficult.",
+      "pt": "Na minha opinião, é difícil demais."
+    },
+    {
+      "text": "Quelle bonne nouvelle !",
+      "en": "What good news!",
+      "pt": "Que boa notícia!"
+    },
+    {
+      "text": "Je suis un peu stressé.",
+      "en": "I'm a bit stressed.",
+      "pt": "Estou um pouco estressado."
+    },
+    {
+      "text": "Tu aimes cette chanson ?",
+      "en": "Do you like this song?",
+      "pt": "Você gosta desta música?"
+    },
+    {
+      "text": "Oui, elle est magnifique.",
+      "en": "Yes, it's wonderful.",
+      "pt": "Sim, ela é maravilhosa."
+    },
+    {
+      "text": "Je m'ennuie le dimanche.",
+      "en": "I get bored on Sundays.",
+      "pt": "Eu fico entediado aos domingos."
+    },
+    {
+      "text": "C'est vraiment dommage.",
+      "en": "That's a real shame.",
+      "pt": "É uma pena mesmo."
+    },
+    {
+      "text": "Léa est fière de son fils.",
+      "en": "Léa is proud of her son.",
+      "pt": "A Léa tem orgulho do filho."
+    },
+    {
+      "text": "Je trouve Paris très beau.",
+      "en": "I find Paris very beautiful.",
+      "pt": "Eu acho Paris muito bonita."
+    },
+    {
+      "text": "Pourquoi tu es triste ?",
+      "en": "Why are you sad?",
+      "pt": "Por que você está triste?"
+    },
+    {
+      "text": "Je suis surpris !",
+      "en": "I'm surprised!",
+      "pt": "Estou surpreso!"
+    },
+    {
+      "text": "J'adore le chocolat noir.",
+      "en": "I love dark chocolate.",
+      "pt": "Eu adoro chocolate amargo."
+    },
+    {
+      "text": "Je déteste attendre.",
+      "en": "I hate waiting.",
+      "pt": "Eu detesto esperar."
+    },
+    {
+      "text": "C'est très drôle !",
+      "en": "It's very funny!",
+      "pt": "É muito engraçado!"
+    },
+    {
+      "text": "Ils sont inquiets pour leur fille.",
+      "en": "They're worried about their daughter.",
+      "pt": "Eles estão preocupados com a filha."
+    },
+    {
+      "text": "Je suis désolé.",
+      "en": "I'm sorry.",
+      "pt": "Sinto muito."
+    },
+    {
+      "text": "Ce n'est pas juste !",
+      "en": "That's not fair!",
+      "pt": "Não é justo!"
+    },
+    {
+      "text": "Je suis calme et détendu.",
+      "en": "I'm calm and relaxed.",
+      "pt": "Estou calmo e relaxado."
+    },
+    {
+      "text": "Le repas est excellent.",
+      "en": "The meal is excellent.",
+      "pt": "A refeição está excelente."
+    },
+    {
+      "text": "Ce quartier est trop bruyant.",
+      "en": "This neighbourhood is too noisy.",
+      "pt": "Este bairro é barulhento demais."
+    },
+    {
+      "text": "J'ai hâte de partir en vacances.",
+      "en": "I can't wait to go on holiday.",
+      "pt": "Mal posso esperar para sair de férias."
+    },
+    {
+      "text": "Tu penses quoi de mon idée ?",
+      "en": "What do you think of my idea?",
+      "pt": "O que você acha da minha ideia?"
+    },
+    {
+      "text": "Elle est amoureuse de Thomas.",
+      "en": "She's in love with Thomas.",
+      "pt": "Ela está apaixonada pelo Thomas."
+    },
+    {
+      "text": "Je suis nerveux avant l'examen.",
+      "en": "I'm nervous before the exam.",
+      "pt": "Estou nervoso antes da prova."
+    },
+    {
+      "text": "C'est facile, pas de problème.",
+      "en": "It's easy, no problem.",
+      "pt": "É fácil, sem problema."
+    },
+    {
+      "text": "Merci, tu es très gentille.",
+      "en": "Thank you, you're very kind.",
+      "pt": "Obrigado, você é muito gentil."
+    }
+  ],
+  "small talk with a neighbour": [
+    {
+      "text": "Bonjour, madame Dupont !",
+      "en": "Hello, Mrs Dupont!",
+      "pt": "Bom dia, dona Dupont!"
+    },
+    {
+      "text": "Bonsoir, comment allez-vous ?",
+      "en": "Good evening, how are you?",
+      "pt": "Boa noite, como vai?"
+    },
+    {
+      "text": "Très bien, merci, et vous ?",
+      "en": "Very well, thank you, and you?",
+      "pt": "Muito bem, obrigado, e você?"
+    },
+    {
+      "text": "Vous êtes le nouveau voisin ?",
+      "en": "Are you the new neighbour?",
+      "pt": "Você é o novo vizinho?"
+    },
+    {
+      "text": "Oui, j'habite au quatrième.",
+      "en": "Yes, I live on the fourth floor.",
+      "pt": "Sim, eu moro no quarto andar."
+    },
+    {
+      "text": "Il fait froid aujourd'hui, non ?",
+      "en": "It's cold today, isn't it?",
+      "pt": "Está frio hoje, não é?"
+    },
+    {
+      "text": "Votre chien est très mignon.",
+      "en": "Your dog is very cute.",
+      "pt": "Seu cachorro é muito fofo."
+    },
+    {
+      "text": "Il s'appelle Max, il a trois ans.",
+      "en": "His name is Max, he's three.",
+      "pt": "Ele se chama Max, tem três anos."
+    },
+    {
+      "text": "Vous habitez ici depuis longtemps ?",
+      "en": "Have you lived here long?",
+      "pt": "Você mora aqui há muito tempo?"
+    },
+    {
+      "text": "Depuis cinq ans, avec ma famille.",
+      "en": "For five years, with my family.",
+      "pt": "Há cinco anos, com a minha família."
+    },
+    {
+      "text": "Le jardin est très joli.",
+      "en": "The garden is very pretty.",
+      "pt": "O jardim é muito bonito."
+    },
+    {
+      "text": "Bonne journée, monsieur Bernard !",
+      "en": "Have a nice day, Mr Bernard!",
+      "pt": "Tenha um bom dia, seu Bernard!"
+    },
+    {
+      "text": "Vous allez au marché ?",
+      "en": "Are you going to the market?",
+      "pt": "Você vai à feira?"
+    },
+    {
+      "text": "Les enfants vont bien ?",
+      "en": "Are the children well?",
+      "pt": "As crianças estão bem?"
+    },
+    {
+      "text": "Votre fille grandit vite !",
+      "en": "Your daughter is growing fast!",
+      "pt": "Sua filha está crescendo rápido!"
+    },
+    {
+      "text": "Je m'appelle Antoine, et vous ?",
+      "en": "My name is Antoine, and yours?",
+      "pt": "Eu me chamo Antoine, e você?"
+    },
+    {
+      "text": "Vous avez besoin d'aide ?",
+      "en": "Do you need help?",
+      "pt": "Você precisa de ajuda?"
+    },
+    {
+      "text": "Je porte votre sac ?",
+      "en": "Shall I carry your bag?",
+      "pt": "Quer que eu leve a sua sacola?"
+    },
+    {
+      "text": "Le facteur passe à onze heures.",
+      "en": "The postman comes at eleven.",
+      "pt": "O carteiro passa às onze horas."
+    },
+    {
+      "text": "Il y a une fête dans l'immeuble samedi.",
+      "en": "There's a party in the building on Saturday.",
+      "pt": "Tem uma festa no prédio no sábado."
+    },
+    {
+      "text": "Vous venez à la fête ?",
+      "en": "Are you coming to the party?",
+      "pt": "Você vem à festa?"
+    },
+    {
+      "text": "Avec plaisir !",
+      "en": "With pleasure!",
+      "pt": "Com prazer!"
+    },
+    {
+      "text": "Les roses de votre balcon sont belles.",
+      "en": "The roses on your balcony are beautiful.",
+      "pt": "As rosas da sua varanda são lindas."
+    },
+    {
+      "text": "Vous partez en vacances bientôt ?",
+      "en": "Are you going on holiday soon?",
+      "pt": "Você vai sair de férias logo?"
+    },
+    {
+      "text": "Oui, nous partons en Espagne.",
+      "en": "Yes, we're going to Spain.",
+      "pt": "Sim, nós vamos para a Espanha."
+    },
+    {
+      "text": "L'ascenseur est encore en panne.",
+      "en": "The lift is broken again.",
+      "pt": "O elevador está quebrado de novo."
+    },
+    {
+      "text": "Le quartier est calme ici.",
+      "en": "The neighbourhood is quiet here.",
+      "pt": "O bairro é tranquilo aqui."
+    },
+    {
+      "text": "Vous travaillez toujours à la mairie ?",
+      "en": "Do you still work at the town hall?",
+      "pt": "Você ainda trabalha na prefeitura?"
+    },
+    {
+      "text": "Votre voiture est neuve ?",
+      "en": "Is your car new?",
+      "pt": "Seu carro é novo?"
+    },
+    {
+      "text": "On se voit demain, alors.",
+      "en": "See you tomorrow, then.",
+      "pt": "A gente se vê amanhã, então."
+    },
+    {
+      "text": "Nos enfants sont dans la même classe.",
+      "en": "Our children are in the same class.",
+      "pt": "Nossos filhos estão na mesma turma."
+    },
+    {
+      "text": "Votre chat est dans mon jardin !",
+      "en": "Your cat is in my garden!",
+      "pt": "Seu gato está no meu jardim!"
+    },
+    {
+      "text": "Vous avez l'heure, s'il vous plaît ?",
+      "en": "Do you have the time, please?",
+      "pt": "Você tem horas, por favor?"
+    },
+    {
+      "text": "Il est midi et demi.",
+      "en": "It's half past twelve.",
+      "pt": "É meio-dia e meia."
+    },
+    {
+      "text": "Je vous présente mon fils, Noah.",
+      "en": "This is my son, Noah.",
+      "pt": "Este é o meu filho, Noah."
+    },
+    {
+      "text": "Ravi de vous rencontrer !",
+      "en": "Delighted to meet you!",
+      "pt": "Muito prazer em conhecer você!"
+    },
+    {
+      "text": "La boulangerie est fermée aujourd'hui.",
+      "en": "The bakery is closed today.",
+      "pt": "A padaria está fechada hoje."
+    },
+    {
+      "text": "Vous avez un peu de sel, s'il vous plaît ?",
+      "en": "Do you have some salt, please?",
+      "pt": "Você tem um pouco de sal, por favor?"
+    },
+    {
+      "text": "Bonne soirée et à bientôt !",
+      "en": "Have a good evening and see you soon!",
+      "pt": "Boa noite e até logo!"
+    },
+    {
+      "text": "Il y a beaucoup de bruit ce soir.",
+      "en": "There's a lot of noise tonight.",
+      "pt": "Tem muito barulho hoje à noite."
+    }
+  ],
+  "phone calls and appointments": [
+    {
+      "text": "Allô, bonjour, c'est Julie.",
+      "en": "Hello, it's Julie.",
+      "pt": "Alô, oi, é a Julie."
+    },
+    {
+      "text": "Je voudrais parler à Monsieur Petit.",
+      "en": "I would like to speak to Mr Petit.",
+      "pt": "Eu queria falar com o senhor Petit."
+    },
+    {
+      "text": "Ne quittez pas, s'il vous plaît.",
+      "en": "Hold the line, please.",
+      "pt": "Aguarde na linha, por favor."
+    },
+    {
+      "text": "C'est de la part de qui ?",
+      "en": "Who's calling?",
+      "pt": "Quem gostaria de falar?"
+    },
+    {
+      "text": "Je voudrais prendre rendez-vous.",
+      "en": "I would like to make an appointment.",
+      "pt": "Eu queria marcar um horário."
+    },
+    {
+      "text": "Mardi matin, ça vous va ?",
+      "en": "Does Tuesday morning suit you?",
+      "pt": "Terça de manhã está bom para você?"
+    },
+    {
+      "text": "Oui, mardi à dix heures.",
+      "en": "Yes, Tuesday at ten.",
+      "pt": "Sim, terça às dez horas."
+    },
+    {
+      "text": "Quel est votre numéro de téléphone ?",
+      "en": "What is your phone number?",
+      "pt": "Qual é o seu número de telefone?"
+    },
+    {
+      "text": "C'est le 06 12 34 56 78.",
+      "en": "It's 06 12 34 56 78.",
+      "pt": "É 06 12 34 56 78."
+    },
+    {
+      "text": "Pouvez-vous répéter, s'il vous plaît ?",
+      "en": "Can you repeat that, please?",
+      "pt": "Você pode repetir, por favor?"
+    },
+    {
+      "text": "Je ne vous entends pas bien.",
+      "en": "I can't hear you well.",
+      "pt": "Não estou ouvindo você direito."
+    },
+    {
+      "text": "Je vous rappelle dans cinq minutes.",
+      "en": "I'll call you back in five minutes.",
+      "pt": "Eu ligo de volta para você em cinco minutos."
+    },
+    {
+      "text": "Il n'est pas là aujourd'hui.",
+      "en": "He's not here today.",
+      "pt": "Ele não está aqui hoje."
+    },
+    {
+      "text": "Vous voulez laisser un message ?",
+      "en": "Would you like to leave a message?",
+      "pt": "Você quer deixar um recado?"
+    },
+    {
+      "text": "Mon rendez-vous est jeudi à seize heures.",
+      "en": "My appointment is on Thursday at four p.m.",
+      "pt": "Minha consulta é na quinta às dezesseis horas."
+    },
+    {
+      "text": "Je dois annuler mon rendez-vous.",
+      "en": "I have to cancel my appointment.",
+      "pt": "Preciso cancelar o meu horário."
+    },
+    {
+      "text": "Mon téléphone n'a plus de batterie.",
+      "en": "My phone has no battery left.",
+      "pt": "Meu celular está sem bateria."
+    },
+    {
+      "text": "Je t'appelle ce soir.",
+      "en": "I'll call you tonight.",
+      "pt": "Eu te ligo hoje à noite."
+    },
+    {
+      "text": "Désolé, c'est un faux numéro.",
+      "en": "Sorry, wrong number.",
+      "pt": "Desculpe, é engano."
+    },
+    {
+      "text": "Le secrétariat répond de neuf heures à midi.",
+      "en": "The front desk answers from nine to twelve.",
+      "pt": "A secretaria atende das nove ao meio-dia."
+    },
+    {
+      "text": "Je suis au téléphone !",
+      "en": "I'm on the phone!",
+      "pt": "Estou no telefone!"
+    },
+    {
+      "text": "Tu as mon numéro ?",
+      "en": "Do you have my number?",
+      "pt": "Você tem o meu número?"
+    },
+    {
+      "text": "Envoie-moi un message, d'accord ?",
+      "en": "Send me a message, okay?",
+      "pt": "Me manda uma mensagem, combinado?"
+    },
+    {
+      "text": "C'est possible vendredi après-midi ?",
+      "en": "Is Friday afternoon possible?",
+      "pt": "É possível na sexta à tarde?"
+    },
+    {
+      "text": "Désolé, vendredi c'est complet.",
+      "en": "Sorry, Friday is fully booked.",
+      "pt": "Desculpe, sexta está lotado."
+    },
+    {
+      "text": "Vous avez un rendez-vous plus tôt ?",
+      "en": "Do you have an earlier appointment?",
+      "pt": "Você tem um horário mais cedo?"
+    },
+    {
+      "text": "Votre nom, s'il vous plaît ?",
+      "en": "Your name, please?",
+      "pt": "Seu nome, por favor?"
+    },
+    {
+      "text": "Ça s'écrit comment ?",
+      "en": "How do you spell that?",
+      "pt": "Como se escreve?"
+    },
+    {
+      "text": "Je suis en retard de dix minutes.",
+      "en": "I'm ten minutes late.",
+      "pt": "Estou dez minutos atrasado."
+    },
+    {
+      "text": "Le rendez-vous est confirmé.",
+      "en": "The appointment is confirmed.",
+      "pt": "O horário está confirmado."
+    },
+    {
+      "text": "À jeudi, au revoir !",
+      "en": "See you Thursday, goodbye!",
+      "pt": "Até quinta, tchau!"
+    },
+    {
+      "text": "Je cherche le numéro de la mairie.",
+      "en": "I'm looking for the town hall's number.",
+      "pt": "Estou procurando o número da prefeitura."
+    },
+    {
+      "text": "Mon portable sonne !",
+      "en": "My mobile is ringing!",
+      "pt": "Meu celular está tocando!"
+    },
+    {
+      "text": "Tu peux m'appeler demain matin ?",
+      "en": "Can you call me tomorrow morning?",
+      "pt": "Você pode me ligar amanhã de manhã?"
+    },
+    {
+      "text": "La ligne est occupée.",
+      "en": "The line is busy.",
+      "pt": "A linha está ocupada."
+    },
+    {
+      "text": "Parlez plus fort, s'il vous plaît.",
+      "en": "Speak louder, please.",
+      "pt": "Fale mais alto, por favor."
+    },
+    {
+      "text": "Je note la date et l'heure.",
+      "en": "I'm writing down the date and time.",
+      "pt": "Estou anotando a data e a hora."
+    },
+    {
+      "text": "On se retrouve devant le cinéma ?",
+      "en": "Shall we meet in front of the cinema?",
+      "pt": "A gente se encontra na frente do cinema?"
+    },
+    {
+      "text": "D'accord, à huit heures et quart.",
+      "en": "Okay, at a quarter past eight.",
+      "pt": "Combinado, às oito e quinze."
+    },
+    {
+      "text": "Merci de votre appel, bonne journée.",
+      "en": "Thank you for your call, have a nice day.",
+      "pt": "Obrigado pela ligação, tenha um bom dia."
+    }
+  ]
+}

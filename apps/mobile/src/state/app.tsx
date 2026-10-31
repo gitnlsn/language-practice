@@ -7,9 +7,16 @@ import {
   parseSettings,
   SENTENCES_KEY,
   SETTINGS_KEY,
+  TOPICS,
   type Sentence,
   type Settings,
 } from "@viva-voz/core";
+
+function loadSettings(): Settings {
+  const s = parseSettings(Storage.getItemSync(SETTINGS_KEY));
+  // Sentences come from a fixed bank, so a custom topic saved by an earlier version falls back to "any topic".
+  return TOPICS.includes(s.topic) ? s : { ...s, topic: "" };
+}
 
 function loadSentences(): Sentence[] {
   try {
@@ -34,7 +41,7 @@ interface AppState {
 const Ctx = createContext<AppState | null>(null);
 
 export function AppProvider({ children }: { children: ReactNode }) {
-  const [settings, setSettingsState] = useState(() => parseSettings(Storage.getItemSync(SETTINGS_KEY)));
+  const [settings, setSettingsState] = useState(loadSettings);
   const [sentences, setSentences] = useState(loadSentences);
   const [deck, setDeck] = useState<Sentence[]>([]);
 

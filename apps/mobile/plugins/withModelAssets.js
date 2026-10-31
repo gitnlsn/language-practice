@@ -7,7 +7,7 @@ module.exports = function withModelAssets(config) {
     if (!c.modResults.contents.includes("noCompress")) {
       c.modResults.contents = c.modResults.contents.replace(
         /android\s*\{/,
-        `android {\n    androidResources {\n        noCompress += ["onnx", "gguf", "bin"]\n    }`,
+        `android {\n    androidResources {\n        noCompress += ["onnx", "bin"]\n    }`,
       );
     }
     return c;
@@ -22,7 +22,6 @@ module.exports = function withModelAssets(config) {
     set("reactNativeArchitectures", "arm64-v8a");
     // Memory: a from-scratch build (as EAS does) compiles every native module; with Gradle's defaults that went past
     // 20 GB on an 8 GB Mac. Build one module at a time with two workers, and cap the Gradle and Kotlin heaps.
-    // 3 GB still leaves room for packaging and signing the ~1.4 GB bundle (2 GB failed intermittently).
     set("org.gradle.jvmargs", "-Xmx3072m -XX:MaxMetaspaceSize=768m");
     set("kotlin.daemon.jvmargs", "-Xmx1536m");
     set("org.gradle.parallel", "false");

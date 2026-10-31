@@ -26,9 +26,7 @@
       "onnxruntime-react-native",
       "react-native-audio-api",
       "expo-asset",
-      "llama.rn",
       "./plugins/withModelAssets",
-      "./plugins/withModelAssetPacks",
       "expo-router",
       "expo-sqlite",
       [

@@ -13,10 +13,8 @@ import { radius, useColors, type Colors } from "../theme";
 type IconName = keyof typeof Ionicons.glyphMap;
 
 const PARTS: { part: Part; icon: IconName; title: string; detail: string }[] = [
-  { part: "files", icon: "folder-open-outline", title: "Model files", detail: "Unpacked once on first launch (about 1.4 GB)" },
+  { part: "files", icon: "folder-open-outline", title: "Voice files", detail: "Unpacked once on first launch (about 90 MB)" },
   { part: "voice", icon: "mic-outline", title: "Natural voice", detail: "Kokoro 82M with eSpeak NG pronunciation" },
-  { part: "writer", icon: "create-outline", title: "Sentence writer", detail: "Qwen2.5 1.5B writes in English" },
-  { part: "translators", icon: "language-outline", title: "Translators", detail: "Opus-MT into French, Spanish and Portuguese" },
 ];
 
 function Section({ title, children }: { title: string; children: ReactNode }) {
@@ -149,12 +147,17 @@ export default function Setup() {
           const s = engine[part];
           return <Row key={part} first={i === 0} icon={icon} title={title} detail={s.status === "error" ? s.message : detail} right={<Badge s={s} c={c} />} />;
         })}
+        <Row
+          icon="library-outline"
+          title="Sentence bank"
+          detail="French and Spanish, A1–C1, with English and Portuguese translations"
+          right={<Ionicons name="checkmark-circle" size={22} color={c.ok} accessibilityLabel="Ready" />}
+        />
         <Text style={[styles.note, { color: c.muted, borderTopColor: c.line }]}>Everything runs offline. Nothing is sent anywhere.</Text>
       </Section>
 
       <Text style={[styles.credits, { color: c.muted }]}>
-        Kokoro 82M (Apache 2.0) · eSpeak NG (GPL-3.0) · Qwen2.5 1.5B Instruct (Apache 2.0) · Opus-MT by Helsinki-NLP, University of
-        Helsinki (CC-BY 4.0) · ONNX Runtime (MIT) · llama.cpp via llama.rn (MIT)
+        Kokoro 82M (Apache 2.0) · eSpeak NG (GPL-3.0) · ONNX Runtime (MIT)
       </Text>
     </ScrollView>
   );

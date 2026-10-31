@@ -11,8 +11,6 @@ export interface Sentence {
   createdAt: number;
   favorite?: boolean;
   hard?: boolean;
-  /** English original when the sentence was written in English and machine-translated (Android). */
-  source?: string;
 }
 
 export const SENTENCES_KEY = "lp.sentences";

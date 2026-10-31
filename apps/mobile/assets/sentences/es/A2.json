@@ -1,0 +1,2406 @@
+{
+  "ordering at a café or restaurant": [
+    {
+      "text": "Quiero un café con leche y una tostada.",
+      "en": "I'd like a white coffee and a piece of toast.",
+      "pt": "Quero um café com leite e uma torrada."
+    },
+    {
+      "text": "¿Tienen alguna mesa libre para cuatro personas?",
+      "en": "Do you have a free table for four people?",
+      "pt": "Vocês têm alguma mesa livre para quatro pessoas?"
+    },
+    {
+      "text": "Ayer cenamos en un restaurante italiano muy bueno.",
+      "en": "Yesterday we had dinner at a very good Italian restaurant.",
+      "pt": "Ontem jantamos em um restaurante italiano muito bom."
+    },
+    {
+      "text": "De primero voy a tomar una ensalada mixta.",
+      "en": "For the first course I'm going to have a mixed salad.",
+      "pt": "De entrada vou comer uma salada mista."
+    },
+    {
+      "text": "¿Qué nos recomienda de postre hoy?",
+      "en": "What do you recommend for dessert today?",
+      "pt": "O que você nos recomenda de sobremesa hoje?"
+    },
+    {
+      "text": "La cuenta, por favor, que tenemos prisa.",
+      "en": "The bill, please, we're in a hurry.",
+      "pt": "A conta, por favor, que estamos com pressa."
+    },
+    {
+      "text": "Este pescado está muy rico, ¿verdad?",
+      "en": "This fish is really tasty, isn't it?",
+      "pt": "Este peixe está muito gostoso, né?"
+    },
+    {
+      "text": "Marta ha pedido una paella para dos personas.",
+      "en": "Marta has ordered a paella for two people.",
+      "pt": "A Marta pediu uma paella para duas pessoas."
+    },
+    {
+      "text": "¿Podemos sentarnos en la terraza, por favor?",
+      "en": "Can we sit on the terrace, please?",
+      "pt": "Podemos sentar no terraço, por favor?"
+    },
+    {
+      "text": "No como carne, ¿tienen platos vegetarianos?",
+      "en": "I don't eat meat; do you have vegetarian dishes?",
+      "pt": "Eu não como carne, vocês têm pratos vegetarianos?"
+    },
+    {
+      "text": "Para beber, una botella de agua sin gas.",
+      "en": "To drink, a bottle of still water.",
+      "pt": "Para beber, uma garrafa de água sem gás."
+    },
+    {
+      "text": "El camarero nos ha traído la comida muy rápido.",
+      "en": "The waiter brought us the food very quickly.",
+      "pt": "O garçom nos trouxe a comida muito rápido."
+    },
+    {
+      "text": "¿Se puede pagar con tarjeta aquí?",
+      "en": "Can you pay by card here?",
+      "pt": "Dá para pagar com cartão aqui?"
+    },
+    {
+      "text": "Hoy el menú del día cuesta doce euros.",
+      "en": "Today the set menu costs twelve euros.",
+      "pt": "Hoje o prato do dia custa doze euros."
+    },
+    {
+      "text": "Voy a pedir el filete con patatas fritas.",
+      "en": "I'm going to order the steak with chips.",
+      "pt": "Vou pedir o filé com batatas fritas."
+    },
+    {
+      "text": "¿Me pone un zumo de naranja natural?",
+      "en": "Could I have a fresh orange juice?",
+      "pt": "Pode me ver um suco de laranja natural?"
+    },
+    {
+      "text": "Perdone, esta sopa está un poco fría.",
+      "en": "Excuse me, this soup is a bit cold.",
+      "pt": "Com licença, esta sopa está um pouco fria."
+    },
+    {
+      "text": "El sábado pasado probamos un restaurante japonés nuevo.",
+      "en": "Last Saturday we tried a new Japanese restaurant.",
+      "pt": "No sábado passado experimentamos um restaurante japonês novo."
+    },
+    {
+      "text": "¿Cuánto tiempo hay que esperar para una mesa?",
+      "en": "How long do we have to wait for a table?",
+      "pt": "Quanto tempo tem que esperar por uma mesa?"
+    },
+    {
+      "text": "Dos cañas y una ración de calamares, por favor.",
+      "en": "Two small beers and a portion of squid, please.",
+      "pt": "Dois chopes e uma porção de lula, por favor."
+    },
+    {
+      "text": "Mis amigos van a pedir pizza para cenar.",
+      "en": "My friends are going to order pizza for dinner.",
+      "pt": "Meus amigos vão pedir pizza para o jantar."
+    },
+    {
+      "text": "¿El pan está incluido en el precio?",
+      "en": "Is the bread included in the price?",
+      "pt": "O pão está incluído no preço?"
+    },
+    {
+      "text": "Quería reservar una mesa para esta noche.",
+      "en": "I'd like to book a table for tonight.",
+      "pt": "Eu queria reservar uma mesa para hoje à noite."
+    },
+    {
+      "text": "No me gusta mucho el café sin azúcar.",
+      "en": "I don't really like coffee without sugar.",
+      "pt": "Não gosto muito de café sem açúcar."
+    },
+    {
+      "text": "¿Nos trae más servilletas, por favor?",
+      "en": "Could you bring us more napkins, please?",
+      "pt": "Pode nos trazer mais guardanapos, por favor?"
+    },
+    {
+      "text": "Hemos dejado una propina de cinco euros.",
+      "en": "We've left a five-euro tip.",
+      "pt": "Deixamos uma gorjeta de cinco euros."
+    },
+    {
+      "text": "El restaurante cierra a las once de la noche.",
+      "en": "The restaurant closes at eleven at night.",
+      "pt": "O restaurante fecha às onze da noite."
+    },
+    {
+      "text": "¿Qué lleva la ensalada de la casa?",
+      "en": "What's in the house salad?",
+      "pt": "O que vem na salada da casa?"
+    },
+    {
+      "text": "Yo voy a tomar un té verde, gracias.",
+      "en": "I'm going to have a green tea, thanks.",
+      "pt": "Eu vou tomar um chá verde, obrigado."
+    },
+    {
+      "text": "Esta tarde quedamos en la cafetería de la esquina.",
+      "en": "This afternoon we're meeting at the café on the corner.",
+      "pt": "Hoje à tarde vamos nos encontrar na cafeteria da esquina."
+    },
+    {
+      "text": "Soy alérgico a los frutos secos, ¿lleva nueces?",
+      "en": "I'm allergic to nuts; does it have walnuts in it?",
+      "pt": "Sou alérgico a castanhas, tem nozes?"
+    },
+    {
+      "text": "La tarta de chocolate está buenísima.",
+      "en": "The chocolate cake is delicious.",
+      "pt": "A torta de chocolate está deliciosa."
+    },
+    {
+      "text": "¿Me puede traer otro tenedor, por favor?",
+      "en": "Could you bring me another fork, please?",
+      "pt": "Pode me trazer outro garfo, por favor?"
+    },
+    {
+      "text": "Pedro siempre desayuna churros con chocolate los domingos.",
+      "en": "Pedro always has churros with hot chocolate for breakfast on Sundays.",
+      "pt": "O Pedro sempre toma café da manhã com churros e chocolate quente aos domingos."
+    },
+    {
+      "text": "Anoche pedimos la comida a domicilio.",
+      "en": "Last night we had food delivered.",
+      "pt": "Ontem à noite pedimos comida para entregar em casa."
+    },
+    {
+      "text": "¿Para tomar aquí o para llevar?",
+      "en": "For here or to take away?",
+      "pt": "Para consumir aqui ou para viagem?"
+    },
+    {
+      "text": "La comida ha sido excelente, muchas gracias.",
+      "en": "The meal was excellent, thank you very much.",
+      "pt": "A comida estava excelente, muito obrigado."
+    },
+    {
+      "text": "Perdone, ¿está libre esta silla de aquí?",
+      "en": "Excuse me, is this chair here free?",
+      "pt": "Com licença, esta cadeira aqui está livre?"
+    },
+    {
+      "text": "Un cortado y un cruasán, por favor.",
+      "en": "A cortado and a croissant, please.",
+      "pt": "Um café pingado e um croissant, por favor."
+    }
+  ],
+  "travel and directions": [
+    {
+      "text": "¿Dónde está la estación de tren, por favor?",
+      "en": "Where is the train station, please?",
+      "pt": "Onde fica a estação de trem, por favor?"
+    },
+    {
+      "text": "Siga todo recto y gire a la derecha.",
+      "en": "Go straight on and turn right.",
+      "pt": "Siga em frente e vire à direita."
+    },
+    {
+      "text": "El museo está al lado de la catedral.",
+      "en": "The museum is next to the cathedral.",
+      "pt": "O museu fica ao lado da catedral."
+    },
+    {
+      "text": "¿Cuánto cuesta un billete de ida y vuelta?",
+      "en": "How much is a return ticket?",
+      "pt": "Quanto custa uma passagem de ida e volta?"
+    },
+    {
+      "text": "El verano pasado fuimos a Portugal en coche.",
+      "en": "Last summer we went to Portugal by car.",
+      "pt": "No verão passado fomos para Portugal de carro."
+    },
+    {
+      "text": "Mañana voy a coger el autobús de las ocho.",
+      "en": "Tomorrow I'm going to take the eight o'clock bus.",
+      "pt": "Amanhã vou pegar o ônibus das oito."
+    },
+    {
+      "text": "¿Está muy lejos el aeropuerto desde aquí?",
+      "en": "Is the airport very far from here?",
+      "pt": "O aeroporto fica muito longe daqui?"
+    },
+    {
+      "text": "Hemos perdido el tren por cinco minutos.",
+      "en": "We've missed the train by five minutes.",
+      "pt": "Perdemos o trem por cinco minutos."
+    },
+    {
+      "text": "La farmacia está en la segunda calle a la izquierda.",
+      "en": "The pharmacy is on the second street on the left.",
+      "pt": "A farmácia fica na segunda rua à esquerda."
+    },
+    {
+      "text": "¿A qué hora sale el próximo tren a Sevilla?",
+      "en": "What time does the next train to Seville leave?",
+      "pt": "A que horas sai o próximo trem para Sevilha?"
+    },
+    {
+      "text": "Laura ha reservado un hotel cerca de la playa.",
+      "en": "Laura has booked a hotel near the beach.",
+      "pt": "A Laura reservou um hotel perto da praia."
+    },
+    {
+      "text": "Perdone, ¿cómo puedo llegar al centro?",
+      "en": "Excuse me, how can I get to the city centre?",
+      "pt": "Com licença, como eu chego ao centro?"
+    },
+    {
+      "text": "Cruce la plaza y el banco está enfrente.",
+      "en": "Cross the square and the bank is opposite.",
+      "pt": "Atravesse a praça e o banco fica em frente."
+    },
+    {
+      "text": "El vuelo a Londres sale con una hora de retraso.",
+      "en": "The flight to London is leaving an hour late.",
+      "pt": "O voo para Londres está saindo com uma hora de atraso."
+    },
+    {
+      "text": "¿Hay un cajero automático por aquí cerca?",
+      "en": "Is there a cash machine near here?",
+      "pt": "Tem um caixa eletrônico aqui perto?"
+    },
+    {
+      "text": "En agosto vamos a viajar a Mallorca.",
+      "en": "In August we're going to travel to Majorca.",
+      "pt": "Em agosto vamos viajar para Maiorca."
+    },
+    {
+      "text": "Necesito un mapa de la ciudad, por favor.",
+      "en": "I need a map of the city, please.",
+      "pt": "Preciso de um mapa da cidade, por favor."
+    },
+    {
+      "text": "Tardamos dos horas en llegar a Valencia.",
+      "en": "It took us two hours to get to Valencia.",
+      "pt": "Levamos duas horas para chegar a Valência."
+    },
+    {
+      "text": "¿Este autobús para cerca del hospital central?",
+      "en": "Does this bus stop near the central hospital?",
+      "pt": "Este ônibus para perto do hospital central?"
+    },
+    {
+      "text": "La oficina de turismo abre a las nueve.",
+      "en": "The tourist office opens at nine.",
+      "pt": "O centro de informações turísticas abre às nove."
+    },
+    {
+      "text": "Al final de la calle, gire a la izquierda.",
+      "en": "At the end of the street, turn left.",
+      "pt": "No final da rua, vire à esquerda."
+    },
+    {
+      "text": "¿Puedo dejar la maleta en la recepción?",
+      "en": "Can I leave my suitcase at reception?",
+      "pt": "Posso deixar a mala na recepção?"
+    },
+    {
+      "text": "Mis padres viajaron a México el año pasado.",
+      "en": "My parents travelled to Mexico last year.",
+      "pt": "Meus pais viajaram para o México no ano passado."
+    },
+    {
+      "text": "El hotel está a diez minutos andando.",
+      "en": "The hotel is a ten-minute walk away.",
+      "pt": "O hotel fica a dez minutos a pé."
+    },
+    {
+      "text": "Me he perdido, ¿me puede ayudar?",
+      "en": "I'm lost; can you help me?",
+      "pt": "Eu me perdi, pode me ajudar?"
+    },
+    {
+      "text": "¿Dónde se compran los billetes de metro?",
+      "en": "Where do you buy metro tickets?",
+      "pt": "Onde se compram os bilhetes de metrô?"
+    },
+    {
+      "text": "Vamos a alquilar un coche para tres días.",
+      "en": "We're going to rent a car for three days.",
+      "pt": "Vamos alugar um carro por três dias."
+    },
+    {
+      "text": "El tren a Bilbao sale del andén cuatro.",
+      "en": "The train to Bilbao leaves from platform four.",
+      "pt": "O trem para Bilbao sai da plataforma quatro."
+    },
+    {
+      "text": "Hemos visitado el castillo esta mañana.",
+      "en": "We visited the castle this morning.",
+      "pt": "Visitamos o castelo hoje de manhã."
+    },
+    {
+      "text": "¿Cuántas paradas hay hasta la plaza Mayor?",
+      "en": "How many stops are there to the Plaza Mayor?",
+      "pt": "Quantas paradas tem até a Plaza Mayor?"
+    },
+    {
+      "text": "Pase el puente y siga por esa avenida.",
+      "en": "Go over the bridge and carry on along that avenue.",
+      "pt": "Passe a ponte e siga por essa avenida."
+    },
+    {
+      "text": "Javier siempre viaja con una mochila pequeña.",
+      "en": "Javier always travels with a small backpack.",
+      "pt": "O Javier sempre viaja com uma mochila pequena."
+    },
+    {
+      "text": "¿Tiene una habitación doble para esta noche?",
+      "en": "Do you have a double room for tonight?",
+      "pt": "Você tem um quarto duplo para esta noite?"
+    },
+    {
+      "text": "El taxi nos dejó en la puerta del hotel.",
+      "en": "The taxi dropped us at the hotel door.",
+      "pt": "O táxi nos deixou na porta do hotel."
+    },
+    {
+      "text": "La playa está bastante lejos del centro.",
+      "en": "The beach is quite far from the centre.",
+      "pt": "A praia fica bem longe do centro."
+    },
+    {
+      "text": "¿Necesito pasaporte para viajar a Francia?",
+      "en": "Do I need a passport to travel to France?",
+      "pt": "Preciso de passaporte para viajar para a França?"
+    },
+    {
+      "text": "Primero tome la línea dos y luego la cinco.",
+      "en": "First take line two and then line five.",
+      "pt": "Primeiro pegue a linha dois e depois a cinco."
+    },
+    {
+      "text": "Este fin de semana vamos a ir a la montaña.",
+      "en": "This weekend we're going to go to the mountains.",
+      "pt": "Neste fim de semana vamos para as montanhas."
+    },
+    {
+      "text": "El avión aterrizó en Madrid a medianoche.",
+      "en": "The plane landed in Madrid at midnight.",
+      "pt": "O avião pousou em Madri à meia-noite."
+    },
+    {
+      "text": "¿A qué hora es el desayuno en el hotel?",
+      "en": "What time is breakfast at the hotel?",
+      "pt": "A que horas é o café da manhã no hotel?"
+    }
+  ],
+  "shopping": [
+    {
+      "text": "¿Cuánto cuesta esta camiseta azul de algodón?",
+      "en": "How much is this blue cotton T-shirt?",
+      "pt": "Quanto custa esta camiseta azul de algodão?"
+    },
+    {
+      "text": "¿Tiene estos zapatos en la talla cuarenta?",
+      "en": "Do you have these shoes in a size forty?",
+      "pt": "Você tem estes sapatos no tamanho quarenta?"
+    },
+    {
+      "text": "Ayer compré un abrigo nuevo en las rebajas.",
+      "en": "Yesterday I bought a new coat in the sales.",
+      "pt": "Ontem comprei um casaco novo na liquidação."
+    },
+    {
+      "text": "¿Dónde están los probadores, por favor?",
+      "en": "Where are the fitting rooms, please?",
+      "pt": "Onde ficam os provadores, por favor?"
+    },
+    {
+      "text": "Estos pantalones me quedan un poco grandes.",
+      "en": "These trousers are a bit big on me.",
+      "pt": "Esta calça está um pouco grande para mim."
+    },
+    {
+      "text": "Voy a comprar pan y leche en el supermercado.",
+      "en": "I'm going to buy bread and milk at the supermarket.",
+      "pt": "Vou comprar pão e leite no supermercado."
+    },
+    {
+      "text": "¿Me da un kilo de tomates, por favor?",
+      "en": "Can I have a kilo of tomatoes, please?",
+      "pt": "Me dá um quilo de tomates, por favor?"
+    },
+    {
+      "text": "Ana se ha comprado un bolso muy bonito.",
+      "en": "Ana has bought herself a very nice bag.",
+      "pt": "A Ana comprou uma bolsa muito bonita."
+    },
+    {
+      "text": "¿Aceptan tarjeta o solo pagos en efectivo?",
+      "en": "Do you take cards or only cash?",
+      "pt": "Vocês aceitam cartão ou só dinheiro?"
+    },
+    {
+      "text": "Esa chaqueta es demasiado cara para mí.",
+      "en": "That jacket is too expensive for me.",
+      "pt": "Essa jaqueta é cara demais para mim."
+    },
+    {
+      "text": "Quería devolver este jersey, es pequeño.",
+      "en": "I'd like to return this jumper; it's too small.",
+      "pt": "Eu queria devolver este suéter, está pequeno."
+    },
+    {
+      "text": "¿Tiene usted el ticket de la compra?",
+      "en": "Do you have the receipt?",
+      "pt": "Você tem o comprovante da compra?"
+    },
+    {
+      "text": "El mercado abre todos los días menos el domingo.",
+      "en": "The market opens every day except Sunday.",
+      "pt": "O mercado abre todos os dias, menos domingo."
+    },
+    {
+      "text": "¿Hay este vestido en otro color?",
+      "en": "Does this dress come in another colour?",
+      "pt": "Tem este vestido em outra cor?"
+    },
+    {
+      "text": "Hoy hay un descuento del veinte por ciento.",
+      "en": "Today there's a twenty percent discount.",
+      "pt": "Hoje tem um desconto de vinte por cento."
+    },
+    {
+      "text": "Mi hermano va a comprar un móvil nuevo.",
+      "en": "My brother is going to buy a new mobile phone.",
+      "pt": "Meu irmão vai comprar um celular novo."
+    },
+    {
+      "text": "¿Me lo puede envolver para regalo?",
+      "en": "Can you gift-wrap it for me?",
+      "pt": "Pode embrulhar para presente?"
+    },
+    {
+      "text": "He gastado demasiado dinero este mes.",
+      "en": "I've spent too much money this month.",
+      "pt": "Gastei dinheiro demais este mês."
+    },
+    {
+      "text": "Necesito una bolsa de plástico, ¿cuánto cuesta?",
+      "en": "I need a plastic bag; how much is it?",
+      "pt": "Preciso de uma sacola plástica, quanto custa?"
+    },
+    {
+      "text": "La tienda de ropa está en la primera planta.",
+      "en": "The clothes shop is on the first floor.",
+      "pt": "A loja de roupas fica no primeiro andar."
+    },
+    {
+      "text": "¿De dónde son estas naranjas tan grandes?",
+      "en": "Where are these big oranges from?",
+      "pt": "De onde são essas laranjas tão grandes?"
+    },
+    {
+      "text": "Compramos los regalos de Navidad por internet.",
+      "en": "We bought the Christmas presents online.",
+      "pt": "Compramos os presentes de Natal pela internet."
+    },
+    {
+      "text": "No necesito ayuda, solo estoy mirando, gracias.",
+      "en": "I don't need any help, I'm just looking, thanks.",
+      "pt": "Não preciso de ajuda, só estou olhando, obrigado."
+    },
+    {
+      "text": "Este reloj cuesta ciento cincuenta euros.",
+      "en": "This watch costs a hundred and fifty euros.",
+      "pt": "Este relógio custa cento e cinquenta euros."
+    },
+    {
+      "text": "¿A qué hora cierra el centro comercial?",
+      "en": "What time does the shopping centre close?",
+      "pt": "A que horas fecha o shopping?"
+    },
+    {
+      "text": "Me llevo las dos camisas blancas.",
+      "en": "I'll take the two white shirts.",
+      "pt": "Vou levar as duas camisas brancas."
+    },
+    {
+      "text": "Carmen fue de compras con su madre el sábado.",
+      "en": "Carmen went shopping with her mother on Saturday.",
+      "pt": "A Carmen foi fazer compras com a mãe no sábado."
+    },
+    {
+      "text": "Perdone, ¿me puede cobrar aquí, por favor?",
+      "en": "Excuse me, can I pay here, please?",
+      "pt": "Com licença, posso pagar aqui, por favor?"
+    },
+    {
+      "text": "Se me ha olvidado la lista de la compra.",
+      "en": "I've forgotten the shopping list.",
+      "pt": "Esqueci a lista de compras."
+    },
+    {
+      "text": "Las fresas están muy baratas esta semana.",
+      "en": "Strawberries are very cheap this week.",
+      "pt": "Os morangos estão muito baratos esta semana."
+    },
+    {
+      "text": "¿Tienen esta falda en una talla más pequeña?",
+      "en": "Do you have this skirt in a smaller size?",
+      "pt": "Vocês têm esta saia em um tamanho menor?"
+    },
+    {
+      "text": "Vamos a comprar muebles para el salón.",
+      "en": "We're going to buy furniture for the living room.",
+      "pt": "Vamos comprar móveis para a sala."
+    },
+    {
+      "text": "Doscientos gramos de jamón serrano, por favor.",
+      "en": "Two hundred grams of serrano ham, please.",
+      "pt": "Duzentos gramas de presunto serrano, por favor."
+    },
+    {
+      "text": "El dependiente fue muy amable con nosotros.",
+      "en": "The shop assistant was very kind to us.",
+      "pt": "O vendedor foi muito gentil com a gente."
+    },
+    {
+      "text": "¿Puedo probarme estas botas negras un momento?",
+      "en": "Can I try on these black boots for a moment?",
+      "pt": "Posso experimentar estas botas pretas um minutinho?"
+    },
+    {
+      "text": "No me queda dinero en efectivo.",
+      "en": "I don't have any cash left.",
+      "pt": "Não tenho mais dinheiro em espécie."
+    },
+    {
+      "text": "La panadería de mi barrio vende pan muy rico.",
+      "en": "The bakery in my neighbourhood sells really good bread.",
+      "pt": "A padaria do meu bairro vende um pão muito gostoso."
+    },
+    {
+      "text": "Perfecto, ¿y cuánto es todo junto?",
+      "en": "Great, and how much is it all together?",
+      "pt": "Perfeito, e quanto dá tudo junto?"
+    },
+    {
+      "text": "Prefiero comprar la fruta en el mercado.",
+      "en": "I prefer to buy fruit at the market.",
+      "pt": "Prefiro comprar frutas no mercado."
+    },
+    {
+      "text": "Esta mañana he comprado unas gafas de sol.",
+      "en": "This morning I bought some sunglasses.",
+      "pt": "Hoje de manhã comprei uns óculos de sol."
+    }
+  ],
+  "work and meetings": [
+    {
+      "text": "La reunión empieza a las diez en punto.",
+      "en": "The meeting starts at ten o'clock sharp.",
+      "pt": "A reunião começa às dez em ponto."
+    },
+    {
+      "text": "Hoy trabajo desde casa todo el día.",
+      "en": "Today I'm working from home all day.",
+      "pt": "Hoje trabalho de casa o dia todo."
+    },
+    {
+      "text": "¿Has enviado el informe al jefe?",
+      "en": "Have you sent the report to the boss?",
+      "pt": "Você enviou o relatório para o chefe?"
+    },
+    {
+      "text": "Mañana vamos a presentar el proyecto al cliente.",
+      "en": "Tomorrow we're going to present the project to the client.",
+      "pt": "Amanhã vamos apresentar o projeto ao cliente."
+    },
+    {
+      "text": "Mi compañera Elena trabaja en el departamento de ventas.",
+      "en": "My colleague Elena works in the sales department.",
+      "pt": "Minha colega Elena trabalha no departamento de vendas."
+    },
+    {
+      "text": "La reunión de ayer duró casi tres horas.",
+      "en": "Yesterday's meeting lasted almost three hours.",
+      "pt": "A reunião de ontem durou quase três horas."
+    },
+    {
+      "text": "¿Podemos cambiar la reunión al jueves?",
+      "en": "Can we move the meeting to Thursday?",
+      "pt": "Podemos mudar a reunião para quinta-feira?"
+    },
+    {
+      "text": "Empiezo a trabajar a las ocho y media.",
+      "en": "I start work at half past eight.",
+      "pt": "Começo a trabalhar às oito e meia."
+    },
+    {
+      "text": "Esta semana tengo mucho trabajo en la oficina.",
+      "en": "This week I have a lot of work at the office.",
+      "pt": "Esta semana tenho muito trabalho no escritório."
+    },
+    {
+      "text": "El director ha llegado tarde a la reunión.",
+      "en": "The director arrived late to the meeting.",
+      "pt": "O diretor chegou atrasado à reunião."
+    },
+    {
+      "text": "¿Quién va a tomar notas en la reunión?",
+      "en": "Who's going to take notes in the meeting?",
+      "pt": "Quem vai fazer as anotações na reunião?"
+    },
+    {
+      "text": "Necesito imprimir estos documentos antes de las doce.",
+      "en": "I need to print these documents before twelve.",
+      "pt": "Preciso imprimir estes documentos antes do meio-dia."
+    },
+    {
+      "text": "Raúl busca trabajo como profesor de inglés.",
+      "en": "Raúl is looking for work as an English teacher.",
+      "pt": "O Raúl está procurando emprego como professor de inglês."
+    },
+    {
+      "text": "Tengo una entrevista de trabajo el lunes.",
+      "en": "I have a job interview on Monday.",
+      "pt": "Tenho uma entrevista de emprego na segunda-feira."
+    },
+    {
+      "text": "El ordenador de la oficina no funciona bien.",
+      "en": "The office computer isn't working properly.",
+      "pt": "O computador do escritório não está funcionando bem."
+    },
+    {
+      "text": "Hemos terminado el proyecto antes de tiempo.",
+      "en": "We've finished the project ahead of schedule.",
+      "pt": "Terminamos o projeto antes do prazo."
+    },
+    {
+      "text": "¿A qué hora sales del trabajo hoy?",
+      "en": "What time do you finish work today?",
+      "pt": "A que horas você sai do trabalho hoje?"
+    },
+    {
+      "text": "Mi jefa es muy simpática y trabajadora.",
+      "en": "My boss is very nice and hard-working.",
+      "pt": "Minha chefe é muito simpática e trabalhadora."
+    },
+    {
+      "text": "Voy a llamar al cliente después de comer.",
+      "en": "I'm going to call the client after lunch.",
+      "pt": "Vou ligar para o cliente depois do almoço."
+    },
+    {
+      "text": "En mi empresa trabajan unas cincuenta personas.",
+      "en": "About fifty people work at my company.",
+      "pt": "Na minha empresa trabalham umas cinquenta pessoas."
+    },
+    {
+      "text": "¿Puedes mandarme la presentación por correo?",
+      "en": "Can you send me the presentation by email?",
+      "pt": "Pode me mandar a apresentação por e-mail?"
+    },
+    {
+      "text": "El año pasado cambié de trabajo.",
+      "en": "Last year I changed jobs.",
+      "pt": "No ano passado mudei de emprego."
+    },
+    {
+      "text": "La sala de reuniones está en el tercer piso.",
+      "en": "The meeting room is on the third floor.",
+      "pt": "A sala de reuniões fica no terceiro andar."
+    },
+    {
+      "text": "Hoy tenemos una videollamada con el equipo de Barcelona.",
+      "en": "Today we have a video call with the Barcelona team.",
+      "pt": "Hoje temos uma videochamada com a equipe de Barcelona."
+    },
+    {
+      "text": "No he tenido tiempo de leer tu correo.",
+      "en": "I haven't had time to read your email.",
+      "pt": "Não tive tempo de ler o seu e-mail."
+    },
+    {
+      "text": "¿Cuántos días de vacaciones tienes al año?",
+      "en": "How many days of holiday do you get a year?",
+      "pt": "Quantos dias de férias você tem por ano?"
+    },
+    {
+      "text": "Pablo va a trabajar en Londres el próximo año.",
+      "en": "Pablo is going to work in London next year.",
+      "pt": "O Pablo vai trabalhar em Londres no ano que vem."
+    },
+    {
+      "text": "Siempre tomo un café con mis compañeros a las once.",
+      "en": "I always have a coffee with my colleagues at eleven.",
+      "pt": "Sempre tomo um café com meus colegas às onze."
+    },
+    {
+      "text": "La impresora no tiene papel otra vez.",
+      "en": "The printer is out of paper again.",
+      "pt": "A impressora está sem papel de novo."
+    },
+    {
+      "text": "¿Te viene bien una reunión a las cuatro?",
+      "en": "Does a meeting at four suit you?",
+      "pt": "Uma reunião às quatro fica bom para você?"
+    },
+    {
+      "text": "Ayer salí de la oficina muy tarde.",
+      "en": "Yesterday I left the office very late.",
+      "pt": "Ontem saí do escritório muito tarde."
+    },
+    {
+      "text": "Trabajo en un hospital como enfermera.",
+      "en": "I work in a hospital as a nurse.",
+      "pt": "Trabalho em um hospital como enfermeira."
+    },
+    {
+      "text": "El jefe nos ha felicitado por el buen trabajo.",
+      "en": "The boss congratulated us on the good work.",
+      "pt": "O chefe nos parabenizou pelo bom trabalho."
+    },
+    {
+      "text": "Tenemos que terminar esto antes del viernes.",
+      "en": "We have to finish this before Friday.",
+      "pt": "Temos que terminar isso antes de sexta-feira."
+    },
+    {
+      "text": "¿Quién es la nueva compañera de tu equipo?",
+      "en": "Who's the new colleague on your team?",
+      "pt": "Quem é a nova colega da sua equipe?"
+    },
+    {
+      "text": "Mañana voy a pedir un día libre.",
+      "en": "Tomorrow I'm going to ask for a day off.",
+      "pt": "Amanhã vou pedir um dia de folga."
+    },
+    {
+      "text": "Han cancelado la reunión de esta tarde.",
+      "en": "This afternoon's meeting has been cancelled.",
+      "pt": "Cancelaram a reunião de hoje à tarde."
+    },
+    {
+      "text": "Mi oficina está muy cerca de la estación.",
+      "en": "My office is very close to the station.",
+      "pt": "Meu escritório fica muito perto da estação."
+    },
+    {
+      "text": "¿Has hablado ya con el nuevo director?",
+      "en": "Have you already spoken to the new director?",
+      "pt": "Você já falou com o novo diretor?"
+    },
+    {
+      "text": "Los viernes salimos del trabajo a las tres.",
+      "en": "On Fridays we finish work at three.",
+      "pt": "Às sextas saímos do trabalho às três."
+    }
+  ],
+  "family and friends": [
+    {
+      "text": "Tengo dos hermanos y una hermana mayor.",
+      "en": "I have two brothers and an older sister.",
+      "pt": "Tenho dois irmãos e uma irmã mais velha."
+    },
+    {
+      "text": "Mi abuela cumple noventa años este domingo.",
+      "en": "My grandmother turns ninety this Sunday.",
+      "pt": "Minha avó faz noventa anos neste domingo."
+    },
+    {
+      "text": "Ayer cené con unos amigos del colegio.",
+      "en": "Yesterday I had dinner with some school friends.",
+      "pt": "Ontem jantei com uns amigos da escola."
+    },
+    {
+      "text": "¿Cuántos años tiene tu hijo pequeño?",
+      "en": "How old is your youngest son?",
+      "pt": "Quantos anos tem o seu filho mais novo?"
+    },
+    {
+      "text": "Mis primos viven en un pueblo de Asturias.",
+      "en": "My cousins live in a village in Asturias.",
+      "pt": "Meus primos moram em uma cidadezinha nas Astúrias."
+    },
+    {
+      "text": "Lucía y Daniel se casaron el año pasado.",
+      "en": "Lucía and Daniel got married last year.",
+      "pt": "A Lucía e o Daniel se casaram no ano passado."
+    },
+    {
+      "text": "Esta noche vamos a cenar en casa de mis padres.",
+      "en": "Tonight we're going to have dinner at my parents' house.",
+      "pt": "Hoje à noite vamos jantar na casa dos meus pais."
+    },
+    {
+      "text": "Mi mejor amiga se llama Sara.",
+      "en": "My best friend's name is Sara.",
+      "pt": "Minha melhor amiga se chama Sara."
+    },
+    {
+      "text": "Mi padre es muy alto y tiene el pelo gris.",
+      "en": "My father is very tall and has grey hair.",
+      "pt": "Meu pai é muito alto e tem cabelo grisalho."
+    },
+    {
+      "text": "Mi tío trabaja de taxista en Madrid.",
+      "en": "My uncle works as a taxi driver in Madrid.",
+      "pt": "Meu tio trabalha como taxista em Madri."
+    },
+    {
+      "text": "Hemos tenido un bebé, se llama Hugo.",
+      "en": "We've had a baby; his name is Hugo.",
+      "pt": "Tivemos um bebê, ele se chama Hugo."
+    },
+    {
+      "text": "Los domingos comemos todos juntos en casa de la abuela.",
+      "en": "On Sundays we all have lunch together at Grandma's.",
+      "pt": "Aos domingos almoçamos todos juntos na casa da vovó."
+    },
+    {
+      "text": "Conocí a mi marido en la universidad.",
+      "en": "I met my husband at university.",
+      "pt": "Conheci meu marido na faculdade."
+    },
+    {
+      "text": "Mi hermana pequeña estudia Medicina en Salamanca.",
+      "en": "My younger sister studies medicine in Salamanca.",
+      "pt": "Minha irmã mais nova estuda medicina em Salamanca."
+    },
+    {
+      "text": "¿Vas a invitar a tus amigos a la fiesta?",
+      "en": "Are you going to invite your friends to the party?",
+      "pt": "Você vai convidar seus amigos para a festa?"
+    },
+    {
+      "text": "Mi sobrino tiene cinco años y es muy gracioso.",
+      "en": "My nephew is five and he's very funny.",
+      "pt": "Meu sobrinho tem cinco anos e é muito engraçado."
+    },
+    {
+      "text": "Carlos es el novio de mi prima Irene.",
+      "en": "Carlos is my cousin Irene's boyfriend.",
+      "pt": "O Carlos é o namorado da minha prima Irene."
+    },
+    {
+      "text": "Ayer fuimos al cumpleaños de mi cuñado Andrés.",
+      "en": "Yesterday we went to my brother-in-law Andrés's birthday.",
+      "pt": "Ontem fomos ao aniversário do meu cunhado Andrés."
+    },
+    {
+      "text": "Mis amigos me han preparado una fiesta sorpresa.",
+      "en": "My friends have organised a surprise party for me.",
+      "pt": "Meus amigos prepararam uma festa surpresa para mim."
+    },
+    {
+      "text": "Mis abuelos tienen una casa en el campo.",
+      "en": "My grandparents have a house in the countryside.",
+      "pt": "Meus avós têm uma casa no campo."
+    },
+    {
+      "text": "Mi hijo se parece mucho a su padre.",
+      "en": "My son looks a lot like his father.",
+      "pt": "Meu filho se parece muito com o pai."
+    },
+    {
+      "text": "¿Cómo se llama tu novia y de dónde es?",
+      "en": "What's your girlfriend's name and where is she from?",
+      "pt": "Como se chama a sua namorada e de onde ela é?"
+    },
+    {
+      "text": "Mi madre y yo hablamos casi todos los días.",
+      "en": "My mother and I talk almost every day.",
+      "pt": "Eu e minha mãe conversamos quase todos os dias."
+    },
+    {
+      "text": "Mi familia es pequeña, pero muy unida.",
+      "en": "My family is small but very close.",
+      "pt": "Minha família é pequena, mas muito unida."
+    },
+    {
+      "text": "El próximo fin de semana viene mi hermano de Berlín.",
+      "en": "Next weekend my brother is coming from Berlin.",
+      "pt": "No próximo fim de semana meu irmão vem de Berlim."
+    },
+    {
+      "text": "Mis padres llevan treinta años casados.",
+      "en": "My parents have been married for thirty years.",
+      "pt": "Meus pais estão casados há trinta anos."
+    },
+    {
+      "text": "Conozco a Marcos desde hace veinte años.",
+      "en": "I've known Marcos for twenty years.",
+      "pt": "Conheço o Marcos há vinte anos."
+    },
+    {
+      "text": "Mi hermano mayor tiene dos hijas gemelas.",
+      "en": "My older brother has twin daughters.",
+      "pt": "Meu irmão mais velho tem duas filhas gêmeas."
+    },
+    {
+      "text": "¿Quieres venir a comer con mi familia el domingo?",
+      "en": "Do you want to come for lunch with my family on Sunday?",
+      "pt": "Quer vir almoçar com a minha família no domingo?"
+    },
+    {
+      "text": "Mi amiga Rosa vive ahora en Alemania.",
+      "en": "My friend Rosa lives in Germany now.",
+      "pt": "Minha amiga Rosa mora agora na Alemanha."
+    },
+    {
+      "text": "Anoche mis hijos se acostaron muy tarde.",
+      "en": "Last night my children went to bed very late.",
+      "pt": "Ontem à noite meus filhos foram dormir muito tarde."
+    },
+    {
+      "text": "Mi cuñada es muy simpática y divertida.",
+      "en": "My sister-in-law is very nice and fun.",
+      "pt": "Minha cunhada é muito simpática e divertida."
+    },
+    {
+      "text": "Vamos a celebrar el cumpleaños de papá en un restaurante.",
+      "en": "We're going to celebrate Dad's birthday at a restaurant.",
+      "pt": "Vamos comemorar o aniversário do papai em um restaurante."
+    },
+    {
+      "text": "Este verano mis nietos van a pasar un mes conmigo.",
+      "en": "This summer my grandchildren are going to spend a month with me.",
+      "pt": "Neste verão meus netos vão passar um mês comigo."
+    },
+    {
+      "text": "¿Has visto a Jorge y a Clara últimamente?",
+      "en": "Have you seen Jorge and Clara lately?",
+      "pt": "Você viu o Jorge e a Clara ultimamente?"
+    },
+    {
+      "text": "Mi mujer y yo tenemos tres hijos.",
+      "en": "My wife and I have three children.",
+      "pt": "Eu e minha esposa temos três filhos."
+    },
+    {
+      "text": "Mis amigos siempre me ayudan cuando tengo problemas.",
+      "en": "My friends always help me when I have problems.",
+      "pt": "Meus amigos sempre me ajudam quando tenho problemas."
+    },
+    {
+      "text": "Mi abuelo me enseñó a jugar al ajedrez.",
+      "en": "My grandfather taught me to play chess.",
+      "pt": "Meu avô me ensinou a jogar xadrez."
+    },
+    {
+      "text": "¿A qué se dedica tu hermano?",
+      "en": "What does your brother do for a living?",
+      "pt": "O que o seu irmão faz da vida?"
+    }
+  ],
+  "health and the doctor": [
+    {
+      "text": "Me duele mucho la cabeza desde esta mañana.",
+      "en": "I've had a bad headache since this morning.",
+      "pt": "Estou com muita dor de cabeça desde hoje de manhã."
+    },
+    {
+      "text": "Tengo fiebre y me duele la garganta.",
+      "en": "I have a temperature and a sore throat.",
+      "pt": "Estou com febre e com dor de garganta."
+    },
+    {
+      "text": "¿Desde cuándo tiene usted estos síntomas?",
+      "en": "How long have you had these symptoms?",
+      "pt": "Desde quando o senhor tem esses sintomas?"
+    },
+    {
+      "text": "El médico me ha recetado unas pastillas.",
+      "en": "The doctor has prescribed me some pills.",
+      "pt": "O médico me receitou uns comprimidos."
+    },
+    {
+      "text": "Tome este jarabe tres veces al día.",
+      "en": "Take this syrup three times a day.",
+      "pt": "Tome este xarope três vezes ao dia."
+    },
+    {
+      "text": "Ayer fui al dentista por un dolor de muelas.",
+      "en": "Yesterday I went to the dentist because of a toothache.",
+      "pt": "Ontem fui ao dentista por causa de uma dor de dente."
+    },
+    {
+      "text": "Creo que estoy resfriado, no paro de estornudar.",
+      "en": "I think I've got a cold; I can't stop sneezing.",
+      "pt": "Acho que estou resfriado, não paro de espirrar."
+    },
+    {
+      "text": "¿Dónde está la farmacia más cercana?",
+      "en": "Where's the nearest pharmacy?",
+      "pt": "Onde fica a farmácia mais próxima?"
+    },
+    {
+      "text": "Mi hijo tiene tos desde hace tres días.",
+      "en": "My son has had a cough for three days.",
+      "pt": "Meu filho está com tosse há três dias."
+    },
+    {
+      "text": "Tienes que beber mucha agua y descansar.",
+      "en": "You have to drink lots of water and rest.",
+      "pt": "Você tem que beber muita água e descansar."
+    },
+    {
+      "text": "Me he roto el brazo jugando al fútbol.",
+      "en": "I broke my arm playing football.",
+      "pt": "Quebrei o braço jogando futebol."
+    },
+    {
+      "text": "Voy a pedir cita con el médico de cabecera.",
+      "en": "I'm going to make an appointment with my GP.",
+      "pt": "Vou marcar uma consulta com o clínico geral."
+    },
+    {
+      "text": "¿Es usted alérgico a algún medicamento?",
+      "en": "Are you allergic to any medication?",
+      "pt": "O senhor é alérgico a algum remédio?"
+    },
+    {
+      "text": "Hoy no voy a trabajar porque estoy enferma.",
+      "en": "I'm not going to work today because I'm ill.",
+      "pt": "Hoje não vou trabalhar porque estou doente."
+    },
+    {
+      "text": "El enfermero me ha tomado la tensión.",
+      "en": "The nurse has taken my blood pressure.",
+      "pt": "O enfermeiro mediu a minha pressão."
+    },
+    {
+      "text": "Abra la boca y saque la lengua, por favor.",
+      "en": "Open your mouth and stick out your tongue, please.",
+      "pt": "Abra a boca e mostre a língua, por favor."
+    },
+    {
+      "text": "Me duele la espalda cuando estoy mucho tiempo sentado.",
+      "en": "My back hurts when I sit for a long time.",
+      "pt": "Minhas costas doem quando fico muito tempo sentado."
+    },
+    {
+      "text": "Tiene que hacer más ejercicio y comer menos dulces.",
+      "en": "You need to exercise more and eat fewer sweets.",
+      "pt": "O senhor precisa fazer mais exercício e comer menos doces."
+    },
+    {
+      "text": "Ana se ha torcido el tobillo esta tarde.",
+      "en": "Ana sprained her ankle this afternoon.",
+      "pt": "A Ana torceu o tornozelo hoje à tarde."
+    },
+    {
+      "text": "¿Cuántas pastillas tengo que tomar al día?",
+      "en": "How many pills do I have to take a day?",
+      "pt": "Quantos comprimidos eu tenho que tomar por dia?"
+    },
+    {
+      "text": "Ya me encuentro mucho mejor, gracias.",
+      "en": "I already feel much better, thanks.",
+      "pt": "Já estou me sentindo muito melhor, obrigado."
+    },
+    {
+      "text": "El hospital está abierto las veinticuatro horas.",
+      "en": "The hospital is open twenty-four hours a day.",
+      "pt": "O hospital fica aberto vinte e quatro horas."
+    },
+    {
+      "text": "Tengo el estómago mal desde anoche.",
+      "en": "I've had an upset stomach since last night.",
+      "pt": "Estou com o estômago ruim desde ontem à noite."
+    },
+    {
+      "text": "No puede tomar alcohol con este antibiótico.",
+      "en": "You can't drink alcohol with this antibiotic.",
+      "pt": "O senhor não pode beber álcool com este antibiótico."
+    },
+    {
+      "text": "Mi abuelo va al médico todos los meses.",
+      "en": "My grandfather goes to the doctor every month.",
+      "pt": "Meu avô vai ao médico todo mês."
+    },
+    {
+      "text": "Buenos días, dígame, ¿qué le pasa exactamente?",
+      "en": "Good morning, tell me, what exactly is the problem?",
+      "pt": "Bom dia, me diga, o que o senhor está sentindo exatamente?"
+    },
+    {
+      "text": "Necesito un análisis de sangre la semana que viene.",
+      "en": "I need a blood test next week.",
+      "pt": "Preciso fazer um exame de sangue na semana que vem."
+    },
+    {
+      "text": "Me he cortado el dedo con un cuchillo.",
+      "en": "I've cut my finger with a knife.",
+      "pt": "Cortei o dedo com uma faca."
+    },
+    {
+      "text": "Duermo muy mal y estoy siempre cansado.",
+      "en": "I sleep very badly and I'm always tired.",
+      "pt": "Durmo muito mal e estou sempre cansado."
+    },
+    {
+      "text": "Este verano voy a dejar de fumar.",
+      "en": "This summer I'm going to give up smoking.",
+      "pt": "Neste verão vou parar de fumar."
+    },
+    {
+      "text": "La doctora Gómez atiende por las mañanas.",
+      "en": "Doctor Gómez sees patients in the mornings.",
+      "pt": "A doutora Gómez atende de manhã."
+    },
+    {
+      "text": "¿Tiene algo para el dolor de cabeza?",
+      "en": "Do you have something for a headache?",
+      "pt": "Você tem algo para dor de cabeça?"
+    },
+    {
+      "text": "Mi marido ha estado dos días en el hospital.",
+      "en": "My husband has been in hospital for two days.",
+      "pt": "Meu marido ficou dois dias no hospital."
+    },
+    {
+      "text": "Tengo los ojos rojos y me pican mucho.",
+      "en": "My eyes are red and very itchy.",
+      "pt": "Estou com os olhos vermelhos e coçando muito."
+    },
+    {
+      "text": "Camino una hora cada día para estar sano.",
+      "en": "I walk for an hour every day to stay healthy.",
+      "pt": "Caminho uma hora todos os dias para ter saúde."
+    },
+    {
+      "text": "Le duele la rodilla cuando sube las escaleras.",
+      "en": "Her knee hurts when she goes up the stairs.",
+      "pt": "O joelho dela dói quando ela sobe as escadas."
+    },
+    {
+      "text": "Hay que tomar el medicamento después de las comidas.",
+      "en": "The medicine has to be taken after meals.",
+      "pt": "É preciso tomar o remédio depois das refeições."
+    },
+    {
+      "text": "Ayer me vacuné contra la gripe.",
+      "en": "Yesterday I got the flu jab.",
+      "pt": "Ontem tomei a vacina da gripe."
+    },
+    {
+      "text": "¿Necesito receta para comprar este medicamento?",
+      "en": "Do I need a prescription to buy this medicine?",
+      "pt": "Preciso de receita para comprar este remédio?"
+    },
+    {
+      "text": "Si tiene más fiebre, vuelva a la consulta.",
+      "en": "If your temperature goes up, come back to the surgery.",
+      "pt": "Se a febre aumentar, volte ao consultório."
+    }
+  ],
+  "weather and seasons": [
+    {
+      "text": "Hoy hace mucho calor en Sevilla.",
+      "en": "It's very hot in Seville today.",
+      "pt": "Hoje está fazendo muito calor em Sevilha."
+    },
+    {
+      "text": "¿Qué tiempo hace hoy en tu ciudad?",
+      "en": "What's the weather like in your city today?",
+      "pt": "Como está o tempo hoje na sua cidade?"
+    },
+    {
+      "text": "Ayer llovió todo el día sin parar.",
+      "en": "Yesterday it rained all day without stopping.",
+      "pt": "Ontem choveu o dia todo sem parar."
+    },
+    {
+      "text": "Mañana va a nevar en la montaña.",
+      "en": "Tomorrow it's going to snow in the mountains.",
+      "pt": "Amanhã vai nevar nas montanhas."
+    },
+    {
+      "text": "Me encanta la primavera porque hay muchas flores.",
+      "en": "I love spring because there are lots of flowers.",
+      "pt": "Adoro a primavera porque tem muitas flores."
+    },
+    {
+      "text": "En invierno anochece muy pronto en el norte.",
+      "en": "In winter it gets dark very early in the north.",
+      "pt": "No inverno escurece muito cedo no norte."
+    },
+    {
+      "text": "Coge el paraguas, que está lloviendo.",
+      "en": "Take the umbrella, it's raining.",
+      "pt": "Pega o guarda-chuva, que está chovendo."
+    },
+    {
+      "text": "Hace un día precioso para ir a la playa.",
+      "en": "It's a beautiful day to go to the beach.",
+      "pt": "Está um dia lindo para ir à praia."
+    },
+    {
+      "text": "Esta mañana ha hecho mucho frío.",
+      "en": "It was very cold this morning.",
+      "pt": "Hoje de manhã fez muito frio."
+    },
+    {
+      "text": "En otoño las hojas de los árboles cambian de color.",
+      "en": "In autumn the leaves on the trees change colour.",
+      "pt": "No outono as folhas das árvores mudam de cor."
+    },
+    {
+      "text": "¿Cuál es tu estación del año favorita?",
+      "en": "What's your favourite season of the year?",
+      "pt": "Qual é a sua estação do ano favorita?"
+    },
+    {
+      "text": "Hoy estamos a treinta y cinco grados.",
+      "en": "It's thirty-five degrees today.",
+      "pt": "Hoje está fazendo trinta e cinco graus."
+    },
+    {
+      "text": "Hace mucho viento en la costa esta tarde.",
+      "en": "It's very windy on the coast this afternoon.",
+      "pt": "Está ventando muito no litoral hoje à tarde."
+    },
+    {
+      "text": "El fin de semana va a hacer sol.",
+      "en": "It's going to be sunny at the weekend.",
+      "pt": "No fim de semana vai fazer sol."
+    },
+    {
+      "text": "En agosto hace demasiado calor para trabajar.",
+      "en": "In August it's too hot to work.",
+      "pt": "Em agosto faz calor demais para trabalhar."
+    },
+    {
+      "text": "Anoche hubo una tormenta muy fuerte.",
+      "en": "Last night there was a very strong storm.",
+      "pt": "Ontem à noite teve uma tempestade muito forte."
+    },
+    {
+      "text": "No me gusta nada el frío del invierno.",
+      "en": "I don't like the winter cold at all.",
+      "pt": "Não gosto nada do frio do inverno."
+    },
+    {
+      "text": "Está nublado, pero hoy no va a llover.",
+      "en": "It's cloudy, but it isn't going to rain today.",
+      "pt": "Está nublado, mas hoje não vai chover."
+    },
+    {
+      "text": "En Galicia llueve mucho durante todo el año.",
+      "en": "In Galicia it rains a lot all year round.",
+      "pt": "Na Galícia chove muito o ano todo."
+    },
+    {
+      "text": "Ponte el abrigo, hace cinco grados fuera.",
+      "en": "Put your coat on, it's five degrees outside.",
+      "pt": "Coloca o casaco, está fazendo cinco graus lá fora."
+    },
+    {
+      "text": "El verano pasado no llovió ni un solo día.",
+      "en": "Last summer it didn't rain a single day.",
+      "pt": "No verão passado não choveu nem um único dia."
+    },
+    {
+      "text": "¿Has visto la previsión del tiempo para mañana?",
+      "en": "Have you seen the weather forecast for tomorrow?",
+      "pt": "Você viu a previsão do tempo para amanhã?"
+    },
+    {
+      "text": "Hay mucha niebla en la carretera esta mañana.",
+      "en": "There's a lot of fog on the road this morning.",
+      "pt": "Tem muita neblina na estrada hoje de manhã."
+    },
+    {
+      "text": "En diciembre nevó mucho en Madrid.",
+      "en": "In December it snowed a lot in Madrid.",
+      "pt": "Em dezembro nevou muito em Madri."
+    },
+    {
+      "text": "Hoy hace buen tiempo para dar un paseo.",
+      "en": "The weather is nice today for a walk.",
+      "pt": "Hoje o tempo está bom para dar uma volta."
+    },
+    {
+      "text": "Me encanta el olor de la lluvia.",
+      "en": "I love the smell of rain.",
+      "pt": "Adoro o cheiro da chuva."
+    },
+    {
+      "text": "En primavera hace una temperatura muy agradable.",
+      "en": "In spring the temperature is very pleasant.",
+      "pt": "Na primavera a temperatura é muito agradável."
+    },
+    {
+      "text": "Vamos a quedarnos en casa porque llueve mucho.",
+      "en": "We're going to stay at home because it's raining hard.",
+      "pt": "Vamos ficar em casa porque está chovendo muito."
+    },
+    {
+      "text": "Esta noche las temperaturas van a bajar mucho.",
+      "en": "Tonight temperatures are going to drop a lot.",
+      "pt": "Hoje à noite as temperaturas vão cair muito."
+    },
+    {
+      "text": "¿Qué tiempo hizo durante tus vacaciones?",
+      "en": "What was the weather like during your holidays?",
+      "pt": "Como estava o tempo nas suas férias?"
+    },
+    {
+      "text": "En mi pueblo los inviernos son muy largos.",
+      "en": "In my village the winters are very long.",
+      "pt": "Na minha cidadezinha os invernos são muito longos."
+    },
+    {
+      "text": "Hoy el cielo está completamente despejado.",
+      "en": "The sky is completely clear today.",
+      "pt": "Hoje o céu está completamente limpo."
+    },
+    {
+      "text": "Con este calor solo quiero beber agua fría.",
+      "en": "In this heat I just want to drink cold water.",
+      "pt": "Com este calor só quero beber água gelada."
+    },
+    {
+      "text": "Mi hermano prefiere el otoño porque no hace calor.",
+      "en": "My brother prefers autumn because it isn't hot.",
+      "pt": "Meu irmão prefere o outono porque não faz calor."
+    },
+    {
+      "text": "Ha empezado a llover justo al salir de casa.",
+      "en": "It started raining just as I left home.",
+      "pt": "Começou a chover bem na hora em que saí de casa."
+    },
+    {
+      "text": "En las islas Canarias hace buen tiempo todo el año.",
+      "en": "In the Canary Islands the weather is good all year.",
+      "pt": "Nas Ilhas Canárias faz tempo bom o ano todo."
+    },
+    {
+      "text": "Hace demasiado frío para ir en bici hoy.",
+      "en": "It's too cold to go by bike today.",
+      "pt": "Está frio demais para ir de bicicleta hoje."
+    },
+    {
+      "text": "Mañana por la tarde va a haber tormentas.",
+      "en": "Tomorrow afternoon there are going to be storms.",
+      "pt": "Amanhã à tarde vai ter tempestades."
+    },
+    {
+      "text": "El invierno pasado fue muy suave aquí.",
+      "en": "Last winter was very mild here.",
+      "pt": "O inverno passado foi muito ameno aqui."
+    },
+    {
+      "text": "¡Qué calor hace hoy, no se puede salir!",
+      "en": "It's so hot today, you can't go out!",
+      "pt": "Que calor está fazendo hoje, não dá para sair!"
+    }
+  ],
+  "hobbies and weekends": [
+    {
+      "text": "Los sábados juego al tenis con mi hermano.",
+      "en": "On Saturdays I play tennis with my brother.",
+      "pt": "Aos sábados jogo tênis com meu irmão."
+    },
+    {
+      "text": "¿Qué vas a hacer este fin de semana?",
+      "en": "What are you going to do this weekend?",
+      "pt": "O que você vai fazer neste fim de semana?"
+    },
+    {
+      "text": "Me gusta mucho leer novelas policíacas.",
+      "en": "I really like reading detective novels.",
+      "pt": "Gosto muito de ler romances policiais."
+    },
+    {
+      "text": "El domingo pasado fuimos de excursión a la sierra.",
+      "en": "Last Sunday we went on a trip to the mountains.",
+      "pt": "No domingo passado fizemos um passeio na serra."
+    },
+    {
+      "text": "Mi hija toca el piano desde los seis años.",
+      "en": "My daughter has played the piano since she was six.",
+      "pt": "Minha filha toca piano desde os seis anos."
+    },
+    {
+      "text": "Esta tarde vamos a ver una película en el cine.",
+      "en": "This afternoon we're going to see a film at the cinema.",
+      "pt": "Hoje à tarde vamos ver um filme no cinema."
+    },
+    {
+      "text": "Nos encanta cocinar juntos los fines de semana.",
+      "en": "We love cooking together at weekends.",
+      "pt": "Adoramos cozinhar juntos nos fins de semana."
+    },
+    {
+      "text": "¿Quieres venir a clases de salsa conmigo?",
+      "en": "Do you want to come to salsa classes with me?",
+      "pt": "Quer vir às aulas de salsa comigo?"
+    },
+    {
+      "text": "Voy al gimnasio tres veces por semana.",
+      "en": "I go to the gym three times a week.",
+      "pt": "Vou à academia três vezes por semana."
+    },
+    {
+      "text": "Ayer pasé toda la tarde jugando a videojuegos.",
+      "en": "Yesterday I spent the whole afternoon playing video games.",
+      "pt": "Ontem passei a tarde toda jogando videogame."
+    },
+    {
+      "text": "Mi pasatiempo favorito es la fotografía.",
+      "en": "My favourite hobby is photography.",
+      "pt": "Meu passatempo favorito é a fotografia."
+    },
+    {
+      "text": "Los domingos por la mañana salgo a correr.",
+      "en": "On Sunday mornings I go running.",
+      "pt": "Aos domingos de manhã saio para correr."
+    },
+    {
+      "text": "Este verano voy a aprender a nadar.",
+      "en": "This summer I'm going to learn to swim.",
+      "pt": "Neste verão vou aprender a nadar."
+    },
+    {
+      "text": "Elena pinta cuadros de paisajes en su tiempo libre.",
+      "en": "Elena paints landscapes in her free time.",
+      "pt": "A Elena pinta quadros de paisagens no seu tempo livre."
+    },
+    {
+      "text": "¿Quedamos el sábado para tomar algo?",
+      "en": "Shall we meet up on Saturday for a drink?",
+      "pt": "Vamos nos encontrar no sábado para tomar alguma coisa?"
+    },
+    {
+      "text": "Hemos visto un concierto de jazz increíble.",
+      "en": "We've seen an amazing jazz concert.",
+      "pt": "Vimos um show de jazz incrível."
+    },
+    {
+      "text": "Me gusta pasear por el parque con mi perro.",
+      "en": "I like walking in the park with my dog.",
+      "pt": "Gosto de passear no parque com meu cachorro."
+    },
+    {
+      "text": "Mi marido colecciona sellos de todo el mundo.",
+      "en": "My husband collects stamps from all over the world.",
+      "pt": "Meu marido coleciona selos do mundo todo."
+    },
+    {
+      "text": "El fin de semana pasado no hice nada especial.",
+      "en": "Last weekend I didn't do anything special.",
+      "pt": "No fim de semana passado não fiz nada de especial."
+    },
+    {
+      "text": "¿Juegas a las cartas con tus amigos a menudo?",
+      "en": "Do you often play cards with your friends?",
+      "pt": "Você joga cartas com seus amigos com frequência?"
+    },
+    {
+      "text": "Mañana vamos a hacer una barbacoa en el jardín.",
+      "en": "Tomorrow we're going to have a barbecue in the garden.",
+      "pt": "Amanhã vamos fazer um churrasco no jardim."
+    },
+    {
+      "text": "Mi hermano juega en un equipo de baloncesto.",
+      "en": "My brother plays in a basketball team.",
+      "pt": "Meu irmão joga em um time de basquete."
+    },
+    {
+      "text": "No tengo mucho tiempo libre durante la semana.",
+      "en": "I don't have much free time during the week.",
+      "pt": "Não tenho muito tempo livre durante a semana."
+    },
+    {
+      "text": "Los domingos me gusta dormir hasta tarde.",
+      "en": "On Sundays I like to sleep in.",
+      "pt": "Aos domingos gosto de dormir até tarde."
+    },
+    {
+      "text": "¿Has leído el último libro de esa escritora?",
+      "en": "Have you read that writer's latest book?",
+      "pt": "Você leu o último livro dessa escritora?"
+    },
+    {
+      "text": "Vamos a ir de camping a los Pirineos.",
+      "en": "We're going to go camping in the Pyrenees.",
+      "pt": "Vamos acampar nos Pireneus."
+    },
+    {
+      "text": "Toco la guitarra en un grupo con amigos.",
+      "en": "I play the guitar in a band with friends.",
+      "pt": "Toco violão em uma banda com amigos."
+    },
+    {
+      "text": "Ayer fuimos al teatro a ver una comedia.",
+      "en": "Yesterday we went to the theatre to see a comedy.",
+      "pt": "Ontem fomos ao teatro ver uma comédia."
+    },
+    {
+      "text": "A mi padre le encanta pescar en el río.",
+      "en": "My father loves fishing in the river.",
+      "pt": "Meu pai adora pescar no rio."
+    },
+    {
+      "text": "Este sábado hay un mercadillo en la plaza.",
+      "en": "This Saturday there's a flea market in the square.",
+      "pt": "Neste sábado tem uma feirinha na praça."
+    },
+    {
+      "text": "Hago yoga todas las mañanas antes de desayunar.",
+      "en": "I do yoga every morning before breakfast.",
+      "pt": "Faço ioga todas as manhãs antes do café da manhã."
+    },
+    {
+      "text": "¿Cuál es tu deporte favorito para ver en la tele?",
+      "en": "What's your favourite sport to watch on TV?",
+      "pt": "Qual é o seu esporte favorito para assistir na TV?"
+    },
+    {
+      "text": "Mis amigos y yo hacemos senderismo una vez al mes.",
+      "en": "My friends and I go hiking once a month.",
+      "pt": "Eu e meus amigos fazemos trilha uma vez por mês."
+    },
+    {
+      "text": "Hoy he montado en bici por la costa.",
+      "en": "Today I rode my bike along the coast.",
+      "pt": "Hoje andei de bicicleta pelo litoral."
+    },
+    {
+      "text": "Este año quiero aprender a tocar la batería.",
+      "en": "This year I want to learn to play the drums.",
+      "pt": "Este ano quero aprender a tocar bateria."
+    },
+    {
+      "text": "El fútbol no me interesa nada.",
+      "en": "Football doesn't interest me at all.",
+      "pt": "Futebol não me interessa nem um pouco."
+    },
+    {
+      "text": "Mi novia y yo vemos series los viernes por la noche.",
+      "en": "My girlfriend and I watch series on Friday nights.",
+      "pt": "Eu e minha namorada assistimos a séries nas sextas à noite."
+    },
+    {
+      "text": "¿Vienes con nosotros al museo el domingo?",
+      "en": "Are you coming to the museum with us on Sunday?",
+      "pt": "Você vem com a gente ao museu no domingo?"
+    },
+    {
+      "text": "Esta mañana hemos ido a la piscina con los niños.",
+      "en": "This morning we went to the swimming pool with the kids.",
+      "pt": "Hoje de manhã fomos à piscina com as crianças."
+    },
+    {
+      "text": "Marta hace fotos preciosas de animales.",
+      "en": "Marta takes beautiful photos of animals.",
+      "pt": "A Marta tira fotos lindas de animais."
+    }
+  ],
+  "home and daily routine": [
+    {
+      "text": "Me levanto todos los días a las siete.",
+      "en": "I get up every day at seven.",
+      "pt": "Eu me levanto todos os dias às sete."
+    },
+    {
+      "text": "Después de ducharme, desayuno café y tostadas.",
+      "en": "After my shower, I have coffee and toast for breakfast.",
+      "pt": "Depois de tomar banho, tomo café com torradas."
+    },
+    {
+      "text": "¿A qué hora te acuestas normalmente?",
+      "en": "What time do you usually go to bed?",
+      "pt": "A que horas você costuma ir dormir?"
+    },
+    {
+      "text": "Mi piso tiene dos dormitorios y un baño.",
+      "en": "My flat has two bedrooms and a bathroom.",
+      "pt": "Meu apartamento tem dois quartos e um banheiro."
+    },
+    {
+      "text": "Hoy me toca a mí fregar los platos.",
+      "en": "It's my turn to do the washing-up today.",
+      "pt": "Hoje é a minha vez de lavar a louça."
+    },
+    {
+      "text": "Esta mañana he perdido el autobús otra vez.",
+      "en": "This morning I missed the bus again.",
+      "pt": "Hoje de manhã perdi o ônibus de novo."
+    },
+    {
+      "text": "Los sábados limpiamos toda la casa juntos.",
+      "en": "On Saturdays we clean the whole house together.",
+      "pt": "Aos sábados limpamos a casa toda juntos."
+    },
+    {
+      "text": "Voy a poner la lavadora antes de salir.",
+      "en": "I'm going to put the washing machine on before going out.",
+      "pt": "Vou ligar a máquina de lavar antes de sair."
+    },
+    {
+      "text": "Mi hijo se lava los dientes después de cenar.",
+      "en": "My son brushes his teeth after dinner.",
+      "pt": "Meu filho escova os dentes depois do jantar."
+    },
+    {
+      "text": "La cocina es pequeña, pero tiene mucha luz.",
+      "en": "The kitchen is small, but it gets a lot of light.",
+      "pt": "A cozinha é pequena, mas é bem iluminada."
+    },
+    {
+      "text": "¿Puedes sacar la basura, por favor?",
+      "en": "Can you take the rubbish out, please?",
+      "pt": "Pode levar o lixo para fora, por favor?"
+    },
+    {
+      "text": "Normalmente como en casa a las dos.",
+      "en": "I usually have lunch at home at two.",
+      "pt": "Normalmente almoço em casa às duas."
+    },
+    {
+      "text": "Ayer me acosté a medianoche y hoy estoy cansado.",
+      "en": "Yesterday I went to bed at midnight and today I'm tired.",
+      "pt": "Ontem fui dormir à meia-noite e hoje estou cansado."
+    },
+    {
+      "text": "Vivimos en un tercer piso sin ascensor.",
+      "en": "We live on a third floor with no lift.",
+      "pt": "Moramos em um terceiro andar sem elevador."
+    },
+    {
+      "text": "Antes de dormir siempre leo un rato.",
+      "en": "Before going to sleep I always read for a while.",
+      "pt": "Antes de dormir sempre leio um pouco."
+    },
+    {
+      "text": "He hecho la cama y he recogido mi habitación.",
+      "en": "I've made the bed and tidied my room.",
+      "pt": "Arrumei a cama e organizei o meu quarto."
+    },
+    {
+      "text": "Mi compañero de piso cocina muy bien.",
+      "en": "My flatmate cooks very well.",
+      "pt": "Meu colega de apartamento cozinha muito bem."
+    },
+    {
+      "text": "Todos los días voy al trabajo en metro.",
+      "en": "Every day I go to work by metro.",
+      "pt": "Todos os dias vou para o trabalho de metrô."
+    },
+    {
+      "text": "Vamos a pintar el salón de color blanco.",
+      "en": "We're going to paint the living room white.",
+      "pt": "Vamos pintar a sala de branco."
+    },
+    {
+      "text": "Por la tarde recojo a los niños del colegio.",
+      "en": "In the afternoon I pick the children up from school.",
+      "pt": "À tarde busco as crianças na escola."
+    },
+    {
+      "text": "Se ha roto la nevera y no tenemos hielo.",
+      "en": "The fridge has broken and we have no ice.",
+      "pt": "A geladeira quebrou e estamos sem gelo."
+    },
+    {
+      "text": "¿Quién plancha la ropa en tu casa?",
+      "en": "Who does the ironing in your house?",
+      "pt": "Quem passa a roupa na sua casa?"
+    },
+    {
+      "text": "Mi casa tiene un jardín pequeño con flores.",
+      "en": "My house has a small garden with flowers.",
+      "pt": "Minha casa tem um jardim pequeno com flores."
+    },
+    {
+      "text": "Me ducho por la noche para ahorrar tiempo.",
+      "en": "I shower at night to save time.",
+      "pt": "Tomo banho à noite para economizar tempo."
+    },
+    {
+      "text": "Esta noche voy a hacer una tortilla de patatas.",
+      "en": "Tonight I'm going to make a Spanish omelette.",
+      "pt": "Hoje à noite vou fazer uma tortilha de batatas."
+    },
+    {
+      "text": "El salón es la habitación más grande de la casa.",
+      "en": "The living room is the biggest room in the house.",
+      "pt": "A sala é o maior cômodo da casa."
+    },
+    {
+      "text": "Ayer hice la compra y preparé la cena.",
+      "en": "Yesterday I did the shopping and made dinner.",
+      "pt": "Ontem fiz as compras e preparei o jantar."
+    },
+    {
+      "text": "Los lunes siempre me cuesta mucho levantarme.",
+      "en": "On Mondays I always find it really hard to get up.",
+      "pt": "Às segundas sempre tenho muita dificuldade para levantar."
+    },
+    {
+      "text": "¿Has regado las plantas del balcón?",
+      "en": "Have you watered the plants on the balcony?",
+      "pt": "Você regou as plantas da varanda?"
+    },
+    {
+      "text": "Mi madre pasa la aspiradora todos los días.",
+      "en": "My mother vacuums every day.",
+      "pt": "Minha mãe passa o aspirador todos os dias."
+    },
+    {
+      "text": "Vivo en el centro, cerca de una plaza.",
+      "en": "I live in the centre, near a square.",
+      "pt": "Moro no centro, perto de uma praça."
+    },
+    {
+      "text": "Cada mañana saco al perro a pasear.",
+      "en": "Every morning I take the dog for a walk.",
+      "pt": "Toda manhã levo o cachorro para passear."
+    },
+    {
+      "text": "Hoy he llegado a casa a las nueve.",
+      "en": "Today I got home at nine.",
+      "pt": "Hoje cheguei em casa às nove."
+    },
+    {
+      "text": "Mañana vamos a montar la cama nueva del dormitorio.",
+      "en": "Tomorrow we're going to put together the new bed in the bedroom.",
+      "pt": "Amanhã vamos montar a cama nova do quarto."
+    },
+    {
+      "text": "Por las noches vemos las noticias mientras cenamos.",
+      "en": "In the evenings we watch the news while we have dinner.",
+      "pt": "À noite assistimos ao jornal enquanto jantamos."
+    },
+    {
+      "text": "¿Dónde has puesto las llaves de casa?",
+      "en": "Where have you put the house keys?",
+      "pt": "Onde você colocou as chaves de casa?"
+    },
+    {
+      "text": "La calefacción no funciona desde ayer.",
+      "en": "The heating hasn't worked since yesterday.",
+      "pt": "O aquecedor não funciona desde ontem."
+    },
+    {
+      "text": "Me gusta desayunar tranquilo en la terraza.",
+      "en": "I like having a quiet breakfast on the terrace.",
+      "pt": "Gosto de tomar café da manhã com calma na varanda."
+    },
+    {
+      "text": "Mi hija pone la mesa y yo cocino.",
+      "en": "My daughter sets the table and I cook.",
+      "pt": "Minha filha põe a mesa e eu cozinho."
+    }
+  ],
+  "feelings and opinions": [
+    {
+      "text": "Estoy muy contento con mi nuevo trabajo.",
+      "en": "I'm very happy with my new job.",
+      "pt": "Estou muito contente com o meu novo trabalho."
+    },
+    {
+      "text": "Creo que esta película es muy aburrida.",
+      "en": "I think this film is very boring.",
+      "pt": "Acho que este filme é muito chato."
+    },
+    {
+      "text": "¿Qué opinas de la nueva profesora?",
+      "en": "What do you think of the new teacher?",
+      "pt": "O que você acha da nova professora?"
+    },
+    {
+      "text": "Hoy estoy un poco triste, no sé por qué.",
+      "en": "Today I'm a bit sad, I don't know why.",
+      "pt": "Hoje estou um pouco triste, não sei por quê."
+    },
+    {
+      "text": "Me pone nervioso hablar en público.",
+      "en": "Speaking in public makes me nervous.",
+      "pt": "Falar em público me deixa nervoso."
+    },
+    {
+      "text": "Para mí, Barcelona es la ciudad más bonita.",
+      "en": "For me, Barcelona is the most beautiful city.",
+      "pt": "Para mim, Barcelona é a cidade mais bonita."
+    },
+    {
+      "text": "Estoy de acuerdo contigo, es una buena idea.",
+      "en": "I agree with you, it's a good idea.",
+      "pt": "Concordo com você, é uma boa ideia."
+    },
+    {
+      "text": "Me ha encantado el regalo, ¡muchas gracias!",
+      "en": "I loved the present, thank you so much!",
+      "pt": "Adorei o presente, muito obrigado!"
+    },
+    {
+      "text": "Laura está preocupada por el examen de mañana.",
+      "en": "Laura is worried about tomorrow's exam.",
+      "pt": "A Laura está preocupada com a prova de amanhã."
+    },
+    {
+      "text": "Lo siento, pero no pienso lo mismo que tú.",
+      "en": "Sorry, but I don't see it the same way as you.",
+      "pt": "Desculpa, mas não penso igual a você."
+    },
+    {
+      "text": "Me siento muy cansada después de este viaje.",
+      "en": "I feel very tired after this trip.",
+      "pt": "Estou me sentindo muito cansada depois desta viagem."
+    },
+    {
+      "text": "¡Qué alegría verte otra vez, Paco!",
+      "en": "How lovely to see you again, Paco!",
+      "pt": "Que alegria te ver de novo, Paco!"
+    },
+    {
+      "text": "Odio levantarme temprano los fines de semana.",
+      "en": "I hate getting up early at weekends.",
+      "pt": "Odeio acordar cedo nos fins de semana."
+    },
+    {
+      "text": "En mi opinión, el concierto fue fantástico.",
+      "en": "In my opinion, the concert was fantastic.",
+      "pt": "Na minha opinião, o show foi fantástico."
+    },
+    {
+      "text": "Mis hijos están muy emocionados con el viaje.",
+      "en": "My children are very excited about the trip.",
+      "pt": "Meus filhos estão muito animados com a viagem."
+    },
+    {
+      "text": "Me molesta mucho el ruido de la calle.",
+      "en": "The street noise bothers me a lot.",
+      "pt": "O barulho da rua me incomoda muito."
+    },
+    {
+      "text": "¿Te ha gustado el libro que te presté?",
+      "en": "Did you like the book I lent you?",
+      "pt": "Você gostou do livro que eu te emprestei?"
+    },
+    {
+      "text": "Estoy harto de esperar el autobús cada mañana.",
+      "en": "I'm fed up with waiting for the bus every morning.",
+      "pt": "Estou farto de esperar o ônibus toda manhã."
+    },
+    {
+      "text": "Pienso que el español no es muy difícil.",
+      "en": "I think Spanish isn't very difficult.",
+      "pt": "Acho que o espanhol não é muito difícil."
+    },
+    {
+      "text": "Me da miedo volar en avión.",
+      "en": "I'm scared of flying.",
+      "pt": "Tenho medo de andar de avião."
+    },
+    {
+      "text": "Estamos muy orgullosos de nuestra hija.",
+      "en": "We're very proud of our daughter.",
+      "pt": "Estamos muito orgulhosos da nossa filha."
+    },
+    {
+      "text": "¡Qué rabia, he suspendido el examen de conducir!",
+      "en": "How annoying, I've failed my driving test!",
+      "pt": "Que raiva, fui reprovado na prova de direção!"
+    },
+    {
+      "text": "A mi hermano le parece cara la ciudad.",
+      "en": "My brother thinks the city is expensive.",
+      "pt": "Meu irmão acha a cidade cara."
+    },
+    {
+      "text": "Me alegro mucho de tus buenas noticias.",
+      "en": "I'm really pleased about your good news.",
+      "pt": "Fico muito feliz com as suas boas notícias."
+    },
+    {
+      "text": "Creo que tienes toda la razón, Pedro.",
+      "en": "I think you're absolutely right, Pedro.",
+      "pt": "Acho que você tem toda a razão, Pedro."
+    },
+    {
+      "text": "Estoy un poco enfadado con mi compañero de piso.",
+      "en": "I'm a bit angry with my flatmate.",
+      "pt": "Estou um pouco bravo com meu colega de apartamento."
+    },
+    {
+      "text": "Me parece una idea estupenda ir a la playa.",
+      "en": "I think going to the beach is a great idea.",
+      "pt": "Acho uma ótima ideia ir à praia."
+    },
+    {
+      "text": "¿Por qué estás tan serio hoy?",
+      "en": "Why are you so serious today?",
+      "pt": "Por que você está tão sério hoje?"
+    },
+    {
+      "text": "Ayer me sentí muy sola en casa.",
+      "en": "Yesterday I felt very lonely at home.",
+      "pt": "Ontem me senti muito sozinha em casa."
+    },
+    {
+      "text": "Prefiero el campo a la ciudad, es más tranquilo.",
+      "en": "I prefer the countryside to the city; it's quieter.",
+      "pt": "Prefiro o campo à cidade, é mais tranquilo."
+    },
+    {
+      "text": "La exposición me ha parecido muy interesante.",
+      "en": "I found the exhibition very interesting.",
+      "pt": "Achei a exposição muito interessante."
+    },
+    {
+      "text": "Estoy nerviosa porque mañana empiezo en la universidad.",
+      "en": "I'm nervous because I start university tomorrow.",
+      "pt": "Estou nervosa porque amanhã começo na faculdade."
+    },
+    {
+      "text": "No me gusta nada la gente maleducada.",
+      "en": "I don't like rude people at all.",
+      "pt": "Não gosto nada de gente mal-educada."
+    },
+    {
+      "text": "¡Qué sorpresa tan bonita me habéis dado!",
+      "en": "What a lovely surprise you've given me!",
+      "pt": "Que surpresa linda vocês me fizeram!"
+    },
+    {
+      "text": "Mi madre está feliz porque viene mi hermana.",
+      "en": "My mother is happy because my sister is coming.",
+      "pt": "Minha mãe está feliz porque minha irmã vem."
+    },
+    {
+      "text": "Para mí, lo más importante es la familia.",
+      "en": "For me, the most important thing is family.",
+      "pt": "Para mim, o mais importante é a família."
+    },
+    {
+      "text": "Me aburro mucho cuando no tengo nada que hacer.",
+      "en": "I get really bored when I have nothing to do.",
+      "pt": "Fico muito entediado quando não tenho nada para fazer."
+    },
+    {
+      "text": "Te veo preocupado, ¿te pasa algo?",
+      "en": "You look worried; is something wrong?",
+      "pt": "Você parece preocupado, aconteceu alguma coisa?"
+    },
+    {
+      "text": "Sinceramente, la comida del hotel no me gustó.",
+      "en": "Honestly, I didn't like the hotel food.",
+      "pt": "Sinceramente, não gostei da comida do hotel."
+    },
+    {
+      "text": "Me encanta pasar tiempo con mis amigos.",
+      "en": "I love spending time with my friends.",
+      "pt": "Adoro passar tempo com meus amigos."
+    }
+  ],
+  "small talk with a neighbour": [
+    {
+      "text": "Buenos días, señora Pilar, ¿cómo está usted?",
+      "en": "Good morning, Mrs Pilar, how are you?",
+      "pt": "Bom dia, dona Pilar, como a senhora está?"
+    },
+    {
+      "text": "Hola, vecino, ¿qué tal el fin de semana?",
+      "en": "Hi, neighbour, how was your weekend?",
+      "pt": "Oi, vizinho, como foi o fim de semana?"
+    },
+    {
+      "text": "¿Has visto que han abierto una panadería nueva?",
+      "en": "Have you seen that a new bakery has opened?",
+      "pt": "Você viu que abriram uma padaria nova?"
+    },
+    {
+      "text": "¿Su perro ya está mejor de la pata?",
+      "en": "Is your dog's paw better now?",
+      "pt": "A pata do seu cachorro já está melhor?"
+    },
+    {
+      "text": "Mañana van a arreglar el ascensor por fin.",
+      "en": "Tomorrow they're finally going to fix the lift.",
+      "pt": "Amanhã finalmente vão consertar o elevador."
+    },
+    {
+      "text": "¿Usted también vive en el cuarto piso?",
+      "en": "Do you live on the fourth floor too?",
+      "pt": "O senhor também mora no quarto andar?"
+    },
+    {
+      "text": "Anoche hubo mucho ruido en el edificio.",
+      "en": "There was a lot of noise in the building last night.",
+      "pt": "Ontem à noite teve muito barulho no prédio."
+    },
+    {
+      "text": "¿Sus hijos ya han vuelto de vacaciones?",
+      "en": "Have your children come back from holiday yet?",
+      "pt": "Seus filhos já voltaram das férias?"
+    },
+    {
+      "text": "Perdone, ¿me puede dejar un poco de sal?",
+      "en": "Excuse me, could you lend me a bit of salt?",
+      "pt": "Com licença, pode me emprestar um pouco de sal?"
+    },
+    {
+      "text": "Ha llegado un paquete para usted esta mañana.",
+      "en": "A parcel arrived for you this morning.",
+      "pt": "Chegou um pacote para o senhor hoje de manhã."
+    },
+    {
+      "text": "¡Qué bonitas están sus plantas este año!",
+      "en": "Your plants look so beautiful this year!",
+      "pt": "Como estão bonitas as suas plantas este ano!"
+    },
+    {
+      "text": "Nos vemos en la reunión de vecinos del jueves.",
+      "en": "See you at Thursday's residents' meeting.",
+      "pt": "A gente se vê na reunião de condomínio de quinta."
+    },
+    {
+      "text": "¿Sabe a qué hora pasa el cartero?",
+      "en": "Do you know what time the postman comes?",
+      "pt": "O senhor sabe a que horas passa o carteiro?"
+    },
+    {
+      "text": "Mi marido y yo nos mudamos aquí en marzo.",
+      "en": "My husband and I moved here in March.",
+      "pt": "Eu e meu marido nos mudamos para cá em março."
+    },
+    {
+      "text": "¿Lleva mucho tiempo viviendo en este barrio?",
+      "en": "Have you been living in this neighbourhood long?",
+      "pt": "O senhor mora neste bairro há muito tempo?"
+    },
+    {
+      "text": "Este barrio es muy tranquilo y agradable.",
+      "en": "This neighbourhood is very quiet and pleasant.",
+      "pt": "Este bairro é muito tranquilo e agradável."
+    },
+    {
+      "text": "Voy a estar fuera unos días, ¿me riega las plantas?",
+      "en": "I'm going to be away for a few days; could you water my plants?",
+      "pt": "Vou ficar fora uns dias, pode regar minhas plantas?"
+    },
+    {
+      "text": "¿Ha oído que los del quinto se van?",
+      "en": "Have you heard that the people on the fifth floor are leaving?",
+      "pt": "O senhor ficou sabendo que os do quinto andar vão se mudar?"
+    },
+    {
+      "text": "Su hija está muy alta, ¡cómo crece!",
+      "en": "Your daughter is so tall, she's growing so fast!",
+      "pt": "Sua filha está muito alta, como ela cresce!"
+    },
+    {
+      "text": "Esta mañana he visto a su madre en el mercado.",
+      "en": "This morning I saw your mother at the market.",
+      "pt": "Hoje de manhã vi a sua mãe no mercado."
+    },
+    {
+      "text": "¿Qué tal le fue la operación a su marido?",
+      "en": "How did your husband's operation go?",
+      "pt": "Como foi a cirurgia do seu marido?"
+    },
+    {
+      "text": "Siento mucho el ruido de la fiesta de ayer.",
+      "en": "I'm very sorry about the noise from yesterday's party.",
+      "pt": "Desculpe pelo barulho da festa de ontem."
+    },
+    {
+      "text": "El portero dice que mañana no hay agua caliente.",
+      "en": "The caretaker says there's no hot water tomorrow.",
+      "pt": "O porteiro diz que amanhã não vai ter água quente."
+    },
+    {
+      "text": "¡Buen fin de semana, y saludos a su familia!",
+      "en": "Have a good weekend, and say hello to your family!",
+      "pt": "Bom fim de semana, e lembranças para a sua família!"
+    },
+    {
+      "text": "Si va al supermercado, la acompaño.",
+      "en": "If you're going to the supermarket, I'll come with you.",
+      "pt": "Se a senhora vai ao supermercado, eu vou junto."
+    },
+    {
+      "text": "Hace mucho que no le veo por aquí.",
+      "en": "I haven't seen you around here for a long time.",
+      "pt": "Faz tempo que não vejo o senhor por aqui."
+    },
+    {
+      "text": "Mis hijos van al mismo colegio que los suyos.",
+      "en": "My children go to the same school as yours.",
+      "pt": "Meus filhos estudam na mesma escola que os seus."
+    },
+    {
+      "text": "¿Le ayudo con las bolsas de la compra?",
+      "en": "Shall I help you with your shopping bags?",
+      "pt": "Posso ajudar a senhora com as sacolas de compras?"
+    },
+    {
+      "text": "Gracias por recoger mi paquete ayer.",
+      "en": "Thanks for picking up my parcel yesterday.",
+      "pt": "Obrigado por pegar o meu pacote ontem."
+    },
+    {
+      "text": "Las fiestas del barrio empiezan este viernes.",
+      "en": "The neighbourhood festival starts this Friday.",
+      "pt": "A festa do bairro começa nesta sexta."
+    },
+    {
+      "text": "¿Ha visto usted un gato gris por la escalera?",
+      "en": "Have you seen a grey cat on the stairs?",
+      "pt": "O senhor viu um gato cinza pela escada?"
+    },
+    {
+      "text": "Ya están las luces de Navidad en la calle.",
+      "en": "The Christmas lights are already up in the street.",
+      "pt": "As luzes de Natal já estão na rua."
+    },
+    {
+      "text": "Mi coche no arranca, ¿tiene usted cables?",
+      "en": "My car won't start; do you have jump leads?",
+      "pt": "Meu carro não pega, o senhor tem cabos de bateria?"
+    },
+    {
+      "text": "Han pintado el portal, ¡ha quedado muy bien!",
+      "en": "They've painted the entrance hall; it looks great!",
+      "pt": "Pintaram a entrada do prédio, ficou muito bom!"
+    },
+    {
+      "text": "¿Qué tal su nuevo trabajo en el banco?",
+      "en": "How's your new job at the bank going?",
+      "pt": "Como vai o seu novo trabalho no banco?"
+    },
+    {
+      "text": "Cuidado, el suelo del portal está mojado.",
+      "en": "Careful, the floor in the entrance hall is wet.",
+      "pt": "Cuidado, o chão da entrada está molhado."
+    },
+    {
+      "text": "Me voy a trabajar, ¡que tenga un buen día!",
+      "en": "I'm off to work, have a nice day!",
+      "pt": "Estou indo trabalhar, tenha um bom dia!"
+    },
+    {
+      "text": "Esta tarde hago un bizcocho, ¿quiere probarlo?",
+      "en": "I'm baking a sponge cake this afternoon; would you like to try it?",
+      "pt": "Hoje à tarde vou fazer um bolo, quer provar?"
+    },
+    {
+      "text": "¿Ha recibido usted también la factura del agua?",
+      "en": "Have you also received the water bill?",
+      "pt": "O senhor também recebeu a conta de água?"
+    }
+  ],
+  "phone calls and appointments": [
+    {
+      "text": "Hola, ¿puedo hablar con el señor García?",
+      "en": "Hello, may I speak to Mr García?",
+      "pt": "Alô, posso falar com o senhor García?"
+    },
+    {
+      "text": "Lo siento, se ha equivocado de número.",
+      "en": "Sorry, you've got the wrong number.",
+      "pt": "Desculpe, o senhor ligou para o número errado."
+    },
+    {
+      "text": "Quería pedir cita para el martes por la mañana.",
+      "en": "I'd like to make an appointment for Tuesday morning.",
+      "pt": "Eu queria marcar um horário para terça de manhã."
+    },
+    {
+      "text": "¿De parte de quién, por favor?",
+      "en": "Who's calling, please?",
+      "pt": "Quem fala, por favor?"
+    },
+    {
+      "text": "Un momento, ahora le paso con ella.",
+      "en": "One moment, I'll put you through to her now.",
+      "pt": "Um momento, já passo a ligação para ela."
+    },
+    {
+      "text": "Te llamo más tarde, ahora estoy ocupado.",
+      "en": "I'll call you later; I'm busy now.",
+      "pt": "Te ligo mais tarde, agora estou ocupado."
+    },
+    {
+      "text": "Ayer te llamé tres veces, pero no contestaste.",
+      "en": "Yesterday I called you three times, but you didn't answer.",
+      "pt": "Ontem te liguei três vezes, mas você não atendeu."
+    },
+    {
+      "text": "¿Puede venir el jueves a las cinco y cuarto?",
+      "en": "Can you come on Thursday at quarter past five?",
+      "pt": "O senhor pode vir na quinta às cinco e quinze?"
+    },
+    {
+      "text": "Tengo cita con la dentista a las once.",
+      "en": "I have an appointment with the dentist at eleven.",
+      "pt": "Tenho consulta com a dentista às onze."
+    },
+    {
+      "text": "Necesito cambiar la hora de mi cita.",
+      "en": "I need to change the time of my appointment.",
+      "pt": "Preciso mudar o horário da minha consulta."
+    },
+    {
+      "text": "¿Me puede dar su número de teléfono?",
+      "en": "Can you give me your phone number?",
+      "pt": "Pode me passar o seu número de telefone?"
+    },
+    {
+      "text": "Se ha cortado la llamada, te llamo otra vez.",
+      "en": "The call got cut off; I'll call you again.",
+      "pt": "A ligação caiu, vou te ligar de novo."
+    },
+    {
+      "text": "Ahora mismo no está, ¿quiere dejar un mensaje?",
+      "en": "He isn't here right now; would you like to leave a message?",
+      "pt": "Ele não está no momento, quer deixar um recado?"
+    },
+    {
+      "text": "Mañana voy a llamar al banco para preguntar.",
+      "en": "Tomorrow I'm going to call the bank to ask.",
+      "pt": "Amanhã vou ligar para o banco para perguntar."
+    },
+    {
+      "text": "Mi móvil no tiene batería, ¿me dejas el tuyo?",
+      "en": "My mobile is out of battery; can I borrow yours?",
+      "pt": "Meu celular está sem bateria, me empresta o seu?"
+    },
+    {
+      "text": "La consulta está abierta de nueve a dos.",
+      "en": "The surgery is open from nine to two.",
+      "pt": "O consultório fica aberto das nove às duas."
+    },
+    {
+      "text": "¿Puede repetir su nombre, por favor?",
+      "en": "Can you repeat your name, please?",
+      "pt": "Pode repetir o seu nome, por favor?"
+    },
+    {
+      "text": "He llamado a la peluquería para reservar hora.",
+      "en": "I've called the hairdresser's to book a slot.",
+      "pt": "Liguei para o cabeleireiro para marcar horário."
+    },
+    {
+      "text": "Hable más alto, por favor, no le oigo bien.",
+      "en": "Speak up, please, I can't hear you well.",
+      "pt": "Fale mais alto, por favor, não estou ouvindo bem."
+    },
+    {
+      "text": "Le llamo para confirmar su cita de mañana.",
+      "en": "I'm calling to confirm your appointment tomorrow.",
+      "pt": "Estou ligando para confirmar a sua consulta de amanhã."
+    },
+    {
+      "text": "Lo siento, tengo que cancelar la cita del viernes.",
+      "en": "Sorry, I have to cancel Friday's appointment.",
+      "pt": "Desculpe, preciso cancelar a consulta de sexta."
+    },
+    {
+      "text": "Te mando un mensaje con la dirección exacta.",
+      "en": "I'll send you a message with the exact address.",
+      "pt": "Vou te mandar uma mensagem com o endereço exato."
+    },
+    {
+      "text": "Hoy no hay citas libres hasta las seis.",
+      "en": "There are no free appointments today until six.",
+      "pt": "Hoje não tem horário livre até as seis."
+    },
+    {
+      "text": "¿Llamo yo a la tienda o llamas tú?",
+      "en": "Shall I call the shop or will you?",
+      "pt": "Eu ligo para a loja ou você liga?"
+    },
+    {
+      "text": "Ayer hablé con el técnico por teléfono.",
+      "en": "Yesterday I spoke to the technician on the phone.",
+      "pt": "Ontem falei com o técnico por telefone."
+    },
+    {
+      "text": "Mi cita con el abogado es a las tres y media.",
+      "en": "My appointment with the lawyer is at half past three.",
+      "pt": "Meu horário com o advogado é às três e meia."
+    },
+    {
+      "text": "¿Tiene algún hueco libre esta semana?",
+      "en": "Do you have a free slot this week?",
+      "pt": "Tem algum horário livre esta semana?"
+    },
+    {
+      "text": "Disculpe, ¿con quién hablo, por favor?",
+      "en": "Sorry, who am I speaking to, please?",
+      "pt": "Desculpe, com quem eu falo, por favor?"
+    },
+    {
+      "text": "Llámame esta noche después de las nueve.",
+      "en": "Call me tonight after nine.",
+      "pt": "Me liga hoje à noite depois das nove."
+    },
+    {
+      "text": "He dejado un mensaje en tu contestador.",
+      "en": "I've left a message on your answering machine.",
+      "pt": "Deixei uma mensagem na sua secretária eletrônica."
+    },
+    {
+      "text": "El número de la clínica está en la web.",
+      "en": "The clinic's number is on the website.",
+      "pt": "O número da clínica está no site."
+    },
+    {
+      "text": "Mañana te llamo para quedar, ¿vale?",
+      "en": "I'll call you tomorrow to arrange to meet, OK?",
+      "pt": "Amanhã te ligo para a gente combinar, tá bom?"
+    },
+    {
+      "text": "Llegué cinco minutos tarde a mi cita con el médico.",
+      "en": "I was five minutes late for my doctor's appointment.",
+      "pt": "Cheguei cinco minutos atrasado à minha consulta médica."
+    },
+    {
+      "text": "¿A qué hora es tu cita en la embajada?",
+      "en": "What time is your appointment at the embassy?",
+      "pt": "A que horas é o seu horário na embaixada?"
+    },
+    {
+      "text": "El teléfono de la oficina siempre está ocupado.",
+      "en": "The office phone is always engaged.",
+      "pt": "O telefone do escritório está sempre ocupado."
+    },
+    {
+      "text": "Buenos días, llamo por el anuncio del piso.",
+      "en": "Good morning, I'm calling about the flat advert.",
+      "pt": "Bom dia, estou ligando por causa do anúncio do apartamento."
+    },
+    {
+      "text": "Te veo el lunes a las diez en la puerta.",
+      "en": "See you on Monday at ten at the door.",
+      "pt": "A gente se vê na segunda às dez na porta."
+    },
+    {
+      "text": "Perdona, no puedo hablar, estoy en el cine.",
+      "en": "Sorry, I can't talk, I'm at the cinema.",
+      "pt": "Desculpa, não posso falar, estou no cinema."
+    },
+    {
+      "text": "¿Me puede llamar mañana por la mañana?",
+      "en": "Could you call me tomorrow morning?",
+      "pt": "Pode me ligar amanhã de manhã?"
+    },
+    {
+      "text": "Voy a apuntar la cita en mi agenda.",
+      "en": "I'm going to write the appointment in my diary.",
+      "pt": "Vou anotar o compromisso na minha agenda."
+    }
+  ]
+}

@@ -40,7 +40,7 @@ class NativeEngineModule : Module() {
     val version = context.packageManager.getPackageInfo(context.packageName, 0).lastUpdateTime.toString()
     if (stamp.exists() && stamp.readText() == version) return dir
     dir.deleteRecursively()
-    for (name in listOf("kokoro", "espeak-ng-data", "mt", "llm")) copyAssets(context.assets, name, File(dir, name))
+    for (name in listOf("kokoro", "espeak-ng-data")) copyAssets(context.assets, name, File(dir, name))
     stamp.writeText(version)
     return dir
   }

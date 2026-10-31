@@ -1,4 +1,4 @@
-// The weights bundled in the APK, unpacked once into app storage (ONNX Runtime and llama.cpp need file paths).
+// The weights bundled in the APK, unpacked once into app storage (ONNX Runtime and eSpeak need file paths).
 import { File } from "expo-file-system";
 import NativeEngine from "../../modules/native-engine";
 

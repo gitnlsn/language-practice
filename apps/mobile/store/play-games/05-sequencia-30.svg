@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" fill="#F6F3EE"/>
+<circle cx="256" cy="256" r="232" fill="#2A56C6"/>
+<circle cx="256" cy="256" r="206" fill="none" stroke="#F6F3EE" stroke-opacity="0.18" stroke-width="6"/>
+<path d="M256 104 C300 170 364 212 364 300 C364 366 316 412 256 412 C196 412 148 366 148 300 C148 244 182 210 204 168 C212 212 228 232 246 240 C234 194 234 148 256 104 Z" fill="#F6F3EE"/><text x="256" y="372" font-size="112" fill="#D97E0E" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" text-anchor="middle">30</text><polygon points="142.0,124.0 148.9,140.5 166.7,142.0 153.1,153.6 157.3,171.0 142.0,161.7 126.7,171.0 130.9,153.6 117.3,142.0 135.1,140.5" fill="#D97E0E" stroke="#D97E0E" stroke-width="6" stroke-linejoin="round"/><polygon points="376.0,108.0 381.3,120.7 395.0,121.8 384.6,130.8 387.8,144.2 376.0,137.0 364.2,144.2 367.4,130.8 357.0,121.8 370.7,120.7" fill="#D97E0E" stroke="#D97E0E" stroke-width="6" stroke-linejoin="round"/>
+</svg>

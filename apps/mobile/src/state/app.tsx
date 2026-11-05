@@ -1,6 +1,6 @@
 // App state: settings and sentence history, persisted on the device (expo-sqlite key-value store), plus the
 // deck currently loaded in Practice. Same keys and list rules as the web app (@viva-voz/core).
-import { createContext, useCallback, useContext, useMemo, useState, type ReactNode } from "react";
+import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { Storage } from "expo-sqlite/kv-store";
 import {
   addSentences,
@@ -11,6 +11,8 @@ import {
   type Sentence,
   type Settings,
 } from "@viva-voz/core";
+import { bindApp, recordRemoved, scheduleSave } from "../games/playGames";
+import { recordSaved } from "../games/progress";
 
 function loadSettings(): Settings {
   const s = parseSettings(Storage.getItemSync(SETTINGS_KEY));
@@ -65,6 +67,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
   const updateSentence = useCallback(
     (id: string, patch: Partial<Sentence>) => {
+      if (patch.favorite) recordSaved();
       saveList((l) => l.map((s) => (s.id === id ? { ...s, ...patch } : s)));
       setDeck((d) => d.map((s) => (s.id === id ? { ...s, ...patch } : s)));
     },
@@ -73,9 +76,29 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
   const removeSentence = useCallback(
     (id: string) => {
+      recordRemoved(id);
       saveList((l) => l.filter((s) => s.id !== id));
       setDeck((d) => d.filter((s) => s.id !== id));
     },
+    [saveList],
+  );
+
+  // Play Games cloud save: lets it read this phone's data and apply the merged result, and backs up after changes.
+  const latest = useRef({ settings, sentences });
+  useEffect(() => {
+    latest.current = { settings, sentences };
+    scheduleSave();
+  }, [settings, sentences]);
+  useEffect(
+    () =>
+      bindApp(
+        () => latest.current,
+        (d) => {
+          setSettingsState(d.settings);
+          void Storage.setItem(SETTINGS_KEY, JSON.stringify(d.settings));
+          saveList(() => d.sentences);
+        },
+      ),
     [saveList],
   );
 

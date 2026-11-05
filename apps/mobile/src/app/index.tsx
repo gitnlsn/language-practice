@@ -8,6 +8,7 @@ import { PlayerBar } from "../components/PlayerBar";
 import { ScreenHeader } from "../components/ScreenHeader";
 import { SessionBar, SessionSheet, type SheetSection } from "../components/SessionSheet";
 import { pickSentences } from "../engine/bank";
+import { getPlus, isFreeLevel, openPaywall, takeSet } from "../plus/plus";
 import { useApp } from "../state/app";
 import { radius, serif, useColors } from "../theme";
 
@@ -21,6 +22,11 @@ export default function Practice() {
 
   function generate() {
     const { target, native, level, count, topic } = settings;
+    if (!isFreeLevel(level) && !getPlus().active) {
+      openPaywall(`${level} is part of Eco Plus. A1 and A2 stay free.`);
+      return;
+    }
+    if (!takeSet()) return;
     deckRef.current?.stopAll();
     const seen = new Set(sentences.filter((s) => s.target === target).map((s) => s.text));
     const picked = pickSentences({ target, native, level, topic, count, seen });

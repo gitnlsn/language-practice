@@ -3,6 +3,7 @@ import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from "react-nati
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import { LEVELS, TOPICS, type Level, type Settings, type TargetLang } from "@viva-voz/core";
+import { isFreeLevel, openPaywall, usePlus } from "../plus/plus";
 import { radius, serif, useColors } from "../theme";
 
 type IconName = keyof typeof Ionicons.glyphMap;
@@ -78,6 +79,7 @@ export function SessionSheet(props: {
   const c = useColors();
   const insets = useSafeAreaInsets();
   const { settings, onChange } = props;
+  const plus = usePlus();
 
   return (
     <Modal visible={props.open != null} transparent animationType="slide" onRequestClose={props.onClose} statusBarTranslucent>
@@ -106,13 +108,18 @@ export function SessionSheet(props: {
           <View style={styles.levels}>
             {LEVELS.map((l) => {
               const on = settings.level === l;
+              const locked = !plus.active && !isFreeLevel(l);
               return (
                 <Pressable
                   key={l}
-                  onPress={() => onChange({ level: l })}
+                  accessibilityLabel={locked ? `${l}, Eco Plus` : l}
+                  onPress={() => (locked ? openPaywall(`${l} is part of Eco Plus. A1 and A2 stay free.`) : onChange({ level: l }))}
                   style={[styles.level, { backgroundColor: on ? c.accent : c.surface, borderColor: on ? c.accent : c.line }]}
                 >
-                  <Text style={[styles.levelCode, { color: on ? c.accentInk : c.text }]}>{l}</Text>
+                  <View style={styles.levelTop}>
+                    <Text style={[styles.levelCode, { color: on ? c.accentInk : locked ? c.muted : c.text }]}>{l}</Text>
+                    {locked && <Ionicons name="lock-closed" size={11} color={c.muted} />}
+                  </View>
                   <Text style={[styles.levelHint, { color: on ? c.accentInk : c.muted }]} numberOfLines={1}>
                     {LEVEL_HINT[l]}
                   </Text>
@@ -165,6 +172,7 @@ const styles = StyleSheet.create({
   langHello: { fontFamily: serif, fontSize: 24 },
   levels: { flexDirection: "row", gap: 6 },
   level: { flex: 1, borderWidth: 1, borderRadius: 12, paddingVertical: 10, alignItems: "center", gap: 2 },
+  levelTop: { flexDirection: "row", alignItems: "center", gap: 3 },
   levelCode: { fontSize: 16, fontWeight: "700" },
   levelHint: { fontSize: 10 },
   topics: { flexDirection: "row", flexWrap: "wrap", gap: 8 },

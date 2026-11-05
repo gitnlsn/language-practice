@@ -27,6 +27,12 @@
       "react-native-audio-api",
       "expo-asset",
       "./plugins/withModelAssets",
+      [
+        "./plugins/withPlayGames",
+        {
+          "appId": "869150898345"
+        }
+      ],
       "expo-router",
       "expo-sqlite",
       [

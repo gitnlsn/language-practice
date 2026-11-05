@@ -5,6 +5,7 @@ import { useFocusEffect } from "expo-router";
 import { repeatPauseMs, type Sentence } from "@viva-voz/core";
 import { useApp } from "../state/app";
 import { speaker } from "../engine/speaker";
+import { recordHeard } from "../games/progress";
 import { SentenceCard, type PlayState } from "./SentenceCard";
 
 export interface DeckHandle {
@@ -85,7 +86,10 @@ export const Deck = forwardRef<DeckHandle, Props>(function Deck(props, ref) {
           engine: s.engine,
           voice: s.voices[item.target],
           speed: s.speed,
-          onStart: () => id === speakId.current && setPlaying({ id: item.id, state: "speaking" }),
+          onStart: () => {
+            recordHeard(item);
+            if (id === speakId.current) setPlaying({ id: item.id, state: "speaking" });
+          },
         });
       } finally {
         if (id === speakId.current) setPlaying(null);

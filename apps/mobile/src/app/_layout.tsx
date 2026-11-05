@@ -5,6 +5,9 @@ import { Ionicons } from "@expo/vector-icons";
 import { StatusBar } from "expo-status-bar";
 import { AppProvider } from "../state/app";
 import { warmUp } from "../engine/status";
+import { startGames } from "../games/playGames";
+import { Paywall } from "../components/Paywall";
+import { startPlus } from "../plus/plus";
 import { useColors } from "../theme";
 
 const icon = (on: keyof typeof Ionicons.glyphMap, off: keyof typeof Ionicons.glyphMap) =>
@@ -18,6 +21,8 @@ function AppTabs() {
   // Load the voice in the background so the first Listen doesn't wait for it.
   useEffect(() => {
     void warmUp();
+    void startGames();
+    startPlus();
   }, []);
 
   return (
@@ -37,6 +42,7 @@ function AppTabs() {
         <Tabs.Screen name="saved" options={{ title: "Saved", tabBarIcon: icon("bookmark", "bookmark-outline") }} />
         <Tabs.Screen name="setup" options={{ title: "Setup", tabBarIcon: icon("settings", "settings-outline") }} />
       </Tabs>
+      <Paywall />
     </>
   );
 }

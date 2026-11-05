@@ -7,6 +7,10 @@ import { Segmented } from "../components/controls";
 import { ScreenHeader } from "../components/ScreenHeader";
 import { speaker } from "../engine/speaker";
 import { useEngineStatus, type Part, type PartState } from "../engine/status";
+import { CLOUD_SAVE } from "../games/ids";
+import { showAchievements, showLeaderboards, signIn, syncSave, useGames } from "../games/playGames";
+import { totals, useProgress } from "../games/progress";
+import { FREE_SETS_PER_DAY, manageSubscription, openPaywall, restore, setsLeftToday, usePlus } from "../plus/plus";
 import { useApp } from "../state/app";
 import { radius, useColors, type Colors } from "../theme";
 
@@ -43,6 +47,111 @@ function Row({ icon, title, detail, right, first }: { icon: IconName; title: str
   );
 }
 
+function Action({ label, icon, onPress, disabled }: { label: string; icon: IconName; onPress: () => void; disabled?: boolean }) {
+  const c = useColors();
+  return (
+    <Pressable
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      accessibilityState={{ disabled }}
+      disabled={disabled}
+      onPress={onPress}
+      style={({ pressed }) => [styles.action, { backgroundColor: c.accentSoft }, (pressed || disabled) && { opacity: 0.6 }]}
+    >
+      <Ionicons name={icon} size={16} color={c.accent} />
+      <Text style={[styles.actionText, { color: c.accent }]}>{label}</Text>
+    </Pressable>
+  );
+}
+
+function PlusSection() {
+  const c = useColors();
+  const plus = usePlus();
+  return (
+    <Section title="ECO PLUS">
+      {plus.active ? (
+        <Row
+          first
+          icon="sparkles-outline"
+          title="Eco Plus is on"
+          detail="All levels, unlimited sets and cloud save."
+          right={<Action label="Manage" icon="open-outline" onPress={manageSubscription} />}
+        />
+      ) : (
+        <Row
+          first
+          icon="sparkles-outline"
+          title="Free plan"
+          detail={`A1–A2 · ${setsLeftToday()} of ${FREE_SETS_PER_DAY} sets left today`}
+          right={<Action label="See plans" icon="arrow-forward" onPress={() => openPaywall()} />}
+        />
+      )}
+      {!plus.active && (
+        <Row
+          icon="refresh-outline"
+          title="Already subscribed?"
+          detail="Bring back Eco Plus from your Google Play account."
+          right={<Action label="Restore" icon="refresh-outline" onPress={() => void restore()} disabled={plus.busy} />}
+        />
+      )}
+      {plus.error && !plus.paywallOpen && <Text style={[styles.note, { color: c.bad, borderTopColor: c.line }]}>{plus.error}</Text>}
+    </Section>
+  );
+}
+
+function PlayGamesSection() {
+  const c = useColors();
+  const games = useGames();
+  const plus = usePlus();
+  const t = totals(useProgress());
+  if (!games.available) return null;
+  const signedIn = games.status === "signedIn";
+  const synced = games.lastSync ? `Backed up at ${new Date(games.lastSync).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}` : "Not backed up yet";
+
+  return (
+    <Section title="GOOGLE PLAY GAMES">
+      <Row
+        first
+        icon="game-controller-outline"
+        title={signedIn ? (games.player?.name ?? "Signed in") : "Play Games"}
+        detail={
+          signedIn
+            ? `${t.sentences} ${t.sentences === 1 ? "sentence" : "sentences"} heard · ${t.currentStreak}-day streak (best ${t.bestStreak})`
+            : `Sign in to earn achievements${CLOUD_SAVE ? ", join leaderboards and back up your sentences" : " and join leaderboards"}.`
+        }
+        right={
+          signedIn ? (
+            <Ionicons name="checkmark-circle" size={22} color={c.ok} accessibilityLabel="Signed in" />
+          ) : (
+            <Action label="Sign in" icon="log-in-outline" onPress={() => void signIn()} disabled={games.status === "checking"} />
+          )
+        }
+      />
+      {signedIn && (
+        <>
+          <Row icon="trophy-outline" title="Achievements" right={<Action label="Open" icon="open-outline" onPress={() => void showAchievements()} />} />
+          <Row icon="podium-outline" title="Leaderboards" right={<Action label="Open" icon="open-outline" onPress={() => void showLeaderboards()} />} />
+          {CLOUD_SAVE && (
+            <Row
+              icon="cloud-upload-outline"
+              title="Cloud save"
+              detail={!plus.active ? "Part of Eco Plus" : games.syncing ? "Backing up…" : synced}
+              right={
+                plus.active ? (
+                  <Action label="Back up" icon="sync-outline" onPress={() => void syncSave({ manual: true })} disabled={games.syncing} />
+                ) : (
+                  <Action label="Plus" icon="sparkles-outline" onPress={() => openPaywall("Back up your sentences with Eco Plus.")} />
+                )
+              }
+            />
+          )}
+        </>
+      )}
+      {games.error && <Text style={[styles.note, { color: c.bad, borderTopColor: c.line }]}>{games.error}</Text>}
+    </Section>
+  );
+}
+
 function Badge({ s, c }: { s: PartState; c: Colors }) {
   if (s.status === "ready") return <Ionicons name="checkmark-circle" size={22} color={c.ok} accessibilityLabel="Ready" />;
   const [label, fg, bg] =
@@ -54,6 +163,7 @@ export default function Setup() {
   const c = useColors();
   const { settings, setSettings } = useApp();
   const engine = useEngineStatus();
+  const { available: playGames } = useGames();
 
   return (
     <ScrollView contentContainerStyle={styles.content}>
@@ -142,6 +252,10 @@ export default function Setup() {
         ))}
       </Section>
 
+      <PlusSection />
+
+      <PlayGamesSection />
+
       <Section title="ON THIS PHONE">
         {PARTS.map(({ part, icon, title, detail }, i) => {
           const s = engine[part];
@@ -153,7 +267,11 @@ export default function Setup() {
           detail="French and Spanish, A1–C1, with English and Portuguese translations"
           right={<Ionicons name="checkmark-circle" size={22} color={c.ok} accessibilityLabel="Ready" />}
         />
-        <Text style={[styles.note, { color: c.muted, borderTopColor: c.line }]}>Everything runs offline. Nothing is sent anywhere.</Text>
+        <Text style={[styles.note, { color: c.muted, borderTopColor: c.line }]}>
+          {playGames
+            ? `Everything runs offline. Only Google Play Games, if you sign in, sends your progress${CLOUD_SAVE ? " and saved sentences" : ""} to Google.`
+            : "Everything runs offline. Nothing is sent anywhere."}
+        </Text>
       </Section>
 
       <Text style={[styles.credits, { color: c.muted }]}>
@@ -175,6 +293,8 @@ const styles = StyleSheet.create({
   rowDetail: { fontSize: 13, lineHeight: 18 },
   control: { marginTop: 6 },
   test: { width: 44, height: 44, borderRadius: 22, alignItems: "center", justifyContent: "center" },
+  action: { flexDirection: "row", alignItems: "center", gap: 6, borderRadius: 999, paddingHorizontal: 12, paddingVertical: 8 },
+  actionText: { fontSize: 14, fontWeight: "700" },
   badge: { fontSize: 12, fontWeight: "700", paddingHorizontal: 10, paddingVertical: 4, borderRadius: 999, overflow: "hidden" },
   note: { fontSize: 13, paddingHorizontal: 14, paddingVertical: 12, borderTopWidth: StyleSheet.hairlineWidth },
   credits: { fontSize: 12, lineHeight: 18, textAlign: "center", paddingHorizontal: 8 },

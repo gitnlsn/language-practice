@@ -1,0 +1,22 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'com.vivavoz'
+version = '1.0.0'
+
+android {
+  namespace "expo.modules.playgames"
+  defaultConfig {
+    versionCode 1
+    versionName "1.0.0"
+  }
+}
+
+dependencies {
+  implementation 'com.facebook.react:react-android'
+  implementation 'com.google.android.gms:play-services-games-v2:22.1.0'
+  // Task.await(); same version as the coroutines expo-modules-core already ships.
+  implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.10.2'
+}

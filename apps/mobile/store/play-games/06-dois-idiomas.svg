@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" fill="#F6F3EE"/>
+<circle cx="256" cy="256" r="232" fill="#2A56C6"/>
+<circle cx="256" cy="256" r="206" fill="none" stroke="#F6F3EE" stroke-opacity="0.18" stroke-width="6"/>
+<path d="M152 130 H256 Q300 130 300 174 V224 Q300 268 256 268 H204 L148 320 L160 268 H152 Q108 268 108 224 V174 Q108 130 152 130 Z" fill="#F6F3EE"/><text x="204" y="222" font-size="70" fill="#2A56C6" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" text-anchor="middle">FR</text><g transform="translate(512,0) scale(-1,1)"><path d="M152 230 H256 Q300 230 300 274 V324 Q300 368 256 368 H204 L148 420 L160 368 H152 Q108 368 108 324 V274 Q108 230 152 230 Z" fill="#D97E0E"/></g><text x="308" y="322" font-size="70" fill="#F6F3EE" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" text-anchor="middle">ES</text>
+</svg>

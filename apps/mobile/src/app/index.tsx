@@ -95,6 +95,7 @@ export default function Practice() {
         empty={empty}
         bottomInset={deck.length > 0 ? 96 : 24}
         onPlayAllChange={setPlayingAll}
+        preloadAll
       />
       {deck.length > 0 && (
         <PlayerBar

@@ -27,6 +27,8 @@ export function SentenceCard(props: {
   index: number;
   mode: PracticeMode;
   play: PlayState;
+  /** Its audio is still being synthesized in the background. */
+  preparing?: boolean;
   current: boolean;
   yourTurn: boolean;
   onPlay: () => void;
@@ -67,7 +69,7 @@ export function SentenceCard(props: {
       <View style={styles.top}>
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel={busy ? "Stop" : "Listen"}
+          accessibilityLabel={busy ? "Stop" : props.preparing ? "Listen (audio loading)" : "Listen"}
           onPress={props.onPlay}
           hitSlop={6}
           style={({ pressed }) => [
@@ -78,6 +80,8 @@ export function SentenceCard(props: {
         >
           {props.play === "loading" ? (
             <ActivityIndicator color={c.accentInk} />
+          ) : props.preparing && !busy ? (
+            <ActivityIndicator color={c.accent} />
           ) : (
             <Ionicons name={busy ? "stop" : "play"} size={22} color={busy ? c.accentInk : c.accent} style={!busy && styles.playNudge} />
           )}

@@ -1,5 +1,5 @@
 // A list of sentence cards with single play, and "play all with pauses" (shadowing). Port of apps/web/src/ui/deck.ts.
-import { forwardRef, useCallback, useEffect, useImperativeHandle, useRef, useState, type ReactElement } from "react";
+import { forwardRef, useCallback, useEffect, useImperativeHandle, useLayoutEffect, useReducer, useRef, useState, type ReactElement } from "react";
 import { FlatList, StyleSheet, View } from "react-native";
 import { useFocusEffect } from "expo-router";
 import { repeatPauseMs, type Sentence } from "@viva-voz/core";
@@ -21,10 +21,12 @@ interface Props {
   footer?: ReactElement;
   /** Space kept clear at the bottom (e.g. for the floating player). */
   bottomInset?: number;
+  /** Synthesize every sentence as soon as the set appears, rather than just the next couple. */
+  preloadAll?: boolean;
 }
 
 export const Deck = forwardRef<DeckHandle, Props>(function Deck(props, ref) {
-  const { onPlayAllChange } = props;
+  const { onPlayAllChange, preloadAll } = props;
   const { settings, updateSentence, removeSentence } = useApp();
   const [current, setCurrent] = useState(0);
   const [playing, setPlaying] = useState<{ id: string; state: PlayState } | null>(null);
@@ -37,12 +39,23 @@ export const Deck = forwardRef<DeckHandle, Props>(function Deck(props, ref) {
   const settingsRef = useRef(settings);
   settingsRef.current = settings;
 
+  // Re-render when a sentence's audio is queued, ready or failed, to update its loading indicator.
+  const [audioVersion, audioChanged] = useReducer((n: number) => n + 1, 0);
+  useEffect(() => speaker.subscribe(audioChanged), []);
+
+  const request = (item: Sentence, s = settingsRef.current) => ({
+    text: item.text,
+    lang: item.target,
+    voice: s.voices[item.target],
+    speed: s.speed,
+  });
+  const kokoro = settings.engine === "kokoro";
+
   /** Warm the Kokoro cache for the next couple of sentences so playback starts instantly. */
   const prefetch = useCallback((from: number) => {
     const s = settingsRef.current;
     if (s.engine !== "kokoro") return;
-    for (const item of items.current.slice(from, from + 2))
-      speaker.synth(item.text, item.target, s.voices[item.target], s.speed).catch(() => {});
+    for (const item of items.current.slice(from, from + 2)) speaker.synth(request(item, s)).catch(() => {});
   }, []);
 
   const stopAll = useCallback(() => {
@@ -112,15 +125,23 @@ export const Deck = forwardRef<DeckHandle, Props>(function Deck(props, ref) {
 
   useImperativeHandle(ref, () => ({ playAll, stopAll }), [playAll, stopAll]);
 
-  // New set of sentences (first one changed): start at the top and get it ready to play. Sentences that stream
-  // in afterwards don't reset the position.
+  // New set of sentences (first one changed): start at the top. Sentences that stream in afterwards don't reset
+  // the position.
   const firstId = props.items[0]?.id;
   useEffect(() => {
     setCurrent(0);
-    prefetch(0);
     // Bring the new sentences into view; on Practice they'd otherwise sit below the controls.
     if (firstId) list.current?.scrollToIndex({ index: 0, viewPosition: 0, animated: true });
-  }, [firstId, prefetch]);
+  }, [firstId]);
+
+  // Get the audio ready before it's asked for: the whole set on Practice, the first couple elsewhere. Runs again
+  // when the set, voice or speed changes. Layout effect, so the cards never flash a play icon first.
+  const voiceKey = props.items.map((item) => `${settings.voices[item.target]}|${item.text}`).join("\n");
+  useLayoutEffect(() => {
+    if (!kokoro) return;
+    if (preloadAll) speaker.preload(items.current.map((item) => request(item)));
+    else prefetch(0);
+  }, [voiceKey, settings.speed, kokoro, preloadAll, prefetch]);
 
   // Leaving the tab stops playback, like switching views on the web.
   useFocusEffect(useCallback(() => () => stopAll(), [stopAll]));
@@ -135,6 +156,7 @@ export const Deck = forwardRef<DeckHandle, Props>(function Deck(props, ref) {
       ListHeaderComponent={props.header}
       ListEmptyComponent={props.empty}
       ListFooterComponent={props.footer ? <View style={styles.footer}>{props.footer}</View> : undefined}
+      extraData={audioVersion}
       onScrollToIndexFailed={() => {}}
       keyboardShouldPersistTaps="handled"
       renderItem={({ item, index }) => (
@@ -143,6 +165,7 @@ export const Deck = forwardRef<DeckHandle, Props>(function Deck(props, ref) {
           index={index}
           mode={settings.mode}
           play={playing?.id === item.id ? playing.state : "idle"}
+          preparing={kokoro && speaker.isPending(request(item, settings))}
           current={index === current}
           yourTurn={turn === item.id}
           onPlay={() => toggle(index)}
